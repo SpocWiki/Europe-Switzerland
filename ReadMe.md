@@ -112,8 +112,8 @@ id: Switzerland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Switzerland//
-markerFolder: ./Switzerland//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Switzerland] 
