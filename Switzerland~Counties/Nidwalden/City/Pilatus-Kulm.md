@@ -1,5 +1,5 @@
 ﻿---
-location: [46.98,8.27]
+location: [46.98,8.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.27]
-[geo-lat::46.98]
-[name::Pilatus-Kulm]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::8.27] 
+[geo-lat::46.98] 
+[name::Pilatus-Kulm] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pilatus-Kulm
-coordinates: [[Pilatus-Kulm]]
-markerFile: [[Pilatus-Kulm]]
+coordinates: [[Pilatus-Kulm]] 
+markerFile: [[Pilatus-Kulm]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

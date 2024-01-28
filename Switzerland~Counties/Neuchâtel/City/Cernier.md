@@ -1,5 +1,5 @@
 ﻿---
-location: [47.07,6.9]
+location: [47.07,6.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.9]
-[geo-lat::47.07]
-[name::Cernier]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::6.9] 
+[geo-lat::47.07] 
+[name::Cernier] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Cernier
-coordinates: [[Cernier]]
-markerFile: [[Cernier]]
+coordinates: [[Cernier]] 
+markerFile: [[Cernier]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

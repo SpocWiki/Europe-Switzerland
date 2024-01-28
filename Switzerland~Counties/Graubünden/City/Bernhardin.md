@@ -1,5 +1,5 @@
 ﻿---
-location: [46.5,9.17]
+location: [46.5,9.17] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.17]
-[geo-lat::46.5]
-[name::Bernhardin]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.17] 
+[geo-lat::46.5] 
+[name::Bernhardin] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bernhardin
-coordinates: [[Bernhardin]]
-markerFile: [[Bernhardin]]
+coordinates: [[Bernhardin]] 
+markerFile: [[Bernhardin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

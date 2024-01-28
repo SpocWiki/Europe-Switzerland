@@ -1,5 +1,5 @@
 ﻿---
-location: [47.56,7.59]
+location: [47.56,7.59] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.59]
-[geo-lat::47.56]
-[name::Basel]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::7.59] 
+[geo-lat::47.56] 
+[name::Basel] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Basel
-coordinates: [[Basel]]
-markerFile: [[Basel]]
+coordinates: [[Basel]] 
+markerFile: [[Basel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [46.52,9.4]
+location: [46.52,9.4] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.4]
-[geo-lat::46.52]
-[name::Montespluga]
-[State::]
-[Country::[[Italy]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.4] 
+[geo-lat::46.52] 
+[name::Montespluga] 
+State ::  
+Country :: [[../../../../../Europe~South/Italy]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Montespluga
-coordinates: [[Montespluga]]
-markerFile: [[Montespluga]]
+coordinates: [[Montespluga]] 
+markerFile: [[Montespluga]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

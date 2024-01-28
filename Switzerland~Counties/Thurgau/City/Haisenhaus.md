@@ -1,5 +1,5 @@
 ﻿---
-location: [47.65,9]
+location: [47.65,9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9]
-[geo-lat::47.65]
-[name::Haisenhaus]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9] 
+[geo-lat::47.65] 
+[name::Haisenhaus] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Haisenhaus
-coordinates: [[Haisenhaus]]
-markerFile: [[Haisenhaus]]
+coordinates: [[Haisenhaus]] 
+markerFile: [[Haisenhaus]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

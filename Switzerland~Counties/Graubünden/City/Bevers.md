@@ -1,5 +1,5 @@
 ﻿---
-location: [46.55,9.88]
+location: [46.55,9.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.88]
-[geo-lat::46.55]
-[name::Bevers]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.88] 
+[geo-lat::46.55] 
+[name::Bevers] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Bevers
-coordinates: [[Bevers]]
-markerFile: [[Bevers]]
+coordinates: [[Bevers]] 
+markerFile: [[Bevers]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

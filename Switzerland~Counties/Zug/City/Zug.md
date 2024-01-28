@@ -1,5 +1,5 @@
 ﻿---
-location: [47.17,8.52]
+location: [47.17,8.52] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.52]
-[geo-lat::47.17]
-[name::Zug]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::8.52] 
+[geo-lat::47.17] 
+[name::Zug] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zug
-coordinates: [[Zug]]
-markerFile: [[Zug]]
+coordinates: [[Zug]] 
+markerFile: [[Zug]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

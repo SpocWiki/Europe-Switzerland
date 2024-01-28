@@ -1,5 +1,5 @@
 ﻿---
-location: [46.48,8.8]
+location: [46.48,8.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.8]
-[geo-lat::46.48]
-[name::Faido]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::8.8] 
+[geo-lat::46.48] 
+[name::Faido] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Faido
-coordinates: [[Faido]]
-markerFile: [[Faido]]
+coordinates: [[Faido]] 
+markerFile: [[Faido]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

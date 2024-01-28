@@ -1,5 +1,5 @@
 ﻿---
-location: [47.03,8.78]
+location: [47.03,8.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.78]
-[geo-lat::47.03]
-[name::Oberiberg]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::8.78] 
+[geo-lat::47.03] 
+[name::Oberiberg] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Oberiberg
-coordinates: [[Oberiberg]]
-markerFile: [[Oberiberg]]
+coordinates: [[Oberiberg]] 
+markerFile: [[Oberiberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

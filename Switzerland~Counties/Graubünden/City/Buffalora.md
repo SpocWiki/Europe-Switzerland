@@ -1,5 +1,5 @@
 ﻿---
-location: [46.63,10.27]
+location: [46.63,10.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.27]
-[geo-lat::46.63]
-[name::Buffalora]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::10.27] 
+[geo-lat::46.63] 
+[name::Buffalora] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Buffalora
-coordinates: [[Buffalora]]
-markerFile: [[Buffalora]]
+coordinates: [[Buffalora]] 
+markerFile: [[Buffalora]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

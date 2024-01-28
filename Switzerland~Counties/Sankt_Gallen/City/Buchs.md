@@ -1,5 +1,5 @@
 ﻿---
-location: [47.17,9.47]
+location: [47.17,9.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.47]
-[geo-lat::47.17]
-[name::Buchs]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.47] 
+[geo-lat::47.17] 
+[name::Buchs] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Buchs
-coordinates: [[Buchs]]
-markerFile: [[Buchs]]
+coordinates: [[Buchs]] 
+markerFile: [[Buchs]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

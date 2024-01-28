@@ -1,5 +1,5 @@
 ﻿---
-location: [47.62,8.33]
+location: [47.62,8.33] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.33]
-[geo-lat::47.62]
-[name::Muri]
-[State::]
-[Country[[../../../../Switzerland]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::8.33] 
+[geo-lat::47.62] 
+[name::Muri] 
+State ::  
+Country :: [[../../../../Switzerland]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Muri
-coordinates: [[Muri]]
-markerFile: [[Muri]]
+coordinates: [[Muri]] 
+markerFile: [[Muri]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

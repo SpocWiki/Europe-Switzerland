@@ -1,5 +1,5 @@
 ﻿---
-location: [47.05,9.43]
+location: [47.05,9.43] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.43]
-[geo-lat::47.05]
-[name::Sargans]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.43] 
+[geo-lat::47.05] 
+[name::Sargans] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sargans
-coordinates: [[Sargans]]
-markerFile: [[Sargans]]
+coordinates: [[Sargans]] 
+markerFile: [[Sargans]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

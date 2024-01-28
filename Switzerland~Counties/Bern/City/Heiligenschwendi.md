@@ -1,5 +1,5 @@
 ﻿---
-location: [46.75,7.68]
+location: [46.75,7.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.68]
-[geo-lat::46.75]
-[name::Heiligenschwendi]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::7.68] 
+[geo-lat::46.75] 
+[name::Heiligenschwendi] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Heiligenschwendi
-coordinates: [[Heiligenschwendi]]
-markerFile: [[Heiligenschwendi]]
+coordinates: [[Heiligenschwendi]] 
+markerFile: [[Heiligenschwendi]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [46.68,6.92]
+location: [46.68,6.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.92]
-[geo-lat::46.68]
-[name::Romont]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::6.92] 
+[geo-lat::46.68] 
+[name::Romont] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Romont
-coordinates: [[Romont]]
-markerFile: [[Romont]]
+coordinates: [[Romont]] 
+markerFile: [[Romont]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

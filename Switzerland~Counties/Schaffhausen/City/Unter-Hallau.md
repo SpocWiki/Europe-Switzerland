@@ -1,5 +1,5 @@
 ﻿---
-location: [47.7,8.45]
+location: [47.7,8.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.45]
-[geo-lat::47.7]
-[name::Unter-Hallau]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::8.45] 
+[geo-lat::47.7] 
+[name::Unter-Hallau] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Unter-Hallau
-coordinates: [[Unter-Hallau]]
-markerFile: [[Unter-Hallau]]
+coordinates: [[Unter-Hallau]] 
+markerFile: [[Unter-Hallau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

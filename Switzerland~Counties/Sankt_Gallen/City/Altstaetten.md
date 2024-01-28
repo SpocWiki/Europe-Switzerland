@@ -1,5 +1,5 @@
 ﻿---
-location: [47.38,9.55]
+location: [47.38,9.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.55]
-[geo-lat::47.38]
-[name::Altstaetten]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.55] 
+[geo-lat::47.38] 
+[name::Altstaetten] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Altstaetten
-coordinates: [[Altstaetten]]
-markerFile: [[Altstaetten]]
+coordinates: [[Altstaetten]] 
+markerFile: [[Altstaetten]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

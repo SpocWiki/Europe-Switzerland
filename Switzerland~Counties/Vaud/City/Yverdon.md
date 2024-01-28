@@ -1,5 +1,5 @@
 ﻿---
-location: [46.78,6.65]
+location: [46.78,6.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.65]
-[geo-lat::46.78]
-[name::Yverdon]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::6.65] 
+[geo-lat::46.78] 
+[name::Yverdon] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Yverdon
-coordinates: [[Yverdon]]
-markerFile: [[Yverdon]]
+coordinates: [[Yverdon]] 
+markerFile: [[Yverdon]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

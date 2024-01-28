@@ -1,5 +1,5 @@
 ﻿---
-location: [46.93,7.78]
+location: [46.93,7.78] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.78]
-[geo-lat::46.93]
-[name::Langnau]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::7.78] 
+[geo-lat::46.93] 
+[name::Langnau] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Langnau
-coordinates: [[Langnau]]
-markerFile: [[Langnau]]
+coordinates: [[Langnau]] 
+markerFile: [[Langnau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

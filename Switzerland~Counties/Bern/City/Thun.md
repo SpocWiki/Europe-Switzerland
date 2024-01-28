@@ -1,5 +1,5 @@
 ﻿---
-location: [46.77,7.62]
+location: [46.77,7.62] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.62]
-[geo-lat::46.77]
-[name::Thun]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::7.62] 
+[geo-lat::46.77] 
+[name::Thun] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Thun
-coordinates: [[Thun]]
-markerFile: [[Thun]]
+coordinates: [[Thun]] 
+markerFile: [[Thun]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [47.65,9.18]
+location: [47.65,9.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.18]
-[geo-lat::47.65]
-[name::Kreuzlingen]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.18] 
+[geo-lat::47.65] 
+[name::Kreuzlingen] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kreuzlingen
-coordinates: [[Kreuzlingen]]
-markerFile: [[Kreuzlingen]]
+coordinates: [[Kreuzlingen]] 
+markerFile: [[Kreuzlingen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

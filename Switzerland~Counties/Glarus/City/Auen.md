@@ -1,5 +1,5 @@
 ﻿---
-location: [46.9,8.98]
+location: [46.9,8.98] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.98]
-[geo-lat::46.9]
-[name::Auen]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::8.98] 
+[geo-lat::46.9] 
+[name::Auen] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Auen
-coordinates: [[Auen]]
-markerFile: [[Auen]]
+coordinates: [[Auen]] 
+markerFile: [[Auen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

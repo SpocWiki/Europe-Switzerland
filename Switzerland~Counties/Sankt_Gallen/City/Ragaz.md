@@ -1,5 +1,5 @@
 ﻿---
-location: [47.02,9.5]
+location: [47.02,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.5]
-[geo-lat::47.02]
-[name::Ragaz]
-[State::]
-[Country::[[Switzerland]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::9.5] 
+[geo-lat::47.02] 
+[name::Ragaz] 
+State ::  
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ragaz
-coordinates: [[Ragaz]]
-markerFile: [[Ragaz]]
+coordinates: [[Ragaz]] 
+markerFile: [[Ragaz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
