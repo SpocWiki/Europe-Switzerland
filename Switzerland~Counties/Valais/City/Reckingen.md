@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.47,8.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,10 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [Reckingen](Reckingen.md) 
+
 [geo-lon::8.23] 
 [geo-lat::46.47] 
 [name::Reckingen] 
-State :: Wallis] 
+State :: [Valais](../../Valais.md)  
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 

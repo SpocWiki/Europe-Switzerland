@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.38,7.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,11 +12,14 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [Leukerbad](Leukerbad.md)
+
 [geo-lon::7.62] 
 [geo-lat::46.38] 
 [name::Leukerbad] 
-State ::  
-Country :: [[Switzerland]]  
+State ::  [Valais](../../../../../Valais.md) 
+Country :: [Switzerland](../../../../../../../Switzerland.md)   
 [StateId::] 
 [Population::] 
 [Unknown::] 

@@ -1,8 +1,13 @@
 ---
-location: [ 46.2 , 6.1 ] 
-type: geo-Region
+location: [46.18,6.15] 
+mapzoom: [7,12] 
+mapmarker: city 
+type: 
+- City
+- geo-Region
 title: Genève
 
+SpocWebEntityId: 30409
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
@@ -11,6 +16,7 @@ draft: false
 confidential: public
 
 tags:
+- geo/City
 - geo/Country/Region
 aliases:
 - Genève
@@ -27,13 +33,32 @@ publishDate:
 expiryDate: 
 ---
 
-# Genève
+# [Genève](Genève.md)
+
+[geo-lon::6.15] 
+[geo-lat::46.18] 
+[name::Genf=Geneva] 
+State ::  [[Genève]]
+Country :: [[Switzerland]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
+
+#has_/name_/en_ :: Geneva 
+#has_/name_/de_ :: Genf 
+#has_/name_/fr_ :: Genève 
+
 
 ```leaflet
 id: Genève
-zoomFeatures: true 
+coordinates: [[Genève]] 
+markerFile: [[Genève]] 
+
+zoomFeatures: false 
+
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 10 
 geojsonFolder: ./Genève/
 markerFolder: ./Genève/
 ```

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.2,7.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -14,7 +14,7 @@ confidential: public
 ---
 [geo-lon::7.85] 
 [geo-lat::46.2] 
-[name::Graechen] 
+[name::Grächen] 
 State ::  
 Country :: [[Switzerland]]  
 [StateId::] 
