@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.63] 
-[geo-lat::46.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.63] 
+[has_place_latitude::46.98] 
 [name::Brevine Ia] 
 State ::  
 Country :: [[Switzerland]]  

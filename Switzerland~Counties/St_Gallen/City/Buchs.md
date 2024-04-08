@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.47] 
-[geo-lat::47.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.47] 
+[has_place_latitude::47.17] 
 [name::Buchs] 
 State ::  
 Country :: [[Switzerland]]  

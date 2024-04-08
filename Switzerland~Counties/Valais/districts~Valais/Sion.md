@@ -15,8 +15,10 @@ confidential: public
 
 # [Sion](Sion.md) 
 
-[geo-lon::7.37] 
-[geo-lat::46.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.37] 
+[has_place_latitude::46.23] 
 [name::Sion] 
 State ::  [[../../Valais]]
 Country :: [[../../../../Switzerland]]  

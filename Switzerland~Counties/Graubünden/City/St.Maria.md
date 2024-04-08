@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.42] 
-[geo-lat::46.6] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.42] 
+[has_place_latitude::46.6] 
 [name::St.Maria] 
 State ::  
 Country :: [[Switzerland]]  

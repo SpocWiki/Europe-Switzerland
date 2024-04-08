@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.78] 
-[geo-lat::47.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.78] 
+[has_place_latitude::47.55] 
 [name::Rheinfelden] 
 Country :: [[Germany]]  
 State :: [[../../Baden-Wuerttemberg]]  

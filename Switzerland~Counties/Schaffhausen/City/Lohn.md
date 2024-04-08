@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.67] 
-[geo-lat::47.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.67] 
+[has_place_latitude::47.75] 
 [name::Lohn] 
 State ::  
 Country :: [[Switzerland]]  

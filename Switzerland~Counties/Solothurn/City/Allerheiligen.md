@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.82] 
-[geo-lat::47.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.82] 
+[has_place_latitude::47.35] 
 [name::Allerheiligen] 
 State ::  
 Country :: [[Switzerland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.98] 
-[geo-lat::47.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.98] 
+[has_place_latitude::47.02] 
 [name::Chaumont] 
 State ::  
 Country :: [[Switzerland]]  

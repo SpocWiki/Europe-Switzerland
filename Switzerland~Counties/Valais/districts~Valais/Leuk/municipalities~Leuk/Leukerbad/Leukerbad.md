@@ -15,8 +15,10 @@ confidential: public
 
 # [Leukerbad](Leukerbad.md)
 
-[geo-lon::7.62] 
-[geo-lat::46.38] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.62] 
+[has_place_latitude::46.38] 
 [name::Leukerbad] 
 State ::  [Valais](../../../../../Valais.md) 
 Country :: [Switzerland](../../../../../../../Switzerland.md)   

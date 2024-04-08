@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.52] 
-[geo-lat::46.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.52] 
+[has_place_latitude::46.33] 
 [name::Castasegna] 
 State ::  
 Country :: [[Switzerland]]  

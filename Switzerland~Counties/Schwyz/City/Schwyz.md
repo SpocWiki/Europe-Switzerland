@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.65] 
-[geo-lat::47.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.65] 
+[has_place_latitude::47.02] 
 [name::Schwyz] 
 State ::  
 Country :: [[Switzerland]]  

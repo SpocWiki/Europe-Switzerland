@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.92] 
-[geo-lat::46.68] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.92] 
+[has_place_latitude::46.68] 
 [name::Romont] 
 State ::  
 Country :: [[Switzerland]]  

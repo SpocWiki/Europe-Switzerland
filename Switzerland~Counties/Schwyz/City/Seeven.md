@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.63] 
-[geo-lat::47.03] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.63] 
+[has_place_latitude::47.03] 
 [name::Seeven] 
 State ::  
 Country :: [[Switzerland]]  

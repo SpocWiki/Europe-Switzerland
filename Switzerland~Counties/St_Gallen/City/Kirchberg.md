@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.05] 
-[geo-lat::47.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.05] 
+[has_place_latitude::47.42] 
 [name::Kirchberg] 
 State :: Thurgau] 
 Country :: [[Switzerland]]  
