@@ -1,11 +1,13 @@
 ---
+title: Switzerland
+type: Country
 location:
 - 46.8963
 - 8.46058
-type: Country
+has_id_wikidata: Q39
+SpocWebEntityId: 26865
 tags:
 - geo/Country
-SpocWebEntityId: 26865
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
@@ -13,7 +15,6 @@ isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
-title: Switzerland
 linkTitle: 
 keywords: 
 layout: 
@@ -36,8 +37,11 @@ Languages:
 - fr-CH
 - it-CH
 - rm
+icon: flag-ch
 ---
 # [[Switzerland]] 
+
+## International Names
 
 [	ISO4217-currency_alphabetic	 :: CHF ] 
 [	ISO4217-currency_name	 :: Swiss Franc ] 
@@ -109,7 +113,7 @@ Sub-region_Name ::  [[Western Europe]]
 
 ```leaflet
 id: Switzerland
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: .//

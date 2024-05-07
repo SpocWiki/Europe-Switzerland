@@ -7,6 +7,7 @@ type:
 - geo-Region
 title: Genève
 
+has_id_wikidata: Q71 
 SpocWebEntityId: 30409
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.38,8.54] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -6,7 +6,7 @@ type: City
 tags:
 - geo/City
 
-
+has_id_wikidata: Q72 
 SpocWebEntityId: 35873
 isDeleted: false
 confidential: public
@@ -30,6 +30,8 @@ coordinates: [[Zuerich=Zurich]]
 markerFile: [[Zuerich=Zurich]] 
 defaultZoom: 11 
 maxZoom: 18
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 
