@@ -34,14 +34,14 @@ publishDate:
 expiryDate: 
 ---
 
-# [Genève](Genève.md)
+# [Genève,Canton](Genève,Canton.md)
 
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::6.15] 
 [has_place_latitude::46.18] 
 [name::Genf=Geneva] 
-State ::  [[Genève]]
+State ::  [[Genève,Canton]]
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 

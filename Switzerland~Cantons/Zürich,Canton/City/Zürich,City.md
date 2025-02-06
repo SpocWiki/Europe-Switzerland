@@ -1,17 +1,24 @@
 ---
-location: [47.38,8.54] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 47.38
+  - 8.54
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-has_id_wikidata: Q72 
+  - geo/City
+has_id_wikidata: Q72
 SpocWebEntityId: 35873
 isDeleted: false
 confidential: public
-
+aliases:
+  - Zurich
+  - Zuerich
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::8.54] 
