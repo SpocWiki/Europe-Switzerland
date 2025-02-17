@@ -1,3 +1,126 @@
+---
+has_id_wikidata: Q71
+shares border with:
+  - "[[_Standards/WikiData/WD~Cologny,69245]]"
+  - "[[_Standards/WikiData/WD~Carouge,69364]]"
+  - "[[_Standards/WikiData/WD~Chêne-Bougeries,69530]]"
+  - "[[_Standards/WikiData/WD~Veyrier,69587]]"
+  - "[[_Standards/WikiData/WD~Le Grand-Saconnex,69714]]"
+  - "[[_Standards/WikiData/WD~Pregny-Chambésy,69822]]"
+  - "[[_Standards/WikiData/WD~Vernier,63922]]"
+  - "[[_Standards/WikiData/WD~Lancy,64065]]"
+instance of:
+  - "[[_Standards/WikiData/WD~municipality of Switzerland,70208]]"
+  - "[[_Standards/WikiData/WD~college town,1187811]]"
+  - "[[_Standards/WikiData/WD~big city,1549591]]"
+  - "[[_Standards/WikiData/WD~cantonal capital of Switzerland,14770218]]"
+  - "[[_Standards/WikiData/WD~city of Switzerland,54935504]]"
+owner of:
+  - "[[_Standards/WikiData/WD~Geneva International Airport,289972]]"
+  - "[[_Standards/WikiData/WD~Tavel House,689746]]"
+  - "[[_Standards/WikiData/WD~Bains des Pâquis,2879960]]"
+described by source:
+  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Topographia Helvetiae, Rhaetiae et Valesiae,19230686]]"
+located in or next to body of water:
+  - "[[_Standards/WikiData/WD~Arve,633819]]"
+  - "[[_Standards/WikiData/WD~Rhône,602]]"
+  - "[[_Standards/WikiData/WD~Lake Geneva,6403]]"
+has list:
+  - "[[_Standards/WikiData/WD~list of mayors of Geneva,679968]]"
+  - "[[_Standards/WikiData/WD~list of people from Geneva,1864495]]"
+  - "[[_Standards/WikiData/WD~list of Geneva tramway stations,3254771]]"
+  - "[[_Standards/WikiData/WD~list of fiction set in Geneva,6619512]]"
+  - "[[_Standards/WikiData/WD~list of films shot in Geneva,86671731]]"
+different from: "[[_Standards/WikiData/WD~Geneva,1242034]]"
+member of: "[[_Standards/WikiData/WD~League of Historical Cities,9383972]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Geneva%20from%20Mount%20Sal%C3%A8ve.jpg
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Geneva%20panorama%20banner.jpg
+pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1860%20%28eng%29-Nattes%20%C3%A0%20chat-Geneva.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Rm-sursilv-Genevra.flac
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Roh-Genevra.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Genf2.ogg
+montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Views%20of%20Geneva.jpg
+described at URL: https://www.deutsche-militaerstandorte-nach1945.de/view_stadt.cfm?stadt_id=437
+Dewey Decimal Classification: 2--494516
+BHCL UUID:
+  - 39184712-cb68-44cd-ac29-892d6f8820aa
+  - a7ee1a6d-b8b1-444d-b720-fbfbc112c885
+Libris-URI: rp354p893t65r9c
+Instagram username: ville_de_geneve
+X (Twitter) username: villedegeneve
+Facebook username: villegeneve.ch
+demonym:
+  - xinebrín
+  - xinebrina
+  - xinebrino
+  - Genevoise
+  - Genfer
+  - ginevrini
+  - Genferin
+  - Genevois
+name:
+  - Gämf
+  - Gänf
+  - Genf
+  - Geneva
+  - Ginevra
+  - Genève
+  - Genevra
+  - Genf
+heritage designation: "[[_Standards/WikiData/WD~Swiss townscape worthy of protection,12127133]]"
+list of monuments: "[[_Standards/WikiData/WD~list of cultural properties in Geneva,14389813]]"
+archives at: "[[_Standards/WikiData/WD~Archives de la ville de Genève,17621489]]"
+office held by head of government: "[[_Standards/WikiData/WD~Mayor of Geneva,24703283]]"
+GitHub topic: geneva
+subreddit: geneva
+U.S. National Archives Identifier: "10045347"
+Wikimedia outline: "[[_Standards/WikiData/WD~Outline of Geneva,55628141]]"
+head of government: "[[_Standards/WikiData/WD~Alfonso Gomez Cruz,94929971]]"
+economy of topic: "[[_Standards/WikiData/WD~economy of Geneva,106020349]]"
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Stadt%20Genf%202020.png
+ISNI: "0000000121581391"
+external data available at URL: https://geo.ld.admin.ch/boundaries/municipality/6621
+official website: https://www.geneve.ch/
+present in work: "[[_Standards/WikiData/WD~Civilization V,2385]]"
+located in time zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+capital of: "[[_Standards/WikiData/WD~Canton of Geneva,11917]]"
+located in the administrative territorial entity: "[[_Standards/WikiData/WD~Canton of Geneva,11917]]"
+country: "[[_Standards/WikiData/WD~Switzerland,39]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+official language: "[[_Standards/WikiData/WD~French,150]]"
+elevation above sea level: 396
+local dialing code: "22"
+area: 15.92
+postal code:
+  - "1201"
+  - "1202"
+  - "1209"
+  - "1203"
+  - "1205"
+  - "1206"
+  - "1208"
+  - "1200"
+  - "1211"
+  - "1204"
+  - "1207"
+social media followers: 9239
+population: 203840
+Swiss municipality code: "6621"
+licence plate code: GE
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canton%20of%20Geneva.svg
+coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Wappen%20Genf%20matt.svg
+native label: Genève
+official name: Genève
+coordinate location: Point(6.15 46.2)
+Commons gallery: Genève
+OmegaWiki Defined Meaning: "931312"
+Commons category: Geneva
+---
 
 ## #has_/text_of_/abstract 
 
