@@ -33,69 +33,69 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Maur,64857]]'
 - '[[_Standards/WikiData/WD~Fällanden,64869]]'
 instance_of:
-- "[[_Standards/WikiData/WD~municipality of Switzerland,70208]]"
-- "[[_Standards/WikiData/WD~college town,1187811]]"
-- "[[_Standards/WikiData/WD~cantonal capital of Switzerland,14770218]]"
-- "[[_Standards/WikiData/WD~largest city,51929311]]"
-head_of_government: "[[_Standards/WikiData/WD~Corine Mauch,123363]]"
+- "[[_Standards/WikiData/WD~municipality_of_Switzerland,70208]]"
+- "[[_Standards/WikiData/WD~college_town,1187811]]"
+- "[[_Standards/WikiData/WD~cantonal_capital_of_Switzerland,14770218]]"
+- "[[_Standards/WikiData/WD~largest_city,51929311]]"
+head_of_government: "[[_Standards/WikiData/WD~Corine_Mauch,123363]]"
 twinned_administrative_body:
 - '[[_Standards/WikiData/WD~Vinnytsia,157144]]'
 - '[[_Standards/WikiData/WD~Kunming,182852]]'
-- "[[_Standards/WikiData/WD~San Francisco,62]]"
+- "[[_Standards/WikiData/WD~San_Francisco,62]]"
 different_from:
 - '[[_Standards/WikiData/WD~Zurich,230417]]'
-- "[[_Standards/WikiData/WD~Canton of Zürich,11943]]"
+- "[[_Standards/WikiData/WD~Canton_of_Zürich,11943]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Kreis 1,445559]]"
-- "[[_Standards/WikiData/WD~District 7,456149]]"
-- "[[_Standards/WikiData/WD~District 2,456153]]"
-- "[[_Standards/WikiData/WD~District 9,456159]]"
-- "[[_Standards/WikiData/WD~District 6,456170]]"
-- "[[_Standards/WikiData/WD~District 10,456175]]"
-- "[[_Standards/WikiData/WD~Kreis 5,460885]]"
-- "[[_Standards/WikiData/WD~Kreis 12,657525]]"
-- "[[_Standards/WikiData/WD~Kreis 3,675017]]"
-- "[[_Standards/WikiData/WD~Kreis 4,677133]]"
-- "[[_Standards/WikiData/WD~Kreis 8,677710]]"
-- "[[_Standards/WikiData/WD~District 11,870098]]"
+- "[[_Standards/WikiData/WD~Kreis_1,445559]]"
+- "[[_Standards/WikiData/WD~District_7,456149]]"
+- "[[_Standards/WikiData/WD~District_2,456153]]"
+- "[[_Standards/WikiData/WD~District_9,456159]]"
+- "[[_Standards/WikiData/WD~District_6,456170]]"
+- "[[_Standards/WikiData/WD~District_10,456175]]"
+- "[[_Standards/WikiData/WD~Kreis_5,460885]]"
+- "[[_Standards/WikiData/WD~Kreis_12,657525]]"
+- "[[_Standards/WikiData/WD~Kreis_3,675017]]"
+- "[[_Standards/WikiData/WD~Kreis_4,677133]]"
+- "[[_Standards/WikiData/WD~Kreis_8,677710]]"
+- "[[_Standards/WikiData/WD~District_11,870098]]"
 member_of:
-- "[[_Standards/WikiData/WD~International Association for Sports and Leisure Facilities,475646]]"
-- "[[_Standards/WikiData/WD~Climate Alliance,1768108]]"
-- "[[_Standards/WikiData/WD~KlimaBündnis-Städte Schweiz,1774367]]"
+- "[[_Standards/WikiData/WD~International_Association_for_Sports_and_Leisure_Facilities,475646]]"
+- "[[_Standards/WikiData/WD~Climate_Alliance,1768108]]"
+- "[[_Standards/WikiData/WD~KlimaBündnis-Städte_Schweiz,1774367]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat Encyclopedic Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Topographia Helvetiae, Rhaetiae et Valesiae,19230686]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Topographia_Helvetiae,_Rhaetiae_et_Valesiae,19230686]]"
 capital_of:
-- "[[_Standards/WikiData/WD~Zürich District,660732]]"
-- "[[_Standards/WikiData/WD~Canton of Zürich,11943]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Zürich District,660732]]"
+- "[[_Standards/WikiData/WD~Zürich_District,660732]]"
+- "[[_Standards/WikiData/WD~Canton_of_Zürich,11943]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Zürich_District,660732]]"
 located_in_or_next_to_body_of_water:
 - '[[_Standards/WikiData/WD~Sihl,660909]]'
 - '[[_Standards/WikiData/WD~Katzensee,672290]]'
 - '[[_Standards/WikiData/WD~Glatt,680765]]'
 - '[[_Standards/WikiData/WD~Limmat,14338]]'
-- "[[_Standards/WikiData/WD~Lake Zurich,14407]]"
+- "[[_Standards/WikiData/WD~Lake_Zurich,14407]]"
 owner_of:
-- "[[_Standards/WikiData/WD~Verkehrsbetriebe Zürich,682070]]"
-- "[[_Standards/WikiData/WD~Theater am Neumarkt Zürich,2416020]]"
-- "[[_Standards/WikiData/WD~Carolinum Zürich,16061290]]"
-- "[[_Standards/WikiData/WD~Villa Tobler,23073407]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Zurich,684180]]"
+- "[[_Standards/WikiData/WD~Verkehrsbetriebe_Zürich,682070]]"
+- "[[_Standards/WikiData/WD~Theater_am_Neumarkt_Zürich,2416020]]"
+- "[[_Standards/WikiData/WD~Carolinum_Zürich,16061290]]"
+- "[[_Standards/WikiData/WD~Villa_Tobler,23073407]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Zurich,684180]]"
 part_of:
-- "[[_Standards/WikiData/WD~Zurich metropolitan area,690149]]"
+- "[[_Standards/WikiData/WD~Zurich_metropolitan_area,690149]]"
 - '[[_Standards/WikiData/WD~Q95080684,95080684]]'
-- "[[_Standards/WikiData/WD~Canton of Zürich,11943]]"
-- "[[_Standards/WikiData/WD~Greater Zurich Area,30998]]"
+- "[[_Standards/WikiData/WD~Canton_of_Zürich,11943]]"
+- "[[_Standards/WikiData/WD~Greater_Zurich_Area,30998]]"
 has_list:
-- "[[_Standards/WikiData/WD~High-rises in Zürich,1621894]]"
-- "[[_Standards/WikiData/WD~list of museums in Zurich,1847313]]"
-- "[[_Standards/WikiData/WD~list of people from Zürich,1864192]]"
-- "[[_Standards/WikiData/WD~annual event in Zürich,6606006]]"
+- "[[_Standards/WikiData/WD~High-rises_in_Zürich,1621894]]"
+- "[[_Standards/WikiData/WD~list_of_museums_in_Zurich,1847313]]"
+- "[[_Standards/WikiData/WD~list_of_people_from_Zürich,1864192]]"
+- "[[_Standards/WikiData/WD~annual_event_in_Zürich,6606006]]"
 - '[[_Standards/WikiData/WD~Q105840341,105840341]]'
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Z%C3%BCrich.ogg"
@@ -187,19 +187,19 @@ Facebook_username: stadtzuerich
 X_Twitter_username: stadtzuerich
 official_name: Zürich
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Zürich,11384514]]'
-heritage_designation: "[[_Standards/WikiData/WD~Swiss townscape worthy of protection,12127133]]"
-list_of_monuments: "[[_Standards/WikiData/WD~list of cultural properties in Zürich,15827868]]"
-award_received: "[[_Standards/WikiData/WD~European City of the Reformation,20828891]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor of Zürich,21510223]]"
-legislative_body: "[[_Standards/WikiData/WD~Zurich City Parliament,21516057]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open data portal of the City of Zurich,96948812]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Zürich,100868367]]"
+heritage_designation: "[[_Standards/WikiData/WD~Swiss_townscape_worthy_of_protection,12127133]]"
+list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_Zürich,15827868]]"
+award_received: "[[_Standards/WikiData/WD~European_City_of_the_Reformation,20828891]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor_of_Zürich,21510223]]"
+legislative_body: "[[_Standards/WikiData/WD~Zurich_City_Parliament,21516057]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_data_portal_of_the_City_of_Zurich,96948812]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Zürich,100868367]]"
 time_of_earliest_written_record: "0929-01-01T00:00:00Z"
 Wolfram_Language_entity_code: "Entity[\"City\", {\"Zurich\", \"Zurich\", \"Switzerland\"}]"
 ISNI: 0000000122937775
 external_data_available_at_URL: "https://geo.ld.admin.ch/boundaries/municipality/261"
 coordinate_location: "Point(8.541111111 47.374444444)"
-present_in_work: "[[_Standards/WikiData/WD~Civilization V,2385]]"
+present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'

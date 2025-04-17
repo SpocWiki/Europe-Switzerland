@@ -5,38 +5,38 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Carouge,69364]]'
 - '[[_Standards/WikiData/WD~Chêne-Bougeries,69530]]'
 - '[[_Standards/WikiData/WD~Veyrier,69587]]'
-- "[[_Standards/WikiData/WD~Le Grand-Saconnex,69714]]"
+- "[[_Standards/WikiData/WD~Le_Grand-Saconnex,69714]]"
 - '[[_Standards/WikiData/WD~Pregny-Chambésy,69822]]'
 - '[[_Standards/WikiData/WD~Vernier,63922]]'
 - '[[_Standards/WikiData/WD~Lancy,64065]]'
 instance_of:
-- "[[_Standards/WikiData/WD~municipality of Switzerland,70208]]"
-- "[[_Standards/WikiData/WD~college town,1187811]]"
-- "[[_Standards/WikiData/WD~big city,1549591]]"
-- "[[_Standards/WikiData/WD~cantonal capital of Switzerland,14770218]]"
-- "[[_Standards/WikiData/WD~city of Switzerland,54935504]]"
+- "[[_Standards/WikiData/WD~municipality_of_Switzerland,70208]]"
+- "[[_Standards/WikiData/WD~college_town,1187811]]"
+- "[[_Standards/WikiData/WD~big_city,1549591]]"
+- "[[_Standards/WikiData/WD~cantonal_capital_of_Switzerland,14770218]]"
+- "[[_Standards/WikiData/WD~city_of_Switzerland,54935504]]"
 owner_of:
-- "[[_Standards/WikiData/WD~Geneva International Airport,289972]]"
-- "[[_Standards/WikiData/WD~Tavel House,689746]]"
-- "[[_Standards/WikiData/WD~Bains des Pâquis,2879960]]"
+- "[[_Standards/WikiData/WD~Geneva_International_Airport,289972]]"
+- "[[_Standards/WikiData/WD~Tavel_House,689746]]"
+- "[[_Standards/WikiData/WD~Bains_des_Pâquis,2879960]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Topographia Helvetiae, Rhaetiae et Valesiae,19230686]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Topographia_Helvetiae,_Rhaetiae_et_Valesiae,19230686]]"
 located_in_or_next_to_body_of_water:
 - '[[_Standards/WikiData/WD~Arve,633819]]'
 - '[[_Standards/WikiData/WD~Rhône,602]]'
-- "[[_Standards/WikiData/WD~Lake Geneva,6403]]"
+- "[[_Standards/WikiData/WD~Lake_Geneva,6403]]"
 has_list:
-- "[[_Standards/WikiData/WD~list of mayors of Geneva,679968]]"
-- "[[_Standards/WikiData/WD~list of people from Geneva,1864495]]"
-- "[[_Standards/WikiData/WD~list of Geneva tramway stations,3254771]]"
-- "[[_Standards/WikiData/WD~list of fiction set in Geneva,6619512]]"
-- "[[_Standards/WikiData/WD~list of films shot in Geneva,86671731]]"
+- "[[_Standards/WikiData/WD~list_of_mayors_of_Geneva,679968]]"
+- "[[_Standards/WikiData/WD~list_of_people_from_Geneva,1864495]]"
+- "[[_Standards/WikiData/WD~list_of_Geneva_tramway_stations,3254771]]"
+- "[[_Standards/WikiData/WD~list_of_fiction_set_in_Geneva,6619512]]"
+- "[[_Standards/WikiData/WD~list_of_films_shot_in_Geneva,86671731]]"
 different_from: '[[_Standards/WikiData/WD~Geneva,1242034]]'
-member_of: "[[_Standards/WikiData/WD~League of Historical Cities,9383972]]"
+member_of: "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Geneva%20from%20Mount%20Sal%C3%A8ve.jpg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Geneva%20panorama%20banner.jpg"
 pronunciation_audio:
@@ -72,24 +72,24 @@ name:
 - Genève
 - Genevra
 - Genf
-heritage_designation: "[[_Standards/WikiData/WD~Swiss townscape worthy of protection,12127133]]"
-list_of_monuments: "[[_Standards/WikiData/WD~list of cultural properties in Geneva,14389813]]"
-archives_at: "[[_Standards/WikiData/WD~Archives de la ville de Genève,17621489]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor of Geneva,24703283]]"
+heritage_designation: "[[_Standards/WikiData/WD~Swiss_townscape_worthy_of_protection,12127133]]"
+list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_Geneva,14389813]]"
+archives_at: "[[_Standards/WikiData/WD~Archives_de_la_ville_de_Genève,17621489]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor_of_Geneva,24703283]]"
 GitHub_topic: geneva
 subreddit: geneva
 U_S_National_Archives_Identifier: 10045347
-Wikimedia_outline: "[[_Standards/WikiData/WD~Outline of Geneva,55628141]]"
-head_of_government: "[[_Standards/WikiData/WD~Alfonso Gomez Cruz,94929971]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Geneva,106020349]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~Outline_of_Geneva,55628141]]"
+head_of_government: "[[_Standards/WikiData/WD~Alfonso_Gomez_Cruz,94929971]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Geneva,106020349]]"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stadt%20Genf%202020.png"
 ISNI: 0000000121581391
 external_data_available_at_URL: "https://geo.ld.admin.ch/boundaries/municipality/6621"
 official_website: "https://www.geneve.ch/"
-present_in_work: "[[_Standards/WikiData/WD~Civilization V,2385]]"
+present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-capital_of: "[[_Standards/WikiData/WD~Canton of Geneva,11917]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Canton of Geneva,11917]]"
+capital_of: "[[_Standards/WikiData/WD~Canton_of_Geneva,11917]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Canton_of_Geneva,11917]]"
 country: '[[_Standards/WikiData/WD~Switzerland,39]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 official_language: '[[_Standards/WikiData/WD~French,150]]'
