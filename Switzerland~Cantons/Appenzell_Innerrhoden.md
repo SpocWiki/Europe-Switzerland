@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Appenzell_Innerrhoden
+- Appenzell Innerrhoden
 
 Languages:
 - de

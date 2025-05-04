@@ -14,6 +14,10 @@ tags:
 - geo/Country/Region
 aliases:
 - Sankt_Gallen
+- Sankt Gallen
+- St Gallen
+- Canton Sankt Gallen
+- Kanton Sankt Gallen
 
 Languages:
 - de

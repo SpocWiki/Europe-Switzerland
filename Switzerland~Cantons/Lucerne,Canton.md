@@ -14,6 +14,10 @@ tags:
 - geo/Country/Region
 aliases:
 - Lucerne
+- Kanton Luzern
+- Canton Luzern
+- Luzern
+- 
 
 Languages:
 - de

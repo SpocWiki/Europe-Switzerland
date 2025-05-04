@@ -13,8 +13,10 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
+- Canton Basel
 - Kanton Basel
 - Basel Canton
+- Basel 
 
 Languages:
 - de
@@ -28,7 +30,9 @@ publishDate:
 expiryDate: 
 ---
 
-# Basel-Stadt
+# [[Basel,Canton]]
+
+#is_/different_from :: [[Basel,Landschaft]] 
 
 ```leaflet
 id: Basel-Stadt

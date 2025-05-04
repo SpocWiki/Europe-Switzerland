@@ -15,6 +15,7 @@ tags:
 aliases:
 - Kanton Zürich
 - Zurich Canton
+- Zürich
 
 Languages:
 - de

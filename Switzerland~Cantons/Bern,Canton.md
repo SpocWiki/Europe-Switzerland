@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 46.8
 - 7.6
@@ -14,6 +14,8 @@ tags:
 - geo/Country/Region
 aliases:
 - Bern
+- Kanton Bern
+- Canton Bern
 Languages:
 - de
 cssclasses:

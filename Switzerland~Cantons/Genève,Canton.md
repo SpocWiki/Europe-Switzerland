@@ -21,6 +21,11 @@ tags:
 - geo/Country/Region
 aliases:
 - Genève
+- Kanton Genf
+- Canton Genf
+- Genf
+- Geneva
+- 
 
 Languages:
 - de
