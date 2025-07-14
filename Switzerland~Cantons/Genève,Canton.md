@@ -74,15 +74,17 @@ markerFolder: ./Genève/
 
 ## Confidential Links & Embeds: 
 
-### [Genève,Canton.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.public.md) 
+### [Genève,Canton](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton.md) 
 
-### [Genève,Canton.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.internal.md) 
+### [Genève,Canton.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton.public.md) 
 
-### [Genève,Canton.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.protect.md) 
+### [Genève,Canton.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton.internal.md) 
 
-### [Genève,Canton.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.private.md) 
+### [Genève,Canton.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton.protect.md) 
 
-### [Genève,Canton.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.personal.md) 
+### [Genève,Canton.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton.private.md) 
 
-### [Genève,Canton.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.secret.md)
+### [Genève,Canton.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton.personal.md) 
+
+### [Genève,Canton.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton.secret.md)
 

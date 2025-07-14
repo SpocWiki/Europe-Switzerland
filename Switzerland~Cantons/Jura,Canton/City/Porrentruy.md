@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Porrentruy.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Jura,Canton\CityPorrentruy.public.md) 
+### [Porrentruy](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.md) 
 
-### [Porrentruy.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Jura,Canton\CityPorrentruy.internal.md) 
+### [Porrentruy.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.public.md) 
 
-### [Porrentruy.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Jura,Canton\CityPorrentruy.protect.md) 
+### [Porrentruy.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.internal.md) 
 
-### [Porrentruy.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Jura,Canton\CityPorrentruy.private.md) 
+### [Porrentruy.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.protect.md) 
 
-### [Porrentruy.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Jura,Canton\CityPorrentruy.personal.md) 
+### [Porrentruy.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.private.md) 
 
-### [Porrentruy.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Jura,Canton\CityPorrentruy.secret.md)
+### [Porrentruy.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.personal.md) 
+
+### [Porrentruy.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.secret.md)
 

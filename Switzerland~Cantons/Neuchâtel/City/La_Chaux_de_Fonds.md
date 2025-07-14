@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [La_Chaux_de_Fonds.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityLa_Chaux_de_Fonds.public.md) 
+### [La_Chaux_de_Fonds](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/La_Chaux_de_Fonds.md) 
 
-### [La_Chaux_de_Fonds.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityLa_Chaux_de_Fonds.internal.md) 
+### [La_Chaux_de_Fonds.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/La_Chaux_de_Fonds.public.md) 
 
-### [La_Chaux_de_Fonds.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityLa_Chaux_de_Fonds.protect.md) 
+### [La_Chaux_de_Fonds.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/La_Chaux_de_Fonds.internal.md) 
 
-### [La_Chaux_de_Fonds.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityLa_Chaux_de_Fonds.private.md) 
+### [La_Chaux_de_Fonds.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/La_Chaux_de_Fonds.protect.md) 
 
-### [La_Chaux_de_Fonds.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityLa_Chaux_de_Fonds.personal.md) 
+### [La_Chaux_de_Fonds.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/La_Chaux_de_Fonds.private.md) 
 
-### [La_Chaux_de_Fonds.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityLa_Chaux_de_Fonds.secret.md)
+### [La_Chaux_de_Fonds.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/La_Chaux_de_Fonds.personal.md) 
+
+### [La_Chaux_de_Fonds.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/La_Chaux_de_Fonds.secret.md)
 

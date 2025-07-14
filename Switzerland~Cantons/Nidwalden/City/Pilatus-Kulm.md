@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pilatus-Kulm.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.public.md) 
+### [Pilatus-Kulm](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.md) 
 
-### [Pilatus-Kulm.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.internal.md) 
+### [Pilatus-Kulm.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.public.md) 
 
-### [Pilatus-Kulm.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.protect.md) 
+### [Pilatus-Kulm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.internal.md) 
 
-### [Pilatus-Kulm.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.private.md) 
+### [Pilatus-Kulm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.protect.md) 
 
-### [Pilatus-Kulm.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.personal.md) 
+### [Pilatus-Kulm.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.private.md) 
 
-### [Pilatus-Kulm.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.secret.md)
+### [Pilatus-Kulm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.personal.md) 
+
+### [Pilatus-Kulm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.secret.md)
 

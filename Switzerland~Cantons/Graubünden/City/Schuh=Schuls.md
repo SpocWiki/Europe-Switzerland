@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schuh=Schuls.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.public.md) 
+### [Schuh=Schuls](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Schuh=Schuls.md) 
 
-### [Schuh=Schuls.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.internal.md) 
+### [Schuh=Schuls.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Schuh=Schuls.public.md) 
 
-### [Schuh=Schuls.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.protect.md) 
+### [Schuh=Schuls.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Schuh=Schuls.internal.md) 
 
-### [Schuh=Schuls.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.private.md) 
+### [Schuh=Schuls.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Schuh=Schuls.protect.md) 
 
-### [Schuh=Schuls.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.personal.md) 
+### [Schuh=Schuls.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Schuh=Schuls.private.md) 
 
-### [Schuh=Schuls.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.secret.md)
+### [Schuh=Schuls.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Schuh=Schuls.personal.md) 
+
+### [Schuh=Schuls.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Schuh=Schuls.secret.md)
 

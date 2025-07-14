@@ -41,15 +41,17 @@ markerFolder: ./Vaud/
 
 ## Confidential Links & Embeds: 
 
-### [Vaud.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsVaud.public.md) 
+### [Vaud](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.md) 
 
-### [Vaud.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsVaud.internal.md) 
+### [Vaud.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.public.md) 
 
-### [Vaud.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsVaud.protect.md) 
+### [Vaud.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.internal.md) 
 
-### [Vaud.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsVaud.private.md) 
+### [Vaud.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.protect.md) 
 
-### [Vaud.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsVaud.personal.md) 
+### [Vaud.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.private.md) 
 
-### [Vaud.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsVaud.secret.md)
+### [Vaud.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.personal.md) 
+
+### [Vaud.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.secret.md)
 

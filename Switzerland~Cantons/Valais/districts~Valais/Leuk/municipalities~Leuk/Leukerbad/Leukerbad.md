@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leukerbad.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.public.md) 
+### [Leukerbad](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.md) 
 
-### [Leukerbad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.internal.md) 
+### [Leukerbad.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.public.md) 
 
-### [Leukerbad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.protect.md) 
+### [Leukerbad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.internal.md) 
 
-### [Leukerbad.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.private.md) 
+### [Leukerbad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.protect.md) 
 
-### [Leukerbad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.personal.md) 
+### [Leukerbad.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.private.md) 
 
-### [Leukerbad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.secret.md)
+### [Leukerbad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.personal.md) 
+
+### [Leukerbad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Appenzell.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.public.md) 
+### [Appenzell](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden/City/Appenzell.md) 
 
-### [Appenzell.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.internal.md) 
+### [Appenzell.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden/City/Appenzell.public.md) 
 
-### [Appenzell.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.protect.md) 
+### [Appenzell.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden/City/Appenzell.internal.md) 
 
-### [Appenzell.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.private.md) 
+### [Appenzell.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden/City/Appenzell.protect.md) 
 
-### [Appenzell.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.personal.md) 
+### [Appenzell.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden/City/Appenzell.private.md) 
 
-### [Appenzell.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.secret.md)
+### [Appenzell.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden/City/Appenzell.personal.md) 
+
+### [Appenzell.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden/City/Appenzell.secret.md)
 

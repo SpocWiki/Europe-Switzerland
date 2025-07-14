@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freiburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.public.md) 
+### [Freiburg](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.md) 
 
-### [Freiburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.internal.md) 
+### [Freiburg.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.public.md) 
 
-### [Freiburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.protect.md) 
+### [Freiburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.internal.md) 
 
-### [Freiburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.private.md) 
+### [Freiburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.protect.md) 
 
-### [Freiburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.personal.md) 
+### [Freiburg.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.private.md) 
 
-### [Freiburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.secret.md)
+### [Freiburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.personal.md) 
+
+### [Freiburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.secret.md)
 

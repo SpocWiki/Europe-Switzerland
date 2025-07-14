@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sitten=Sion.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.public.md) 
+### [Sitten=Sion](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.md) 
 
-### [Sitten=Sion.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.internal.md) 
+### [Sitten=Sion.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.public.md) 
 
-### [Sitten=Sion.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.protect.md) 
+### [Sitten=Sion.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.internal.md) 
 
-### [Sitten=Sion.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.private.md) 
+### [Sitten=Sion.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.protect.md) 
 
-### [Sitten=Sion.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.personal.md) 
+### [Sitten=Sion.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.private.md) 
 
-### [Sitten=Sion.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.secret.md)
+### [Sitten=Sion.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.personal.md) 
+
+### [Sitten=Sion.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.secret.md)
 

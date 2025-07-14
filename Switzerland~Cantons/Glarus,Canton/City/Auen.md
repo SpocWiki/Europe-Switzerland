@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Auen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.public.md) 
+### [Auen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.md) 
 
-### [Auen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.internal.md) 
+### [Auen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.public.md) 
 
-### [Auen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.protect.md) 
+### [Auen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.internal.md) 
 
-### [Auen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.private.md) 
+### [Auen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.protect.md) 
 
-### [Auen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.personal.md) 
+### [Auen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.private.md) 
 
-### [Auen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.secret.md)
+### [Auen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.personal.md) 
+
+### [Auen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.secret.md)
 

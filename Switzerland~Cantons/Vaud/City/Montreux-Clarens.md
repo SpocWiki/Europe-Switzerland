@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montreux-Clarens.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityMontreux-Clarens.public.md) 
+### [Montreux-Clarens](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.md) 
 
-### [Montreux-Clarens.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityMontreux-Clarens.internal.md) 
+### [Montreux-Clarens.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.public.md) 
 
-### [Montreux-Clarens.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityMontreux-Clarens.protect.md) 
+### [Montreux-Clarens.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.internal.md) 
 
-### [Montreux-Clarens.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityMontreux-Clarens.private.md) 
+### [Montreux-Clarens.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.protect.md) 
 
-### [Montreux-Clarens.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityMontreux-Clarens.personal.md) 
+### [Montreux-Clarens.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.private.md) 
 
-### [Montreux-Clarens.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityMontreux-Clarens.secret.md)
+### [Montreux-Clarens.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.personal.md) 
+
+### [Montreux-Clarens.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.secret.md)
 

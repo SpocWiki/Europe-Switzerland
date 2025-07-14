@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wald_Hittenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWald_Hittenberg.public.md) 
+### [Wald_Hittenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.md) 
 
-### [Wald_Hittenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWald_Hittenberg.internal.md) 
+### [Wald_Hittenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.public.md) 
 
-### [Wald_Hittenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWald_Hittenberg.protect.md) 
+### [Wald_Hittenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.internal.md) 
 
-### [Wald_Hittenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWald_Hittenberg.private.md) 
+### [Wald_Hittenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.protect.md) 
 
-### [Wald_Hittenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWald_Hittenberg.personal.md) 
+### [Wald_Hittenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.private.md) 
 
-### [Wald_Hittenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWald_Hittenberg.secret.md)
+### [Wald_Hittenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.personal.md) 
+
+### [Wald_Hittenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.secret.md)
 

@@ -46,15 +46,17 @@ markerFolder: ./Basel-Stadt/
 
 ## Confidential Links & Embeds: 
 
-### [Basel,Canton.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsBasel,Canton.public.md) 
+### [Basel,Canton](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.md) 
 
-### [Basel,Canton.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsBasel,Canton.internal.md) 
+### [Basel,Canton.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.public.md) 
 
-### [Basel,Canton.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsBasel,Canton.protect.md) 
+### [Basel,Canton.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.internal.md) 
 
-### [Basel,Canton.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsBasel,Canton.private.md) 
+### [Basel,Canton.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.protect.md) 
 
-### [Basel,Canton.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsBasel,Canton.personal.md) 
+### [Basel,Canton.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.private.md) 
 
-### [Basel,Canton.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsBasel,Canton.secret.md)
+### [Basel,Canton.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.personal.md) 
+
+### [Basel,Canton.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.secret.md)
 

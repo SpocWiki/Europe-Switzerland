@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lungern.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.public.md) 
+### [Lungern](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.md) 
 
-### [Lungern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.internal.md) 
+### [Lungern.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.public.md) 
 
-### [Lungern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.protect.md) 
+### [Lungern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.internal.md) 
 
-### [Lungern.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.private.md) 
+### [Lungern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.protect.md) 
 
-### [Lungern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.personal.md) 
+### [Lungern.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.private.md) 
 
-### [Lungern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.secret.md)
+### [Lungern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.personal.md) 
+
+### [Lungern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.secret.md)
 

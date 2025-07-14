@@ -41,15 +41,17 @@ markerFolder: ./Schaffhausen/
 
 ## Confidential Links & Embeds: 
 
-### [Schaffhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchaffhausen.public.md) 
+### [Schaffhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.md) 
 
-### [Schaffhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchaffhausen.internal.md) 
+### [Schaffhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.public.md) 
 
-### [Schaffhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchaffhausen.protect.md) 
+### [Schaffhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.internal.md) 
 
-### [Schaffhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchaffhausen.private.md) 
+### [Schaffhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.protect.md) 
 
-### [Schaffhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchaffhausen.personal.md) 
+### [Schaffhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.private.md) 
 
-### [Schaffhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchaffhausen.secret.md)
+### [Schaffhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.personal.md) 
+
+### [Schaffhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.secret.md)
 

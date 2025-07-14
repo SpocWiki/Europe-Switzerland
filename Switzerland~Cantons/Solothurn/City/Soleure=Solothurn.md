@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soleure=Solothurn.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySoleure=Solothurn.public.md) 
+### [Soleure=Solothurn](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Soleure=Solothurn.md) 
 
-### [Soleure=Solothurn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySoleure=Solothurn.internal.md) 
+### [Soleure=Solothurn.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Soleure=Solothurn.public.md) 
 
-### [Soleure=Solothurn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySoleure=Solothurn.protect.md) 
+### [Soleure=Solothurn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Soleure=Solothurn.internal.md) 
 
-### [Soleure=Solothurn.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySoleure=Solothurn.private.md) 
+### [Soleure=Solothurn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Soleure=Solothurn.protect.md) 
 
-### [Soleure=Solothurn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySoleure=Solothurn.personal.md) 
+### [Soleure=Solothurn.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Soleure=Solothurn.private.md) 
 
-### [Soleure=Solothurn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySoleure=Solothurn.secret.md)
+### [Soleure=Solothurn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Soleure=Solothurn.personal.md) 
+
+### [Soleure=Solothurn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Soleure=Solothurn.secret.md)
 

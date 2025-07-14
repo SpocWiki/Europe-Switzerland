@@ -42,15 +42,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uster,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.public.md) 
+### [Uster,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Uster,District/municipalities~Uster/Uster-municipality/Uster,City.md) 
 
-### [Uster,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.internal.md) 
+### [Uster,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Uster,District/municipalities~Uster/Uster-municipality/Uster,City.public.md) 
 
-### [Uster,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.protect.md) 
+### [Uster,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Uster,District/municipalities~Uster/Uster-municipality/Uster,City.internal.md) 
 
-### [Uster,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.private.md) 
+### [Uster,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Uster,District/municipalities~Uster/Uster-municipality/Uster,City.protect.md) 
 
-### [Uster,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.personal.md) 
+### [Uster,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Uster,District/municipalities~Uster/Uster-municipality/Uster,City.private.md) 
 
-### [Uster,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.secret.md)
+### [Uster,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Uster,District/municipalities~Uster/Uster-municipality/Uster,City.personal.md) 
+
+### [Uster,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Uster,District/municipalities~Uster/Uster-municipality/Uster,City.secret.md)
 

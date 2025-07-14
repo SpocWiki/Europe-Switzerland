@@ -41,15 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Glarus,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.public.md) 
+### [Glarus,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.md) 
 
-### [Glarus,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.internal.md) 
+### [Glarus,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.public.md) 
 
-### [Glarus,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.protect.md) 
+### [Glarus,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.internal.md) 
 
-### [Glarus,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.private.md) 
+### [Glarus,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.protect.md) 
 
-### [Glarus,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.personal.md) 
+### [Glarus,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.private.md) 
 
-### [Glarus,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.secret.md)
+### [Glarus,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.personal.md) 
+
+### [Glarus,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.secret.md)
 

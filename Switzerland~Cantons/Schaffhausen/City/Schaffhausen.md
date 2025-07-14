@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schaffhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.public.md) 
+### [Schaffhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.md) 
 
-### [Schaffhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.internal.md) 
+### [Schaffhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.public.md) 
 
-### [Schaffhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.protect.md) 
+### [Schaffhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.internal.md) 
 
-### [Schaffhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.private.md) 
+### [Schaffhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.protect.md) 
 
-### [Schaffhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.personal.md) 
+### [Schaffhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.private.md) 
 
-### [Schaffhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.secret.md)
+### [Schaffhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.personal.md) 
+
+### [Schaffhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.secret.md)
 

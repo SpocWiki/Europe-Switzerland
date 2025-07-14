@@ -43,15 +43,17 @@ markerFolder: ./Zürich/
 
 ## Confidential Links & Embeds: 
 
-### [Zürich,Canton.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsZürich,Canton.public.md) 
+### [Zürich,Canton](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.md) 
 
-### [Zürich,Canton.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsZürich,Canton.internal.md) 
+### [Zürich,Canton.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.public.md) 
 
-### [Zürich,Canton.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsZürich,Canton.protect.md) 
+### [Zürich,Canton.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.internal.md) 
 
-### [Zürich,Canton.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsZürich,Canton.private.md) 
+### [Zürich,Canton.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.protect.md) 
 
-### [Zürich,Canton.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsZürich,Canton.personal.md) 
+### [Zürich,Canton.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.private.md) 
 
-### [Zürich,Canton.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsZürich,Canton.secret.md)
+### [Zürich,Canton.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.personal.md) 
+
+### [Zürich,Canton.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.secret.md)
 

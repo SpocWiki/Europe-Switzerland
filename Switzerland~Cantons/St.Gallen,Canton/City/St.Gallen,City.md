@@ -54,15 +54,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Gallen,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySt.Gallen,City.public.md) 
+### [St.Gallen,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,City.md) 
 
-### [St.Gallen,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySt.Gallen,City.internal.md) 
+### [St.Gallen,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,City.public.md) 
 
-### [St.Gallen,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySt.Gallen,City.protect.md) 
+### [St.Gallen,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,City.internal.md) 
 
-### [St.Gallen,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySt.Gallen,City.private.md) 
+### [St.Gallen,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,City.protect.md) 
 
-### [St.Gallen,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySt.Gallen,City.personal.md) 
+### [St.Gallen,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,City.private.md) 
 
-### [St.Gallen,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySt.Gallen,City.secret.md)
+### [St.Gallen,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,City.personal.md) 
+
+### [St.Gallen,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,City.secret.md)
 

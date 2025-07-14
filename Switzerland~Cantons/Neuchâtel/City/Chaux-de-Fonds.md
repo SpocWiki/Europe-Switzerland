@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chaux-de-Fonds.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.public.md) 
+### [Chaux-de-Fonds](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.md) 
 
-### [Chaux-de-Fonds.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.internal.md) 
+### [Chaux-de-Fonds.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.public.md) 
 
-### [Chaux-de-Fonds.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.protect.md) 
+### [Chaux-de-Fonds.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.internal.md) 
 
-### [Chaux-de-Fonds.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.private.md) 
+### [Chaux-de-Fonds.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.protect.md) 
 
-### [Chaux-de-Fonds.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.personal.md) 
+### [Chaux-de-Fonds.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.private.md) 
 
-### [Chaux-de-Fonds.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.secret.md)
+### [Chaux-de-Fonds.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.personal.md) 
+
+### [Chaux-de-Fonds.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Graubünden/
 
 ## Confidential Links & Embeds: 
 
-### [Graubünden.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGraubünden.public.md) 
+### [Graubünden](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden.md) 
 
-### [Graubünden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGraubünden.internal.md) 
+### [Graubünden.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden.public.md) 
 
-### [Graubünden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGraubünden.protect.md) 
+### [Graubünden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden.internal.md) 
 
-### [Graubünden.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGraubünden.private.md) 
+### [Graubünden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden.protect.md) 
 
-### [Graubünden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGraubünden.personal.md) 
+### [Graubünden.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden.private.md) 
 
-### [Graubünden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGraubünden.secret.md)
+### [Graubünden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden.personal.md) 
+
+### [Graubünden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden.secret.md)
 

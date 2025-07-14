@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saas-Fee.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.public.md) 
+### [Saas-Fee](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Saas-Fee.md) 
 
-### [Saas-Fee.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.internal.md) 
+### [Saas-Fee.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Saas-Fee.public.md) 
 
-### [Saas-Fee.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.protect.md) 
+### [Saas-Fee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Saas-Fee.internal.md) 
 
-### [Saas-Fee.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.private.md) 
+### [Saas-Fee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Saas-Fee.protect.md) 
 
-### [Saas-Fee.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.personal.md) 
+### [Saas-Fee.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Saas-Fee.private.md) 
 
-### [Saas-Fee.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.secret.md)
+### [Saas-Fee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Saas-Fee.personal.md) 
+
+### [Saas-Fee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Saas-Fee.secret.md)
 

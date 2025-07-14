@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~Central\SwitzerlandLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~Central\SwitzerlandLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~Central\SwitzerlandLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~Central\SwitzerlandLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~Central\SwitzerlandLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~Central\SwitzerlandLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/License.secret.md)
 

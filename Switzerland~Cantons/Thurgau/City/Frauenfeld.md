@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frauenfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.public.md) 
+### [Frauenfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.md) 
 
-### [Frauenfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.internal.md) 
+### [Frauenfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.public.md) 
 
-### [Frauenfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.protect.md) 
+### [Frauenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.internal.md) 
 
-### [Frauenfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.private.md) 
+### [Frauenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.protect.md) 
 
-### [Frauenfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.personal.md) 
+### [Frauenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.private.md) 
 
-### [Frauenfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.secret.md)
+### [Frauenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.personal.md) 
+
+### [Frauenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.secret.md)
 

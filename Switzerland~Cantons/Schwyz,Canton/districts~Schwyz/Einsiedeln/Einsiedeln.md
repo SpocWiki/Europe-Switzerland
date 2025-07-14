@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Einsiedeln.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.public.md) 
+### [Einsiedeln](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Einsiedeln/Einsiedeln.md) 
 
-### [Einsiedeln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.internal.md) 
+### [Einsiedeln.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Einsiedeln/Einsiedeln.public.md) 
 
-### [Einsiedeln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.protect.md) 
+### [Einsiedeln.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Einsiedeln/Einsiedeln.internal.md) 
 
-### [Einsiedeln.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.private.md) 
+### [Einsiedeln.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Einsiedeln/Einsiedeln.protect.md) 
 
-### [Einsiedeln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.personal.md) 
+### [Einsiedeln.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Einsiedeln/Einsiedeln.private.md) 
 
-### [Einsiedeln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.secret.md)
+### [Einsiedeln.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Einsiedeln/Einsiedeln.personal.md) 
+
+### [Einsiedeln.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Einsiedeln/Einsiedeln.secret.md)
 

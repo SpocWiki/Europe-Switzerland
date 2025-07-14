@@ -42,15 +42,17 @@ markerFolder: ./Appenzell_Innerrhoden/
 
 ## Confidential Links & Embeds: 
 
-### [Appenzell_Innerrhoden.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.public.md) 
+### [Appenzell_Innerrhoden](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.md) 
 
-### [Appenzell_Innerrhoden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.internal.md) 
+### [Appenzell_Innerrhoden.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.public.md) 
 
-### [Appenzell_Innerrhoden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.protect.md) 
+### [Appenzell_Innerrhoden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.internal.md) 
 
-### [Appenzell_Innerrhoden.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.private.md) 
+### [Appenzell_Innerrhoden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.protect.md) 
 
-### [Appenzell_Innerrhoden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.personal.md) 
+### [Appenzell_Innerrhoden.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.private.md) 
 
-### [Appenzell_Innerrhoden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.secret.md)
+### [Appenzell_Innerrhoden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.personal.md) 
+
+### [Appenzell_Innerrhoden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.secret.md)
 

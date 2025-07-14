@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boettstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.public.md) 
+### [Boettstein](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.md) 
 
-### [Boettstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.internal.md) 
+### [Boettstein.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.public.md) 
 
-### [Boettstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.protect.md) 
+### [Boettstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.internal.md) 
 
-### [Boettstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.private.md) 
+### [Boettstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.protect.md) 
 
-### [Boettstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.personal.md) 
+### [Boettstein.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.private.md) 
 
-### [Boettstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.secret.md)
+### [Boettstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.personal.md) 
+
+### [Boettstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.secret.md)
 

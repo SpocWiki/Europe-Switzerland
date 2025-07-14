@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Andermatt.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.public.md) 
+### [Andermatt](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.md) 
 
-### [Andermatt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.internal.md) 
+### [Andermatt.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.public.md) 
 
-### [Andermatt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.protect.md) 
+### [Andermatt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.internal.md) 
 
-### [Andermatt.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.private.md) 
+### [Andermatt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.protect.md) 
 
-### [Andermatt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.personal.md) 
+### [Andermatt.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.private.md) 
 
-### [Andermatt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.secret.md)
+### [Andermatt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.personal.md) 
+
+### [Andermatt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.secret.md)
 

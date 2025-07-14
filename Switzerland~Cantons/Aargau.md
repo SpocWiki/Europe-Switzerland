@@ -41,15 +41,17 @@ markerFolder: ./Aargau/
 
 ## Confidential Links & Embeds: 
 
-### [Aargau.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAargau.public.md) 
+### [Aargau](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau.md) 
 
-### [Aargau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAargau.internal.md) 
+### [Aargau.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau.public.md) 
 
-### [Aargau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAargau.protect.md) 
+### [Aargau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau.internal.md) 
 
-### [Aargau.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAargau.private.md) 
+### [Aargau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau.protect.md) 
 
-### [Aargau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAargau.personal.md) 
+### [Aargau.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau.private.md) 
 
-### [Aargau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAargau.secret.md)
+### [Aargau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau.personal.md) 
+
+### [Aargau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau.secret.md)
 

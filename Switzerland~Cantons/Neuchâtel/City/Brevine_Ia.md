@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brevine_Ia.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.public.md) 
+### [Brevine_Ia](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.md) 
 
-### [Brevine_Ia.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.internal.md) 
+### [Brevine_Ia.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.public.md) 
 
-### [Brevine_Ia.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.protect.md) 
+### [Brevine_Ia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.internal.md) 
 
-### [Brevine_Ia.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.private.md) 
+### [Brevine_Ia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.protect.md) 
 
-### [Brevine_Ia.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.personal.md) 
+### [Brevine_Ia.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.private.md) 
 
-### [Brevine_Ia.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.secret.md)
+### [Brevine_Ia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.personal.md) 
+
+### [Brevine_Ia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.secret.md)
 

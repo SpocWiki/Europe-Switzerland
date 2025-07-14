@@ -43,15 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Basel,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.public.md) 
+### [Basel,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.md) 
 
-### [Basel,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.internal.md) 
+### [Basel,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.public.md) 
 
-### [Basel,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.protect.md) 
+### [Basel,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.internal.md) 
 
-### [Basel,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.private.md) 
+### [Basel,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.protect.md) 
 
-### [Basel,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.personal.md) 
+### [Basel,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.private.md) 
 
-### [Basel,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.secret.md)
+### [Basel,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.personal.md) 
+
+### [Basel,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.secret.md)
 

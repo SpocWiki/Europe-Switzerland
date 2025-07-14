@@ -41,15 +41,17 @@ markerFolder: ./Ticino/
 
 ## Confidential Links & Embeds: 
 
-### [Ticino.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsTicino.public.md) 
+### [Ticino](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino.md) 
 
-### [Ticino.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsTicino.internal.md) 
+### [Ticino.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino.public.md) 
 
-### [Ticino.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsTicino.protect.md) 
+### [Ticino.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino.internal.md) 
 
-### [Ticino.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsTicino.private.md) 
+### [Ticino.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino.protect.md) 
 
-### [Ticino.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsTicino.personal.md) 
+### [Ticino.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino.private.md) 
 
-### [Ticino.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsTicino.secret.md)
+### [Ticino.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino.personal.md) 
+
+### [Ticino.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zug.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.public.md) 
+### [Zug](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.md) 
 
-### [Zug.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.internal.md) 
+### [Zug.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.public.md) 
 
-### [Zug.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.protect.md) 
+### [Zug.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.internal.md) 
 
-### [Zug.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.private.md) 
+### [Zug.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.protect.md) 
 
-### [Zug.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.personal.md) 
+### [Zug.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.private.md) 
 
-### [Zug.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.secret.md)
+### [Zug.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.personal.md) 
+
+### [Zug.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.secret.md)
 

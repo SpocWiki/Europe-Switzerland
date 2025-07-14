@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwaebrig.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.public.md) 
+### [Schwaebrig](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.md) 
 
-### [Schwaebrig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.internal.md) 
+### [Schwaebrig.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.public.md) 
 
-### [Schwaebrig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.protect.md) 
+### [Schwaebrig.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.internal.md) 
 
-### [Schwaebrig.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.private.md) 
+### [Schwaebrig.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.protect.md) 
 
-### [Schwaebrig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.personal.md) 
+### [Schwaebrig.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.private.md) 
 
-### [Schwaebrig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.secret.md)
+### [Schwaebrig.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.personal.md) 
+
+### [Schwaebrig.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.secret.md)
 

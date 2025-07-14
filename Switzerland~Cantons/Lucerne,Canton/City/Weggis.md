@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weggis.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityWeggis.public.md) 
+### [Weggis](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.md) 
 
-### [Weggis.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityWeggis.internal.md) 
+### [Weggis.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.public.md) 
 
-### [Weggis.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityWeggis.protect.md) 
+### [Weggis.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.internal.md) 
 
-### [Weggis.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityWeggis.private.md) 
+### [Weggis.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.protect.md) 
 
-### [Weggis.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityWeggis.personal.md) 
+### [Weggis.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.private.md) 
 
-### [Weggis.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityWeggis.secret.md)
+### [Weggis.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.personal.md) 
+
+### [Weggis.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.secret.md)
 

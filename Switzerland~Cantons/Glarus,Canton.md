@@ -44,15 +44,17 @@ markerFolder: ./Glarus/
 
 ## Confidential Links & Embeds: 
 
-### [Glarus,Canton.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGlarus,Canton.public.md) 
+### [Glarus,Canton](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton.md) 
 
-### [Glarus,Canton.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGlarus,Canton.internal.md) 
+### [Glarus,Canton.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton.public.md) 
 
-### [Glarus,Canton.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGlarus,Canton.protect.md) 
+### [Glarus,Canton.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton.internal.md) 
 
-### [Glarus,Canton.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGlarus,Canton.private.md) 
+### [Glarus,Canton.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton.protect.md) 
 
-### [Glarus,Canton.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGlarus,Canton.personal.md) 
+### [Glarus,Canton.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton.private.md) 
 
-### [Glarus,Canton.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGlarus,Canton.secret.md)
+### [Glarus,Canton.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton.personal.md) 
+
+### [Glarus,Canton.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grächen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.public.md) 
+### [Grächen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.md) 
 
-### [Grächen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.internal.md) 
+### [Grächen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.public.md) 
 
-### [Grächen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.protect.md) 
+### [Grächen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.internal.md) 
 
-### [Grächen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.private.md) 
+### [Grächen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.protect.md) 
 
-### [Grächen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.personal.md) 
+### [Grächen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.private.md) 
 
-### [Grächen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.secret.md)
+### [Grächen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.personal.md) 
+
+### [Grächen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.secret.md)
 

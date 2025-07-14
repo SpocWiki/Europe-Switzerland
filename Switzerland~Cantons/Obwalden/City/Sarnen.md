@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sarnen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CitySarnen.public.md) 
+### [Sarnen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.md) 
 
-### [Sarnen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CitySarnen.internal.md) 
+### [Sarnen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.public.md) 
 
-### [Sarnen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CitySarnen.protect.md) 
+### [Sarnen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.internal.md) 
 
-### [Sarnen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CitySarnen.private.md) 
+### [Sarnen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.protect.md) 
 
-### [Sarnen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CitySarnen.personal.md) 
+### [Sarnen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.private.md) 
 
-### [Sarnen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CitySarnen.secret.md)
+### [Sarnen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.personal.md) 
+
+### [Sarnen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.secret.md)
 

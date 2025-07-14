@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Scarl=S-charl.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.public.md) 
+### [Scarl=S-charl](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.md) 
 
-### [Scarl=S-charl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.internal.md) 
+### [Scarl=S-charl.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.public.md) 
 
-### [Scarl=S-charl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.protect.md) 
+### [Scarl=S-charl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.internal.md) 
 
-### [Scarl=S-charl.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.private.md) 
+### [Scarl=S-charl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.protect.md) 
 
-### [Scarl=S-charl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.personal.md) 
+### [Scarl=S-charl.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.private.md) 
 
-### [Scarl=S-charl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.secret.md)
+### [Scarl=S-charl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.personal.md) 
+
+### [Scarl=S-charl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.secret.md)
 

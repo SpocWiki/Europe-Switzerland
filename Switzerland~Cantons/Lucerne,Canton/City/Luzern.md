@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Luzern.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.public.md) 
+### [Luzern](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.md) 
 
-### [Luzern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.internal.md) 
+### [Luzern.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.public.md) 
 
-### [Luzern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.protect.md) 
+### [Luzern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.internal.md) 
 
-### [Luzern.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.private.md) 
+### [Luzern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.protect.md) 
 
-### [Luzern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.personal.md) 
+### [Luzern.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.private.md) 
 
-### [Luzern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.secret.md)
+### [Luzern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.personal.md) 
+
+### [Luzern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.secret.md)
 

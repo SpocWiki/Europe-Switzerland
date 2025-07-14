@@ -177,19 +177,19 @@ Commons_category: Geneva
 > [Wikipedia](https://en.wikipedia.org/wiki/Geneva)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Geneva,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\districts~Genève\Genève-district\municipalities~GenèveGeneva,City.public.md) 
+### [Geneva,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/districts~Genève/Genève-district/municipalities~Genève/Geneva,City.md) 
 
-### [Geneva,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\districts~Genève\Genève-district\municipalities~GenèveGeneva,City.internal.md) 
+### [Geneva,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/districts~Genève/Genève-district/municipalities~Genève/Geneva,City.public.md) 
 
-### [Geneva,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\districts~Genève\Genève-district\municipalities~GenèveGeneva,City.protect.md) 
+### [Geneva,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/districts~Genève/Genève-district/municipalities~Genève/Geneva,City.internal.md) 
 
-### [Geneva,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\districts~Genève\Genève-district\municipalities~GenèveGeneva,City.private.md) 
+### [Geneva,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/districts~Genève/Genève-district/municipalities~Genève/Geneva,City.protect.md) 
 
-### [Geneva,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\districts~Genève\Genève-district\municipalities~GenèveGeneva,City.personal.md) 
+### [Geneva,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/districts~Genève/Genève-district/municipalities~Genève/Geneva,City.private.md) 
 
-### [Geneva,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\districts~Genève\Genève-district\municipalities~GenèveGeneva,City.secret.md)
+### [Geneva,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/districts~Genève/Genève-district/municipalities~Genève/Geneva,City.personal.md) 
+
+### [Geneva,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/districts~Genève/Genève-district/municipalities~Genève/Geneva,City.secret.md)
 

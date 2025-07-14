@@ -41,15 +41,17 @@ markerFolder: ./Neuchâtel/
 
 ## Confidential Links & Embeds: 
 
-### [Neuchâtel.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNeuchâtel.public.md) 
+### [Neuchâtel](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel.md) 
 
-### [Neuchâtel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNeuchâtel.internal.md) 
+### [Neuchâtel.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel.public.md) 
 
-### [Neuchâtel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNeuchâtel.protect.md) 
+### [Neuchâtel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel.internal.md) 
 
-### [Neuchâtel.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNeuchâtel.private.md) 
+### [Neuchâtel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel.protect.md) 
 
-### [Neuchâtel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNeuchâtel.personal.md) 
+### [Neuchâtel.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel.private.md) 
 
-### [Neuchâtel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNeuchâtel.secret.md)
+### [Neuchâtel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel.personal.md) 
+
+### [Neuchâtel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel.secret.md)
 

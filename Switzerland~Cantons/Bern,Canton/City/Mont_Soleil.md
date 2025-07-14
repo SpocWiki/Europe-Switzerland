@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mont_Soleil.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.public.md) 
+### [Mont_Soleil](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.md) 
 
-### [Mont_Soleil.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.internal.md) 
+### [Mont_Soleil.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.public.md) 
 
-### [Mont_Soleil.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.protect.md) 
+### [Mont_Soleil.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.internal.md) 
 
-### [Mont_Soleil.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.private.md) 
+### [Mont_Soleil.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.protect.md) 
 
-### [Mont_Soleil.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.personal.md) 
+### [Mont_Soleil.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.private.md) 
 
-### [Mont_Soleil.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.secret.md)
+### [Mont_Soleil.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.personal.md) 
+
+### [Mont_Soleil.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.secret.md)
 

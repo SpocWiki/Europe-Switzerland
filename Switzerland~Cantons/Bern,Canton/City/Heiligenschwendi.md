@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heiligenschwendi.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.public.md) 
+### [Heiligenschwendi](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.md) 
 
-### [Heiligenschwendi.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.internal.md) 
+### [Heiligenschwendi.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.public.md) 
 
-### [Heiligenschwendi.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.protect.md) 
+### [Heiligenschwendi.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.internal.md) 
 
-### [Heiligenschwendi.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.private.md) 
+### [Heiligenschwendi.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.protect.md) 
 
-### [Heiligenschwendi.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.personal.md) 
+### [Heiligenschwendi.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.private.md) 
 
-### [Heiligenschwendi.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.secret.md)
+### [Heiligenschwendi.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.personal.md) 
+
+### [Heiligenschwendi.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.secret.md)
 

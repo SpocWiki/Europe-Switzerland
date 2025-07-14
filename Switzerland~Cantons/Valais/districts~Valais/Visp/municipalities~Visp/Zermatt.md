@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zermatt.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.public.md) 
+### [Zermatt](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Zermatt.md) 
 
-### [Zermatt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.internal.md) 
+### [Zermatt.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Zermatt.public.md) 
 
-### [Zermatt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.protect.md) 
+### [Zermatt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Zermatt.internal.md) 
 
-### [Zermatt.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.private.md) 
+### [Zermatt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Zermatt.protect.md) 
 
-### [Zermatt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.personal.md) 
+### [Zermatt.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Zermatt.private.md) 
 
-### [Zermatt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.secret.md)
+### [Zermatt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Zermatt.personal.md) 
+
+### [Zermatt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Zermatt.secret.md)
 

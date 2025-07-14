@@ -43,15 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwyz,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\Schwyz-municipalitySchwyz,City.public.md) 
+### [Schwyz,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.md) 
 
-### [Schwyz,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\Schwyz-municipalitySchwyz,City.internal.md) 
+### [Schwyz,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.public.md) 
 
-### [Schwyz,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\Schwyz-municipalitySchwyz,City.protect.md) 
+### [Schwyz,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.internal.md) 
 
-### [Schwyz,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\Schwyz-municipalitySchwyz,City.private.md) 
+### [Schwyz,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.protect.md) 
 
-### [Schwyz,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\Schwyz-municipalitySchwyz,City.personal.md) 
+### [Schwyz,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.private.md) 
 
-### [Schwyz,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\Schwyz-municipalitySchwyz,City.secret.md)
+### [Schwyz,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.personal.md) 
+
+### [Schwyz,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.secret.md)
 

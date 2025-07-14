@@ -42,15 +42,17 @@ markerFolder: ./Appenzell_Ausserrhoden/
 
 ## Confidential Links & Embeds: 
 
-### [Appenzell_Ausserrhoden.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.public.md) 
+### [Appenzell_Ausserrhoden](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden.md) 
 
-### [Appenzell_Ausserrhoden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.internal.md) 
+### [Appenzell_Ausserrhoden.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden.public.md) 
 
-### [Appenzell_Ausserrhoden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.protect.md) 
+### [Appenzell_Ausserrhoden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden.internal.md) 
 
-### [Appenzell_Ausserrhoden.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.private.md) 
+### [Appenzell_Ausserrhoden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden.protect.md) 
 
-### [Appenzell_Ausserrhoden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.personal.md) 
+### [Appenzell_Ausserrhoden.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden.private.md) 
 
-### [Appenzell_Ausserrhoden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.secret.md)
+### [Appenzell_Ausserrhoden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden.personal.md) 
+
+### [Appenzell_Ausserrhoden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden.secret.md)
 

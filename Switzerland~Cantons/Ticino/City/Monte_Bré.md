@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monte_Bré.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityMonte_Bré.public.md) 
+### [Monte_Bré](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.md) 
 
-### [Monte_Bré.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityMonte_Bré.internal.md) 
+### [Monte_Bré.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.public.md) 
 
-### [Monte_Bré.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityMonte_Bré.protect.md) 
+### [Monte_Bré.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.internal.md) 
 
-### [Monte_Bré.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityMonte_Bré.private.md) 
+### [Monte_Bré.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.protect.md) 
 
-### [Monte_Bré.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityMonte_Bré.personal.md) 
+### [Monte_Bré.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.private.md) 
 
-### [Monte_Bré.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityMonte_Bré.secret.md)
+### [Monte_Bré.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.personal.md) 
+
+### [Monte_Bré.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Beatenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.public.md) 
+### [St.Beatenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/St.Beatenberg.md) 
 
-### [St.Beatenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.internal.md) 
+### [St.Beatenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/St.Beatenberg.public.md) 
 
-### [St.Beatenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.protect.md) 
+### [St.Beatenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/St.Beatenberg.internal.md) 
 
-### [St.Beatenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.private.md) 
+### [St.Beatenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/St.Beatenberg.protect.md) 
 
-### [St.Beatenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.personal.md) 
+### [St.Beatenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/St.Beatenberg.private.md) 
 
-### [St.Beatenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.secret.md)
+### [St.Beatenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/St.Beatenberg.personal.md) 
+
+### [St.Beatenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/St.Beatenberg.secret.md)
 

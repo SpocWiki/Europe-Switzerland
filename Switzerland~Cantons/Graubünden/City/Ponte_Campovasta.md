@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ponte_Campovasta.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.public.md) 
+### [Ponte_Campovasta](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Ponte_Campovasta.md) 
 
-### [Ponte_Campovasta.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.internal.md) 
+### [Ponte_Campovasta.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Ponte_Campovasta.public.md) 
 
-### [Ponte_Campovasta.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.protect.md) 
+### [Ponte_Campovasta.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Ponte_Campovasta.internal.md) 
 
-### [Ponte_Campovasta.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.private.md) 
+### [Ponte_Campovasta.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Ponte_Campovasta.protect.md) 
 
-### [Ponte_Campovasta.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.personal.md) 
+### [Ponte_Campovasta.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Ponte_Campovasta.private.md) 
 
-### [Ponte_Campovasta.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.secret.md)
+### [Ponte_Campovasta.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Ponte_Campovasta.personal.md) 
+
+### [Ponte_Campovasta.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Ponte_Campovasta.secret.md)
 

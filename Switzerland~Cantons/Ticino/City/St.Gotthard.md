@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Gotthard.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CitySt.Gotthard.public.md) 
+### [St.Gotthard](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.md) 
 
-### [St.Gotthard.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CitySt.Gotthard.internal.md) 
+### [St.Gotthard.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.public.md) 
 
-### [St.Gotthard.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CitySt.Gotthard.protect.md) 
+### [St.Gotthard.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.internal.md) 
 
-### [St.Gotthard.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CitySt.Gotthard.private.md) 
+### [St.Gotthard.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.protect.md) 
 
-### [St.Gotthard.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CitySt.Gotthard.personal.md) 
+### [St.Gotthard.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.private.md) 
 
-### [St.Gotthard.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CitySt.Gotthard.secret.md)
+### [St.Gotthard.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.personal.md) 
+
+### [St.Gotthard.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.secret.md)
 

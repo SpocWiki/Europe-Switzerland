@@ -247,15 +247,17 @@ markerFolder: .//
 
 ## Confidential Links & Embeds: 
 
-### [Zürich,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.public.md) 
+### [Zürich,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.md) 
 
-### [Zürich,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.internal.md) 
+### [Zürich,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.public.md) 
 
-### [Zürich,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.protect.md) 
+### [Zürich,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.internal.md) 
 
-### [Zürich,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.private.md) 
+### [Zürich,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.protect.md) 
 
-### [Zürich,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.personal.md) 
+### [Zürich,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.private.md) 
 
-### [Zürich,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.secret.md)
+### [Zürich,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.personal.md) 
+
+### [Zürich,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.secret.md)
 

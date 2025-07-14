@@ -37,15 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oberiberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.public.md) 
+### [Oberiberg](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Oberiberg/Oberiberg.md) 
 
-### [Oberiberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.internal.md) 
+### [Oberiberg.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Oberiberg/Oberiberg.public.md) 
 
-### [Oberiberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.protect.md) 
+### [Oberiberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Oberiberg/Oberiberg.internal.md) 
 
-### [Oberiberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.private.md) 
+### [Oberiberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Oberiberg/Oberiberg.protect.md) 
 
-### [Oberiberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.personal.md) 
+### [Oberiberg.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Oberiberg/Oberiberg.private.md) 
 
-### [Oberiberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.secret.md)
+### [Oberiberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Oberiberg/Oberiberg.personal.md) 
+
+### [Oberiberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Oberiberg/Oberiberg.secret.md)
 
