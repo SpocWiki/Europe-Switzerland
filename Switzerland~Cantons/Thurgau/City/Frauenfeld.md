@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.55,8.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Frauenfeld|Frauenfeld]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Frauenfeld.public|Frauenfeld.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Frauenfeld.internal|Frauenfeld.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Frauenfeld.protect|Frauenfeld.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Frauenfeld.private|Frauenfeld.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Frauenfeld.personal|Frauenfeld.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Frauenfeld.secret|Frauenfeld.secret]] 
+
+### [Frauenfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.public.md) 
+
+### [Frauenfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.internal.md) 
+
+### [Frauenfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.protect.md) 
+
+### [Frauenfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.private.md) 
+
+### [Frauenfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.personal.md) 
+
+### [Frauenfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityFrauenfeld.secret.md)
+

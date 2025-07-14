@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.55,7.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Rheinfelden|Rheinfelden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rheinfelden.internal|Rheinfelden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rheinfelden.protect|Rheinfelden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rheinfelden.private|Rheinfelden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rheinfelden.personal|Rheinfelden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rheinfelden.secret|Rheinfelden.secret]] 
+
+### [Rheinfelden.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityRheinfelden.public.md) 
+
+### [Rheinfelden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityRheinfelden.internal.md) 
+
+### [Rheinfelden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityRheinfelden.protect.md) 
+
+### [Rheinfelden.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityRheinfelden.private.md) 
+
+### [Rheinfelden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityRheinfelden.personal.md) 
+
+### [Rheinfelden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityRheinfelden.secret.md)
+

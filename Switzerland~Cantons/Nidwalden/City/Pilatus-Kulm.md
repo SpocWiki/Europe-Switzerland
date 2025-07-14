@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.98,8.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm|Pilatus-Kulm]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.public|Pilatus-Kulm.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.internal|Pilatus-Kulm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.protect|Pilatus-Kulm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.private|Pilatus-Kulm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.personal|Pilatus-Kulm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.secret|Pilatus-Kulm.secret]] 
+
+### [Pilatus-Kulm.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.public.md) 
+
+### [Pilatus-Kulm.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.internal.md) 
+
+### [Pilatus-Kulm.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.protect.md) 
+
+### [Pilatus-Kulm.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.private.md) 
+
+### [Pilatus-Kulm.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.personal.md) 
+
+### [Pilatus-Kulm.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Nidwalden\CityPilatus-Kulm.secret.md)
+

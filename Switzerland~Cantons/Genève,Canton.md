@@ -73,11 +73,16 @@ markerFolder: ./Genève/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève|Genève]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.public|Genève.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.internal|Genève.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.protect|Genève.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.private|Genève.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.personal|Genève.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Genève.secret|Genève.secret]] 
+
+### [Genève,Canton.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.public.md) 
+
+### [Genève,Canton.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.internal.md) 
+
+### [Genève,Canton.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.protect.md) 
+
+### [Genève,Canton.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.private.md) 
+
+### [Genève,Canton.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.personal.md) 
+
+### [Genève,Canton.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsGenève,Canton.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Valais/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/Switzerland~Counties/Valais|Valais]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Valais.public|Valais.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Valais.internal|Valais.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Valais.protect|Valais.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Valais.private|Valais.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Valais.personal|Valais.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Valais.secret|Valais.secret]] 
+
+### [Valais.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsValais.public.md) 
+
+### [Valais.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsValais.internal.md) 
+
+### [Valais.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsValais.protect.md) 
+
+### [Valais.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsValais.private.md) 
+
+### [Valais.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsValais.personal.md) 
+
+### [Valais.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsValais.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.42,9.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Kirchberg|Kirchberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Kirchberg.public|Kirchberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Kirchberg.internal|Kirchberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Kirchberg.protect|Kirchberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Kirchberg.private|Kirchberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Kirchberg.personal|Kirchberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Kirchberg.secret|Kirchberg.secret]] 
+
+### [Kirchberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityKirchberg.public.md) 
+
+### [Kirchberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityKirchberg.internal.md) 
+
+### [Kirchberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityKirchberg.protect.md) 
+
+### [Kirchberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityKirchberg.private.md) 
+
+### [Kirchberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityKirchberg.personal.md) 
+
+### [Kirchberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityKirchberg.secret.md)
+

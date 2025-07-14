@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.27,9.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Ebnat|Ebnat]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Ebnat.public|Ebnat.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Ebnat.internal|Ebnat.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Ebnat.protect|Ebnat.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Ebnat.private|Ebnat.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Ebnat.personal|Ebnat.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Ebnat.secret|Ebnat.secret]] 
+
+### [Ebnat.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityEbnat.public.md) 
+
+### [Ebnat.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityEbnat.internal.md) 
+
+### [Ebnat.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityEbnat.protect.md) 
+
+### [Ebnat.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityEbnat.private.md) 
+
+### [Ebnat.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityEbnat.personal.md) 
+
+### [Ebnat.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityEbnat.secret.md)
+

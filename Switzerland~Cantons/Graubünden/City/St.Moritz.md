@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.5,9.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/St.Moritz|St.Moritz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/St.Moritz.public|St.Moritz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/St.Moritz.internal|St.Moritz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/St.Moritz.protect|St.Moritz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/St.Moritz.private|St.Moritz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/St.Moritz.personal|St.Moritz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/St.Moritz.secret|St.Moritz.secret]] 
+
+### [St.Moritz.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Moritz.public.md) 
+
+### [St.Moritz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Moritz.internal.md) 
+
+### [St.Moritz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Moritz.protect.md) 
+
+### [St.Moritz.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Moritz.private.md) 
+
+### [St.Moritz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Moritz.personal.md) 
+
+### [St.Moritz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Moritz.secret.md)
+

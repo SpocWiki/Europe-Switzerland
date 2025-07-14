@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Seeven|Seeven]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Seeven.public|Seeven.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Seeven.internal|Seeven.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Seeven.protect|Seeven.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Seeven.private|Seeven.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Seeven.personal|Seeven.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Seeven.secret|Seeven.secret]] 
+
+### [Seeven.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\CitySeeven.public.md) 
+
+### [Seeven.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\CitySeeven.internal.md) 
+
+### [Seeven.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\CitySeeven.protect.md) 
+
+### [Seeven.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\CitySeeven.private.md) 
+
+### [Seeven.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\CitySeeven.personal.md) 
+
+### [Seeven.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\CitySeeven.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.65,8.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Platta_Medels|Platta_Medels]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Platta_Medels.public|Platta_Medels.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Platta_Medels.internal|Platta_Medels.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Platta_Medels.protect|Platta_Medels.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Platta_Medels.private|Platta_Medels.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Platta_Medels.personal|Platta_Medels.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Platta_Medels.secret|Platta_Medels.secret]] 
+
+### [Platta_Medels.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPlatta_Medels.public.md) 
+
+### [Platta_Medels.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPlatta_Medels.internal.md) 
+
+### [Platta_Medels.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPlatta_Medels.protect.md) 
+
+### [Platta_Medels.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPlatta_Medels.private.md) 
+
+### [Platta_Medels.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPlatta_Medels.personal.md) 
+
+### [Platta_Medels.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPlatta_Medels.secret.md)
+

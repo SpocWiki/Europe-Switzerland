@@ -44,11 +44,16 @@ markerFolder: ./Sankt_Gallen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen|Sankt_Gallen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.public|Sankt_Gallen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.internal|Sankt_Gallen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.protect|Sankt_Gallen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.private|Sankt_Gallen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.personal|Sankt_Gallen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Sankt_Gallen.secret|Sankt_Gallen.secret]] 
+
+### [St.Gallen,Canton.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSt.Gallen,Canton.public.md) 
+
+### [St.Gallen,Canton.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSt.Gallen,Canton.internal.md) 
+
+### [St.Gallen,Canton.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSt.Gallen,Canton.protect.md) 
+
+### [St.Gallen,Canton.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSt.Gallen,Canton.private.md) 
+
+### [St.Gallen,Canton.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSt.Gallen,Canton.personal.md) 
+
+### [St.Gallen,Canton.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSt.Gallen,Canton.secret.md)
 

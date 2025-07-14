@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.83,8.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Chiasso|Chiasso]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chiasso.public|Chiasso.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chiasso.internal|Chiasso.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chiasso.protect|Chiasso.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chiasso.private|Chiasso.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chiasso.personal|Chiasso.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chiasso.secret|Chiasso.secret]] 
+
+### [Chiasso.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiasso.public.md) 
+
+### [Chiasso.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiasso.internal.md) 
+
+### [Chiasso.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiasso.protect.md) 
+
+### [Chiasso.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiasso.private.md) 
+
+### [Chiasso.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiasso.personal.md) 
+
+### [Chiasso.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiasso.secret.md)
+

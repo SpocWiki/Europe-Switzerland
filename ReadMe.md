@@ -139,12 +139,17 @@ Capital :: [[geo/Continent/Europe/Europe~Central/Switzerland/Switzerland~Countie
 [has_place_latitude::46.8963] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Switzerland|Switzerland]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Switzerland.public|Switzerland.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Switzerland.internal|Switzerland.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Switzerland.protect|Switzerland.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Switzerland.private|Switzerland.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Switzerland.personal|Switzerland.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Switzerland.secret|Switzerland.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\SwitzerlandReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\SwitzerlandReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\SwitzerlandReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\SwitzerlandReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\SwitzerlandReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\SwitzerlandReadMe.secret.md)
+

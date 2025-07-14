@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.17,8.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Locarno|Locarno]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Locarno.public|Locarno.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Locarno.internal|Locarno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Locarno.protect|Locarno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Locarno.private|Locarno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Locarno.personal|Locarno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Locarno.secret|Locarno.secret]] 
+
+### [Locarno.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLocarno.public.md) 
+
+### [Locarno.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLocarno.internal.md) 
+
+### [Locarno.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLocarno.protect.md) 
+
+### [Locarno.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLocarno.private.md) 
+
+### [Locarno.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLocarno.personal.md) 
+
+### [Locarno.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLocarno.secret.md)
+

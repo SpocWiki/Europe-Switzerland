@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.35,7.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Allerheiligen|Allerheiligen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Allerheiligen.public|Allerheiligen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Allerheiligen.internal|Allerheiligen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Allerheiligen.protect|Allerheiligen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Allerheiligen.private|Allerheiligen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Allerheiligen.personal|Allerheiligen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Allerheiligen.secret|Allerheiligen.secret]] 
+
+### [Allerheiligen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityAllerheiligen.public.md) 
+
+### [Allerheiligen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityAllerheiligen.internal.md) 
+
+### [Allerheiligen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityAllerheiligen.protect.md) 
+
+### [Allerheiligen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityAllerheiligen.private.md) 
+
+### [Allerheiligen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityAllerheiligen.personal.md) 
+
+### [Allerheiligen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityAllerheiligen.secret.md)
+

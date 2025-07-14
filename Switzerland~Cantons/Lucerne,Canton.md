@@ -44,11 +44,16 @@ markerFolder: ./Lucerne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne|Lucerne]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.public|Lucerne.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.internal|Lucerne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.protect|Lucerne.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.private|Lucerne.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.personal|Lucerne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Lucerne.secret|Lucerne.secret]] 
+
+### [Lucerne,Canton.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsLucerne,Canton.public.md) 
+
+### [Lucerne,Canton.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsLucerne,Canton.internal.md) 
+
+### [Lucerne,Canton.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsLucerne,Canton.protect.md) 
+
+### [Lucerne,Canton.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsLucerne,Canton.private.md) 
+
+### [Lucerne,Canton.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsLucerne,Canton.personal.md) 
+
+### [Lucerne,Canton.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsLucerne,Canton.secret.md)
 

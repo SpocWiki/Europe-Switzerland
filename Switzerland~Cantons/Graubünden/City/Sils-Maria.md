@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.43,9.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Sils-Maria|Sils-Maria]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sils-Maria.public|Sils-Maria.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sils-Maria.internal|Sils-Maria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sils-Maria.protect|Sils-Maria.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sils-Maria.private|Sils-Maria.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sils-Maria.personal|Sils-Maria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sils-Maria.secret|Sils-Maria.secret]] 
+
+### [Sils-Maria.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySils-Maria.public.md) 
+
+### [Sils-Maria.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySils-Maria.internal.md) 
+
+### [Sils-Maria.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySils-Maria.protect.md) 
+
+### [Sils-Maria.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySils-Maria.private.md) 
+
+### [Sils-Maria.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySils-Maria.personal.md) 
+
+### [Sils-Maria.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySils-Maria.secret.md)
+

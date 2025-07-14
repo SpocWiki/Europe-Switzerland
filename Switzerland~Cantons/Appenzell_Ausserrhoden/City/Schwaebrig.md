@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.38,9.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Schwaebrig|Schwaebrig]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schwaebrig.public|Schwaebrig.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schwaebrig.internal|Schwaebrig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schwaebrig.protect|Schwaebrig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schwaebrig.private|Schwaebrig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schwaebrig.personal|Schwaebrig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schwaebrig.secret|Schwaebrig.secret]] 
+
+### [Schwaebrig.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.public.md) 
+
+### [Schwaebrig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.internal.md) 
+
+### [Schwaebrig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.protect.md) 
+
+### [Schwaebrig.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.private.md) 
+
+### [Schwaebrig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.personal.md) 
+
+### [Schwaebrig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CitySchwaebrig.secret.md)
+

@@ -16,3 +16,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bern)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Bern,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\districts~Bern\Bern-district\municipalities~BernBern,City.public.md) 
+
+### [Bern,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\districts~Bern\Bern-district\municipalities~BernBern,City.internal.md) 
+
+### [Bern,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\districts~Bern\Bern-district\municipalities~BernBern,City.protect.md) 
+
+### [Bern,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\districts~Bern\Bern-district\municipalities~BernBern,City.private.md) 
+
+### [Bern,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\districts~Bern\Bern-district\municipalities~BernBern,City.personal.md) 
+
+### [Bern,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\districts~Bern\Bern-district\municipalities~BernBern,City.secret.md)
+

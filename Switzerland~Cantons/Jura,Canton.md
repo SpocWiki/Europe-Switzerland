@@ -43,11 +43,16 @@ markerFolder: ./Jura/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/Switzerland~Counties/Jura|Jura]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Jura.public|Jura.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Jura.internal|Jura.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Jura.protect|Jura.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Jura.private|Jura.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Jura.personal|Jura.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Jura.secret|Jura.secret]] 
+
+### [Jura,Canton.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsJura,Canton.public.md) 
+
+### [Jura,Canton.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsJura,Canton.internal.md) 
+
+### [Jura,Canton.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsJura,Canton.protect.md) 
+
+### [Jura,Canton.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsJura,Canton.private.md) 
+
+### [Jura,Canton.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsJura,Canton.personal.md) 
+
+### [Jura,Canton.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsJura,Canton.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47,8.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Gersau|Gersau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Gersau.public|Gersau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Gersau.internal|Gersau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Gersau.protect|Gersau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Gersau.private|Gersau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Gersau.personal|Gersau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Gersau.secret|Gersau.secret]] 
+
+### [Gersau.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\GersauGersau.public.md) 
+
+### [Gersau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\GersauGersau.internal.md) 
+
+### [Gersau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\GersauGersau.protect.md) 
+
+### [Gersau.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\GersauGersau.private.md) 
+
+### [Gersau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\GersauGersau.personal.md) 
+
+### [Gersau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\GersauGersau.secret.md)
+

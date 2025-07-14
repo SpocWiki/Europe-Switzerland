@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.13,8.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Einsiedeln|Einsiedeln]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Einsiedeln.public|Einsiedeln.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Einsiedeln.internal|Einsiedeln.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Einsiedeln.protect|Einsiedeln.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Einsiedeln.private|Einsiedeln.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Einsiedeln.personal|Einsiedeln.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Einsiedeln.secret|Einsiedeln.secret]] 
+
+### [Einsiedeln.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.public.md) 
+
+### [Einsiedeln.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.internal.md) 
+
+### [Einsiedeln.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.protect.md) 
+
+### [Einsiedeln.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.private.md) 
+
+### [Einsiedeln.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.personal.md) 
+
+### [Einsiedeln.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\EinsiedelnEinsiedeln.secret.md)
+

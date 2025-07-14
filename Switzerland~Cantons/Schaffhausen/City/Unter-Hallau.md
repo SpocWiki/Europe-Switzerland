@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.7,8.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Unter-Hallau|Unter-Hallau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Unter-Hallau.public|Unter-Hallau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Unter-Hallau.internal|Unter-Hallau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Unter-Hallau.protect|Unter-Hallau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Unter-Hallau.private|Unter-Hallau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Unter-Hallau.personal|Unter-Hallau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Unter-Hallau.secret|Unter-Hallau.secret]] 
+
+### [Unter-Hallau.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityUnter-Hallau.public.md) 
+
+### [Unter-Hallau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityUnter-Hallau.internal.md) 
+
+### [Unter-Hallau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityUnter-Hallau.protect.md) 
+
+### [Unter-Hallau.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityUnter-Hallau.private.md) 
+
+### [Unter-Hallau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityUnter-Hallau.personal.md) 
+
+### [Unter-Hallau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityUnter-Hallau.secret.md)
+

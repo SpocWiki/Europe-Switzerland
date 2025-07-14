@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.42,9.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Gossau|Gossau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Gossau.public|Gossau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Gossau.internal|Gossau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Gossau.protect|Gossau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Gossau.private|Gossau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Gossau.personal|Gossau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Gossau.secret|Gossau.secret]] 
+
+### [Gossau.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityGossau.public.md) 
+
+### [Gossau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityGossau.internal.md) 
+
+### [Gossau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityGossau.protect.md) 
+
+### [Gossau.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityGossau.private.md) 
+
+### [Gossau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityGossau.personal.md) 
+
+### [Gossau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityGossau.secret.md)
+

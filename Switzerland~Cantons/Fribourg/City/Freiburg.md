@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.8,7.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Freiburg|Freiburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Freiburg.public|Freiburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Freiburg.internal|Freiburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Freiburg.protect|Freiburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Freiburg.private|Freiburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Freiburg.personal|Freiburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Freiburg.secret|Freiburg.secret]] 
+
+### [Freiburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.public.md) 
+
+### [Freiburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.internal.md) 
+
+### [Freiburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.protect.md) 
+
+### [Freiburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.private.md) 
+
+### [Freiburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.personal.md) 
+
+### [Freiburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityFreiburg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.67,8.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Goeschenen|Goeschenen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Goeschenen.public|Goeschenen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Goeschenen.internal|Goeschenen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Goeschenen.protect|Goeschenen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Goeschenen.private|Goeschenen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Goeschenen.personal|Goeschenen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Goeschenen.secret|Goeschenen.secret]] 
+
+### [Goeschenen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGoeschenen.public.md) 
+
+### [Goeschenen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGoeschenen.internal.md) 
+
+### [Goeschenen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGoeschenen.protect.md) 
+
+### [Goeschenen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGoeschenen.private.md) 
+
+### [Goeschenen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGoeschenen.personal.md) 
+
+### [Goeschenen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGoeschenen.secret.md)
+

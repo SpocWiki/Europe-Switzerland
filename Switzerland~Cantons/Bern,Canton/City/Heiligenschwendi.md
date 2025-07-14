@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.75,7.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Heiligenschwendi|Heiligenschwendi]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.public|Heiligenschwendi.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.internal|Heiligenschwendi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.protect|Heiligenschwendi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.private|Heiligenschwendi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.personal|Heiligenschwendi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.secret|Heiligenschwendi.secret]] 
+
+### [Heiligenschwendi.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.public.md) 
+
+### [Heiligenschwendi.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.internal.md) 
+
+### [Heiligenschwendi.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.protect.md) 
+
+### [Heiligenschwendi.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.private.md) 
+
+### [Heiligenschwendi.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.personal.md) 
+
+### [Heiligenschwendi.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityHeiligenschwendi.secret.md)
+

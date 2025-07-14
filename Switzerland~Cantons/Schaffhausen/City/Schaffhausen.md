@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.7,8.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Schaffhausen|Schaffhausen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schaffhausen.public|Schaffhausen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schaffhausen.internal|Schaffhausen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schaffhausen.protect|Schaffhausen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schaffhausen.private|Schaffhausen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schaffhausen.personal|Schaffhausen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schaffhausen.secret|Schaffhausen.secret]] 
+
+### [Schaffhausen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.public.md) 
+
+### [Schaffhausen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.internal.md) 
+
+### [Schaffhausen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.protect.md) 
+
+### [Schaffhausen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.private.md) 
+
+### [Schaffhausen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.personal.md) 
+
+### [Schaffhausen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CitySchaffhausen.secret.md)
+

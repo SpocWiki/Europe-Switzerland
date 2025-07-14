@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.33,9.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Castasegna|Castasegna]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Castasegna.public|Castasegna.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Castasegna.internal|Castasegna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Castasegna.protect|Castasegna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Castasegna.private|Castasegna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Castasegna.personal|Castasegna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Castasegna.secret|Castasegna.secret]] 
+
+### [Castasegna.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityCastasegna.public.md) 
+
+### [Castasegna.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityCastasegna.internal.md) 
+
+### [Castasegna.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityCastasegna.protect.md) 
+
+### [Castasegna.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityCastasegna.private.md) 
+
+### [Castasegna.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityCastasegna.personal.md) 
+
+### [Castasegna.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityCastasegna.secret.md)
+

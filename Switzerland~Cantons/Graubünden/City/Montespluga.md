@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.52,9.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Montespluga|Montespluga]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Montespluga.public|Montespluga.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Montespluga.internal|Montespluga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Montespluga.protect|Montespluga.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Montespluga.private|Montespluga.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Montespluga.personal|Montespluga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Montespluga.secret|Montespluga.secret]] 
+
+### [Montespluga.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMontespluga.public.md) 
+
+### [Montespluga.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMontespluga.internal.md) 
+
+### [Montespluga.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMontespluga.protect.md) 
+
+### [Montespluga.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMontespluga.private.md) 
+
+### [Montespluga.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMontespluga.personal.md) 
+
+### [Montespluga.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMontespluga.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.22,7.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Savatan|Savatan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Savatan.public|Savatan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Savatan.internal|Savatan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Savatan.protect|Savatan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Savatan.private|Savatan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Savatan.personal|Savatan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Savatan.secret|Savatan.secret]] 
+
+### [Savatan.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CitySavatan.public.md) 
+
+### [Savatan.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CitySavatan.internal.md) 
+
+### [Savatan.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CitySavatan.protect.md) 
+
+### [Savatan.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CitySavatan.private.md) 
+
+### [Savatan.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CitySavatan.personal.md) 
+
+### [Savatan.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CitySavatan.secret.md)
+

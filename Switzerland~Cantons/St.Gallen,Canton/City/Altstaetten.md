@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.38,9.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Altstaetten|Altstaetten]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Altstaetten.public|Altstaetten.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Altstaetten.internal|Altstaetten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Altstaetten.protect|Altstaetten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Altstaetten.private|Altstaetten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Altstaetten.personal|Altstaetten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Altstaetten.secret|Altstaetten.secret]] 
+
+### [Altstaetten.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityAltstaetten.public.md) 
+
+### [Altstaetten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityAltstaetten.internal.md) 
+
+### [Altstaetten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityAltstaetten.protect.md) 
+
+### [Altstaetten.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityAltstaetten.private.md) 
+
+### [Altstaetten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityAltstaetten.personal.md) 
+
+### [Altstaetten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityAltstaetten.secret.md)
+

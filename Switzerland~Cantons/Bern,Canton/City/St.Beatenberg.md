@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.68,7.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/St.Beatenberg|St.Beatenberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/St.Beatenberg.public|St.Beatenberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/St.Beatenberg.internal|St.Beatenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/St.Beatenberg.protect|St.Beatenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/St.Beatenberg.private|St.Beatenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/St.Beatenberg.personal|St.Beatenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/St.Beatenberg.secret|St.Beatenberg.secret]] 
+
+### [St.Beatenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.public.md) 
+
+### [St.Beatenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.internal.md) 
+
+### [St.Beatenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.protect.md) 
+
+### [St.Beatenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.private.md) 
+
+### [St.Beatenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.personal.md) 
+
+### [St.Beatenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CitySt.Beatenberg.secret.md)
+

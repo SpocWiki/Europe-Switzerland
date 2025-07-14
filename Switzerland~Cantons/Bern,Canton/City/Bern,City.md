@@ -44,10 +44,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Bern|Bern]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bern.public|Bern.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bern.internal|Bern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bern.protect|Bern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bern.private|Bern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bern.personal|Bern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bern.secret|Bern.secret]] 
+
+### [Bern,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBern,City.public.md) 
+
+### [Bern,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBern,City.internal.md) 
+
+### [Bern,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBern,City.protect.md) 
+
+### [Bern,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBern,City.private.md) 
+
+### [Bern,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBern,City.personal.md) 
+
+### [Bern,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBern,City.secret.md)
+

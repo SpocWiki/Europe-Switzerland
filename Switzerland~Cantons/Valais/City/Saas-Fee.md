@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.12,7.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Saas-Fee|Saas-Fee]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Saas-Fee.public|Saas-Fee.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Saas-Fee.internal|Saas-Fee.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Saas-Fee.protect|Saas-Fee.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Saas-Fee.private|Saas-Fee.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Saas-Fee.personal|Saas-Fee.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Saas-Fee.secret|Saas-Fee.secret]] 
+
+### [Saas-Fee.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.public.md) 
+
+### [Saas-Fee.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.internal.md) 
+
+### [Saas-Fee.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.protect.md) 
+
+### [Saas-Fee.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.private.md) 
+
+### [Saas-Fee.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.personal.md) 
+
+### [Saas-Fee.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySaas-Fee.secret.md)
+

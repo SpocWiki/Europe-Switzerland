@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.25,9.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Saentis|Saentis]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Saentis.public|Saentis.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Saentis.internal|Saentis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Saentis.protect|Saentis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Saentis.private|Saentis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Saentis.personal|Saentis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Saentis.secret|Saentis.secret]] 
+
+### [Saentis.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySaentis.public.md) 
+
+### [Saentis.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySaentis.internal.md) 
+
+### [Saentis.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySaentis.protect.md) 
+
+### [Saentis.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySaentis.private.md) 
+
+### [Saentis.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySaentis.personal.md) 
+
+### [Saentis.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySaentis.secret.md)
+

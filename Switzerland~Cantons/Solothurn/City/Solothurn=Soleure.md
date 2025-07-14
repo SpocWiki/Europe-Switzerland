@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.22,7.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Solothurn=Soleure|Solothurn=Soleure]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Solothurn=Soleure.public|Solothurn=Soleure.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Solothurn=Soleure.internal|Solothurn=Soleure.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Solothurn=Soleure.protect|Solothurn=Soleure.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Solothurn=Soleure.private|Solothurn=Soleure.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Solothurn=Soleure.personal|Solothurn=Soleure.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Solothurn=Soleure.secret|Solothurn=Soleure.secret]] 
+
+### [Solothurn=Soleure.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySolothurn=Soleure.public.md) 
+
+### [Solothurn=Soleure.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySolothurn=Soleure.internal.md) 
+
+### [Solothurn=Soleure.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySolothurn=Soleure.protect.md) 
+
+### [Solothurn=Soleure.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySolothurn=Soleure.private.md) 
+
+### [Solothurn=Soleure.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySolothurn=Soleure.personal.md) 
+
+### [Solothurn=Soleure.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CitySolothurn=Soleure.secret.md)
+

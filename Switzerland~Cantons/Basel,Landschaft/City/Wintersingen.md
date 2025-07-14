@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.5,7.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Wintersingen|Wintersingen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Wintersingen.public|Wintersingen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Wintersingen.internal|Wintersingen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Wintersingen.protect|Wintersingen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Wintersingen.private|Wintersingen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Wintersingen.personal|Wintersingen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Wintersingen.secret|Wintersingen.secret]] 
+
+### [Wintersingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityWintersingen.public.md) 
+
+### [Wintersingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityWintersingen.internal.md) 
+
+### [Wintersingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityWintersingen.protect.md) 
+
+### [Wintersingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityWintersingen.private.md) 
+
+### [Wintersingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityWintersingen.personal.md) 
+
+### [Wintersingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityWintersingen.secret.md)
+

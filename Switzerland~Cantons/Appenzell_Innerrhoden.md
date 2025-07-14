@@ -41,11 +41,16 @@ markerFolder: ./Appenzell_Innerrhoden/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden|Appenzell_Innerrhoden]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.public|Appenzell_Innerrhoden.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.internal|Appenzell_Innerrhoden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.protect|Appenzell_Innerrhoden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.private|Appenzell_Innerrhoden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.personal|Appenzell_Innerrhoden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Innerrhoden.secret|Appenzell_Innerrhoden.secret]] 
+
+### [Appenzell_Innerrhoden.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.public.md) 
+
+### [Appenzell_Innerrhoden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.internal.md) 
+
+### [Appenzell_Innerrhoden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.protect.md) 
+
+### [Appenzell_Innerrhoden.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.private.md) 
+
+### [Appenzell_Innerrhoden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.personal.md) 
+
+### [Appenzell_Innerrhoden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Innerrhoden.secret.md)
 

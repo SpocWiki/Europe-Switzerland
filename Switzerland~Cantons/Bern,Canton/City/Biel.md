@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.15,7.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Biel|Biel]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Biel.public|Biel.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Biel.internal|Biel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Biel.protect|Biel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Biel.private|Biel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Biel.personal|Biel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Biel.secret|Biel.secret]] 
+
+### [Biel.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBiel.public.md) 
+
+### [Biel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBiel.internal.md) 
+
+### [Biel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBiel.protect.md) 
+
+### [Biel.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBiel.private.md) 
+
+### [Biel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBiel.personal.md) 
+
+### [Biel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityBiel.secret.md)
+

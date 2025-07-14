@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47,9.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Maienfeld|Maienfeld]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Maienfeld.public|Maienfeld.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Maienfeld.internal|Maienfeld.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Maienfeld.protect|Maienfeld.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Maienfeld.private|Maienfeld.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Maienfeld.personal|Maienfeld.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Maienfeld.secret|Maienfeld.secret]] 
+
+### [Maienfeld.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMaienfeld.public.md) 
+
+### [Maienfeld.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMaienfeld.internal.md) 
+
+### [Maienfeld.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMaienfeld.protect.md) 
+
+### [Maienfeld.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMaienfeld.private.md) 
+
+### [Maienfeld.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMaienfeld.personal.md) 
+
+### [Maienfeld.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityMaienfeld.secret.md)
+

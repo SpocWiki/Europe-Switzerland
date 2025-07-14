@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.68,6.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Romont|Romont]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Romont.public|Romont.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Romont.internal|Romont.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Romont.protect|Romont.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Romont.private|Romont.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Romont.personal|Romont.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Romont.secret|Romont.secret]] 
+
+### [Romont.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityRomont.public.md) 
+
+### [Romont.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityRomont.internal.md) 
+
+### [Romont.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityRomont.protect.md) 
+
+### [Romont.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityRomont.private.md) 
+
+### [Romont.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityRomont.personal.md) 
+
+### [Romont.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityRomont.secret.md)
+

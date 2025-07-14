@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.3,7.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Siders|Siders]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Siders.public|Siders.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Siders.internal|Siders.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Siders.protect|Siders.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Siders.private|Siders.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Siders.personal|Siders.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Siders.secret|Siders.secret]] 
+
+### [Siders.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySiders.public.md) 
+
+### [Siders.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySiders.internal.md) 
+
+### [Siders.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySiders.protect.md) 
+
+### [Siders.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySiders.private.md) 
+
+### [Siders.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySiders.personal.md) 
+
+### [Siders.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySiders.secret.md)
+

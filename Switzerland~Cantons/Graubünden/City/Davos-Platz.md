@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.8,9.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Davos-Platz|Davos-Platz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Davos-Platz.public|Davos-Platz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Davos-Platz.internal|Davos-Platz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Davos-Platz.protect|Davos-Platz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Davos-Platz.private|Davos-Platz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Davos-Platz.personal|Davos-Platz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Davos-Platz.secret|Davos-Platz.secret]] 
+
+### [Davos-Platz.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityDavos-Platz.public.md) 
+
+### [Davos-Platz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityDavos-Platz.internal.md) 
+
+### [Davos-Platz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityDavos-Platz.protect.md) 
+
+### [Davos-Platz.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityDavos-Platz.private.md) 
+
+### [Davos-Platz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityDavos-Platz.personal.md) 
+
+### [Davos-Platz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityDavos-Platz.secret.md)
+

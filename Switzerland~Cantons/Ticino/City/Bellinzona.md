@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.18,9.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Bellinzona|Bellinzona]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bellinzona.public|Bellinzona.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bellinzona.internal|Bellinzona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bellinzona.protect|Bellinzona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bellinzona.private|Bellinzona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bellinzona.personal|Bellinzona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bellinzona.secret|Bellinzona.secret]] 
+
+### [Bellinzona.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBellinzona.public.md) 
+
+### [Bellinzona.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBellinzona.internal.md) 
+
+### [Bellinzona.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBellinzona.protect.md) 
+
+### [Bellinzona.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBellinzona.private.md) 
+
+### [Bellinzona.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBellinzona.personal.md) 
+
+### [Bellinzona.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBellinzona.secret.md)
+

@@ -24,3 +24,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lucerne)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Luzern,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\districts~LucerneLuzern,City.public.md) 
+
+### [Luzern,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\districts~LucerneLuzern,City.internal.md) 
+
+### [Luzern,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\districts~LucerneLuzern,City.protect.md) 
+
+### [Luzern,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\districts~LucerneLuzern,City.private.md) 
+
+### [Luzern,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\districts~LucerneLuzern,City.personal.md) 
+
+### [Luzern,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\districts~LucerneLuzern,City.secret.md)
+

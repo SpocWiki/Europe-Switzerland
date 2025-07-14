@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.5,9.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Bernhardin|Bernhardin]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bernhardin.public|Bernhardin.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bernhardin.internal|Bernhardin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bernhardin.protect|Bernhardin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bernhardin.private|Bernhardin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bernhardin.personal|Bernhardin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bernhardin.secret|Bernhardin.secret]] 
+
+### [Bernhardin.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBernhardin.public.md) 
+
+### [Bernhardin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBernhardin.internal.md) 
+
+### [Bernhardin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBernhardin.protect.md) 
+
+### [Bernhardin.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBernhardin.private.md) 
+
+### [Bernhardin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBernhardin.personal.md) 
+
+### [Bernhardin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBernhardin.secret.md)
+

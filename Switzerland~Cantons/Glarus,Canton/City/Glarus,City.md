@@ -40,10 +40,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Glarus|Glarus]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Glarus.public|Glarus.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Glarus.internal|Glarus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Glarus.protect|Glarus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Glarus.private|Glarus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Glarus.personal|Glarus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Glarus.secret|Glarus.secret]] 
+
+### [Glarus,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.public.md) 
+
+### [Glarus,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.internal.md) 
+
+### [Glarus,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.protect.md) 
+
+### [Glarus,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.private.md) 
+
+### [Glarus,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.personal.md) 
+
+### [Glarus,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityGlarus,City.secret.md)
+

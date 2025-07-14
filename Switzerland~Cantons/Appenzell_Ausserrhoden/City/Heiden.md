@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.45,9.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Heiden|Heiden]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Heiden.public|Heiden.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Heiden.internal|Heiden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Heiden.protect|Heiden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Heiden.private|Heiden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Heiden.personal|Heiden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Heiden.secret|Heiden.secret]] 
+
+### [Heiden.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CityHeiden.public.md) 
+
+### [Heiden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CityHeiden.internal.md) 
+
+### [Heiden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CityHeiden.protect.md) 
+
+### [Heiden.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CityHeiden.private.md) 
+
+### [Heiden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CityHeiden.personal.md) 
+
+### [Heiden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Ausserrhoden\CityHeiden.secret.md)
+

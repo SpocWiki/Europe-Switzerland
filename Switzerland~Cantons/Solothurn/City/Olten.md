@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.35,7.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Olten|Olten]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Olten.public|Olten.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Olten.internal|Olten.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Olten.protect|Olten.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Olten.private|Olten.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Olten.personal|Olten.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Olten.secret|Olten.secret]] 
+
+### [Olten.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityOlten.public.md) 
+
+### [Olten.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityOlten.internal.md) 
+
+### [Olten.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityOlten.protect.md) 
+
+### [Olten.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityOlten.private.md) 
+
+### [Olten.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityOlten.personal.md) 
+
+### [Olten.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityOlten.secret.md)
+

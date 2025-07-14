@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.63,10.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Buffalora|Buffalora]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Buffalora.public|Buffalora.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Buffalora.internal|Buffalora.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Buffalora.protect|Buffalora.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Buffalora.private|Buffalora.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Buffalora.personal|Buffalora.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Buffalora.secret|Buffalora.secret]] 
+
+### [Buffalora.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBuffalora.public.md) 
+
+### [Buffalora.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBuffalora.internal.md) 
+
+### [Buffalora.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBuffalora.protect.md) 
+
+### [Buffalora.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBuffalora.private.md) 
+
+### [Buffalora.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBuffalora.personal.md) 
+
+### [Buffalora.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBuffalora.secret.md)
+

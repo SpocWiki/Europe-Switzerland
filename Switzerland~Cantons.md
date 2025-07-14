@@ -29,3 +29,20 @@ storeFolderCondition: true
 showFolderNotes: false
 disableCollapseIcon: false
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### [Switzerland~Cantons.public](/_public/\Earth\Continent\Europe\Europe~Central\SwitzerlandSwitzerland~Cantons.public.md) 
+
+### [Switzerland~Cantons.internal](/_internal/\Earth\Continent\Europe\Europe~Central\SwitzerlandSwitzerland~Cantons.internal.md) 
+
+### [Switzerland~Cantons.protect](/_protect/\Earth\Continent\Europe\Europe~Central\SwitzerlandSwitzerland~Cantons.protect.md) 
+
+### [Switzerland~Cantons.private](/_private/\Earth\Continent\Europe\Europe~Central\SwitzerlandSwitzerland~Cantons.private.md) 
+
+### [Switzerland~Cantons.personal](/_personal/\Earth\Continent\Europe\Europe~Central\SwitzerlandSwitzerland~Cantons.personal.md) 
+
+### [Switzerland~Cantons.secret](/_secret/\Earth\Continent\Europe\Europe~Central\SwitzerlandSwitzerland~Cantons.secret.md)
+

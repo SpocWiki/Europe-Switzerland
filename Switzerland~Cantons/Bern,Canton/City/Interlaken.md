@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.7,7.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Interlaken|Interlaken]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Interlaken.public|Interlaken.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Interlaken.internal|Interlaken.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Interlaken.protect|Interlaken.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Interlaken.private|Interlaken.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Interlaken.personal|Interlaken.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Interlaken.secret|Interlaken.secret]] 
+
+### [Interlaken.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityInterlaken.public.md) 
+
+### [Interlaken.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityInterlaken.internal.md) 
+
+### [Interlaken.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityInterlaken.protect.md) 
+
+### [Interlaken.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityInterlaken.private.md) 
+
+### [Interlaken.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityInterlaken.personal.md) 
+
+### [Interlaken.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityInterlaken.secret.md)
+

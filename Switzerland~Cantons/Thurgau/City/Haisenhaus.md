@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.65,9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Haisenhaus|Haisenhaus]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Haisenhaus.public|Haisenhaus.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Haisenhaus.internal|Haisenhaus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Haisenhaus.protect|Haisenhaus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Haisenhaus.private|Haisenhaus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Haisenhaus.personal|Haisenhaus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Haisenhaus.secret|Haisenhaus.secret]] 
+
+### [Haisenhaus.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityHaisenhaus.public.md) 
+
+### [Haisenhaus.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityHaisenhaus.internal.md) 
+
+### [Haisenhaus.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityHaisenhaus.protect.md) 
+
+### [Haisenhaus.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityHaisenhaus.private.md) 
+
+### [Haisenhaus.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityHaisenhaus.personal.md) 
+
+### [Haisenhaus.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityHaisenhaus.secret.md)
+

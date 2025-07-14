@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.68,8.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Stein~Rhein|Stein~Rhein]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Stein~Rhein.public|Stein~Rhein.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Stein~Rhein.internal|Stein~Rhein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Stein~Rhein.protect|Stein~Rhein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Stein~Rhein.private|Stein~Rhein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Stein~Rhein.personal|Stein~Rhein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Stein~Rhein.secret|Stein~Rhein.secret]] 
+
+### [Stein~Rhein.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\CityStein~Rhein.public.md) 
+
+### [Stein~Rhein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\CityStein~Rhein.internal.md) 
+
+### [Stein~Rhein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\CityStein~Rhein.protect.md) 
+
+### [Stein~Rhein.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\CityStein~Rhein.private.md) 
+
+### [Stein~Rhein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\CityStein~Rhein.personal.md) 
+
+### [Stein~Rhein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\CityStein~Rhein.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.02,6.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Chaumont|Chaumont]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chaumont.public|Chaumont.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chaumont.internal|Chaumont.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chaumont.protect|Chaumont.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chaumont.private|Chaumont.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chaumont.personal|Chaumont.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chaumont.secret|Chaumont.secret]] 
+
+### [Chaumont.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaumont.public.md) 
+
+### [Chaumont.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaumont.internal.md) 
+
+### [Chaumont.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaumont.protect.md) 
+
+### [Chaumont.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaumont.private.md) 
+
+### [Chaumont.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaumont.personal.md) 
+
+### [Chaumont.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaumont.secret.md)
+

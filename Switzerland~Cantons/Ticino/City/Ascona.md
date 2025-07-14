@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.15,8.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Ascona|Ascona]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Ascona.public|Ascona.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Ascona.internal|Ascona.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Ascona.protect|Ascona.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Ascona.private|Ascona.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Ascona.personal|Ascona.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Ascona.secret|Ascona.secret]] 
+
+### [Ascona.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAscona.public.md) 
+
+### [Ascona.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAscona.internal.md) 
+
+### [Ascona.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAscona.protect.md) 
+
+### [Ascona.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAscona.private.md) 
+
+### [Ascona.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAscona.personal.md) 
+
+### [Ascona.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAscona.secret.md)
+

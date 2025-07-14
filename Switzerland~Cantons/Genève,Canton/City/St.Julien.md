@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.15,6.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/France/City/St.Julien|St.Julien]] 
-- [[../../../../../../_public/geo/Continent/Europe/France/City/St.Julien.public|St.Julien.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/St.Julien.internal|St.Julien.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/St.Julien.protect|St.Julien.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/St.Julien.private|St.Julien.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/St.Julien.personal|St.Julien.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/St.Julien.secret|St.Julien.secret]] 
+
+### [St.Julien.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\CitySt.Julien.public.md) 
+
+### [St.Julien.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\CitySt.Julien.internal.md) 
+
+### [St.Julien.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\CitySt.Julien.protect.md) 
+
+### [St.Julien.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\CitySt.Julien.private.md) 
+
+### [St.Julien.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\CitySt.Julien.personal.md) 
+
+### [St.Julien.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Genève,Canton\CitySt.Julien.secret.md)
+

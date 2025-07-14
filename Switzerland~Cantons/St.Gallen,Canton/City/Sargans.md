@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.05,9.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Sargans|Sargans]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sargans.public|Sargans.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sargans.internal|Sargans.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sargans.protect|Sargans.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sargans.private|Sargans.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sargans.personal|Sargans.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sargans.secret|Sargans.secret]] 
+
+### [Sargans.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySargans.public.md) 
+
+### [Sargans.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySargans.internal.md) 
+
+### [Sargans.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySargans.protect.md) 
+
+### [Sargans.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySargans.private.md) 
+
+### [Sargans.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySargans.personal.md) 
+
+### [Sargans.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CitySargans.secret.md)
+

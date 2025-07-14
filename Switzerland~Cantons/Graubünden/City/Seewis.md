@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.98,9.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Seewis|Seewis]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Seewis.public|Seewis.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Seewis.internal|Seewis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Seewis.protect|Seewis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Seewis.private|Seewis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Seewis.personal|Seewis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Seewis.secret|Seewis.secret]] 
+
+### [Seewis.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySeewis.public.md) 
+
+### [Seewis.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySeewis.internal.md) 
+
+### [Seewis.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySeewis.protect.md) 
+
+### [Seewis.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySeewis.private.md) 
+
+### [Seewis.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySeewis.personal.md) 
+
+### [Seewis.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySeewis.secret.md)
+

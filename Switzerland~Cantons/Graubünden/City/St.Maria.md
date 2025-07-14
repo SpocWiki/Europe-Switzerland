@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.6,10.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/St.Maria|St.Maria]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/St.Maria.public|St.Maria.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/St.Maria.internal|St.Maria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/St.Maria.protect|St.Maria.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/St.Maria.private|St.Maria.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/St.Maria.personal|St.Maria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/St.Maria.secret|St.Maria.secret]] 
+
+### [St.Maria.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Maria.public.md) 
+
+### [St.Maria.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Maria.internal.md) 
+
+### [St.Maria.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Maria.protect.md) 
+
+### [St.Maria.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Maria.private.md) 
+
+### [St.Maria.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Maria.personal.md) 
+
+### [St.Maria.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySt.Maria.secret.md)
+

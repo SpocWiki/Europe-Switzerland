@@ -40,11 +40,16 @@ markerFolder: ./Fribourg/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/Switzerland~Counties/Fribourg|Fribourg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Fribourg.public|Fribourg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Fribourg.internal|Fribourg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Fribourg.protect|Fribourg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Fribourg.private|Fribourg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Fribourg.personal|Fribourg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Fribourg.secret|Fribourg.secret]] 
+
+### [Fribourg.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsFribourg.public.md) 
+
+### [Fribourg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsFribourg.internal.md) 
+
+### [Fribourg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsFribourg.protect.md) 
+
+### [Fribourg.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsFribourg.private.md) 
+
+### [Fribourg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsFribourg.personal.md) 
+
+### [Fribourg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsFribourg.secret.md)
 

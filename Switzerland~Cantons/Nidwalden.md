@@ -40,11 +40,16 @@ markerFolder: ./Nidwalden/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/Switzerland~Counties/Nidwalden|Nidwalden]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Nidwalden.public|Nidwalden.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Nidwalden.internal|Nidwalden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Nidwalden.protect|Nidwalden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Nidwalden.private|Nidwalden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Nidwalden.personal|Nidwalden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Nidwalden.secret|Nidwalden.secret]] 
+
+### [Nidwalden.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNidwalden.public.md) 
+
+### [Nidwalden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNidwalden.internal.md) 
+
+### [Nidwalden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNidwalden.protect.md) 
+
+### [Nidwalden.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNidwalden.private.md) 
+
+### [Nidwalden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNidwalden.personal.md) 
+
+### [Nidwalden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsNidwalden.secret.md)
 

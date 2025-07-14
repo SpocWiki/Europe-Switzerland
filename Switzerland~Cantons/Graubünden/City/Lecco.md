@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.83,9.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Lecco|Lecco]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lecco.public|Lecco.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lecco.internal|Lecco.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lecco.protect|Lecco.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lecco.private|Lecco.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lecco.personal|Lecco.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lecco.secret|Lecco.secret]] 
+
+### [Lecco.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityLecco.public.md) 
+
+### [Lecco.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityLecco.internal.md) 
+
+### [Lecco.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityLecco.protect.md) 
+
+### [Lecco.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityLecco.private.md) 
+
+### [Lecco.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityLecco.personal.md) 
+
+### [Lecco.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityLecco.secret.md)
+

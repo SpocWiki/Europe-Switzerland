@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.57,8.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Boettstein|Boettstein]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Boettstein.public|Boettstein.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Boettstein.internal|Boettstein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Boettstein.protect|Boettstein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Boettstein.private|Boettstein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Boettstein.personal|Boettstein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Boettstein.secret|Boettstein.secret]] 
+
+### [Boettstein.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.public.md) 
+
+### [Boettstein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.internal.md) 
+
+### [Boettstein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.protect.md) 
+
+### [Boettstein.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.private.md) 
+
+### [Boettstein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.personal.md) 
+
+### [Boettstein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBoettstein.secret.md)
+

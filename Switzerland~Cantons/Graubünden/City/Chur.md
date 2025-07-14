@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.85,9.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Chur|Chur]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chur.public|Chur.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chur.internal|Chur.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chur.protect|Chur.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chur.private|Chur.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chur.personal|Chur.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chur.secret|Chur.secret]] 
+
+### [Chur.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityChur.public.md) 
+
+### [Chur.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityChur.internal.md) 
+
+### [Chur.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityChur.protect.md) 
+
+### [Chur.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityChur.private.md) 
+
+### [Chur.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityChur.personal.md) 
+
+### [Chur.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityChur.secret.md)
+

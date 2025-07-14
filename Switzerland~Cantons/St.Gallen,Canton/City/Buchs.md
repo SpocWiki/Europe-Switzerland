@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.17,9.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Buchs|Buchs]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Buchs.public|Buchs.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Buchs.internal|Buchs.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Buchs.protect|Buchs.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Buchs.private|Buchs.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Buchs.personal|Buchs.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Buchs.secret|Buchs.secret]] 
+
+### [Buchs.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityBuchs.public.md) 
+
+### [Buchs.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityBuchs.internal.md) 
+
+### [Buchs.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityBuchs.protect.md) 
+
+### [Buchs.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityBuchs.private.md) 
+
+### [Buchs.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityBuchs.personal.md) 
+
+### [Buchs.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityBuchs.secret.md)
+

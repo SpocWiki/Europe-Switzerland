@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.48,7.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Liestal|Liestal]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Liestal.public|Liestal.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Liestal.internal|Liestal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Liestal.protect|Liestal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Liestal.private|Liestal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Liestal.personal|Liestal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Liestal.secret|Liestal.secret]] 
+
+### [Liestal.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityLiestal.public.md) 
+
+### [Liestal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityLiestal.internal.md) 
+
+### [Liestal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityLiestal.protect.md) 
+
+### [Liestal.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityLiestal.private.md) 
+
+### [Liestal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityLiestal.personal.md) 
+
+### [Liestal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Landschaft\CityLiestal.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.17,8.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Zug|Zug]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Zug.public|Zug.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zug.internal|Zug.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zug.protect|Zug.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zug.private|Zug.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zug.personal|Zug.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zug.secret|Zug.secret]] 
+
+### [Zug.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.public.md) 
+
+### [Zug.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.internal.md) 
+
+### [Zug.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.protect.md) 
+
+### [Zug.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.private.md) 
+
+### [Zug.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.personal.md) 
+
+### [Zug.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\Zug-municipalityZug.secret.md)
+

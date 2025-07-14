@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.3,9.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Braggio|Braggio]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Braggio.public|Braggio.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Braggio.internal|Braggio.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Braggio.protect|Braggio.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Braggio.private|Braggio.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Braggio.personal|Braggio.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Braggio.secret|Braggio.secret]] 
+
+### [Braggio.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBraggio.public.md) 
+
+### [Braggio.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBraggio.internal.md) 
+
+### [Braggio.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBraggio.protect.md) 
+
+### [Braggio.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBraggio.private.md) 
+
+### [Braggio.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBraggio.personal.md) 
+
+### [Braggio.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBraggio.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.47,8.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Baden|Baden]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Baden.public|Baden.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Baden.internal|Baden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Baden.protect|Baden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Baden.private|Baden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Baden.personal|Baden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Baden.secret|Baden.secret]] 
+
+### [Baden.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBaden.public.md) 
+
+### [Baden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBaden.internal.md) 
+
+### [Baden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBaden.protect.md) 
+
+### [Baden.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBaden.private.md) 
+
+### [Baden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBaden.personal.md) 
+
+### [Baden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Aargau\CityBaden.secret.md)
+

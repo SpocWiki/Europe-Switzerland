@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.75,8.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Lohn|Lohn]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lohn.public|Lohn.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lohn.internal|Lohn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lohn.protect|Lohn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lohn.private|Lohn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lohn.personal|Lohn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lohn.secret|Lohn.secret]] 
+
+### [Lohn.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityLohn.public.md) 
+
+### [Lohn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityLohn.internal.md) 
+
+### [Lohn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityLohn.protect.md) 
+
+### [Lohn.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityLohn.private.md) 
+
+### [Lohn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityLohn.personal.md) 
+
+### [Lohn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schaffhausen\CityLohn.secret.md)
+

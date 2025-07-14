@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.72,10.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Scarl=S-charl|Scarl=S-charl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.public|Scarl=S-charl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.internal|Scarl=S-charl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.protect|Scarl=S-charl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.private|Scarl=S-charl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.personal|Scarl=S-charl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.secret|Scarl=S-charl.secret]] 
+
+### [Scarl=S-charl.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.public.md) 
+
+### [Scarl=S-charl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.internal.md) 
+
+### [Scarl=S-charl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.protect.md) 
+
+### [Scarl=S-charl.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.private.md) 
+
+### [Scarl=S-charl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.personal.md) 
+
+### [Scarl=S-charl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityScarl=S-charl.secret.md)
+

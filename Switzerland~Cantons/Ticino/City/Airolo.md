@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.52,8.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Airolo|Airolo]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Airolo.public|Airolo.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Airolo.internal|Airolo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Airolo.protect|Airolo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Airolo.private|Airolo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Airolo.personal|Airolo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Airolo.secret|Airolo.secret]] 
+
+### [Airolo.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAirolo.public.md) 
+
+### [Airolo.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAirolo.internal.md) 
+
+### [Airolo.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAirolo.protect.md) 
+
+### [Airolo.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAirolo.private.md) 
+
+### [Airolo.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAirolo.personal.md) 
+
+### [Airolo.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityAirolo.secret.md)
+

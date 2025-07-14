@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Graechen|Graechen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Graechen.public|Graechen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Graechen.internal|Graechen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Graechen.protect|Graechen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Graechen.private|Graechen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Graechen.personal|Graechen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Graechen.secret|Graechen.secret]] 
+
+### [Grächen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.public.md) 
+
+### [Grächen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.internal.md) 
+
+### [Grächen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.protect.md) 
+
+### [Grächen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.private.md) 
+
+### [Grächen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.personal.md) 
+
+### [Grächen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispGrächen.secret.md)
+

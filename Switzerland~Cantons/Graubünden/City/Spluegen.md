@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.55,9.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Spluegen|Spluegen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Spluegen.public|Spluegen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Spluegen.internal|Spluegen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Spluegen.protect|Spluegen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Spluegen.private|Spluegen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Spluegen.personal|Spluegen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Spluegen.secret|Spluegen.secret]] 
+
+### [Spluegen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySpluegen.public.md) 
+
+### [Spluegen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySpluegen.internal.md) 
+
+### [Spluegen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySpluegen.protect.md) 
+
+### [Spluegen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySpluegen.private.md) 
+
+### [Spluegen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySpluegen.personal.md) 
+
+### [Spluegen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySpluegen.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.93,7.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Langnau|Langnau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Langnau.public|Langnau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Langnau.internal|Langnau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Langnau.protect|Langnau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Langnau.private|Langnau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Langnau.personal|Langnau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Langnau.secret|Langnau.secret]] 
+
+### [Langnau.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityLangnau.public.md) 
+
+### [Langnau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityLangnau.internal.md) 
+
+### [Langnau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityLangnau.protect.md) 
+
+### [Langnau.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityLangnau.private.md) 
+
+### [Langnau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityLangnau.personal.md) 
+
+### [Langnau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityLangnau.secret.md)
+

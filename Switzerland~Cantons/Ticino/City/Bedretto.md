@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.5,8.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Bedretto|Bedretto]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bedretto.public|Bedretto.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bedretto.internal|Bedretto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bedretto.protect|Bedretto.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bedretto.private|Bedretto.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bedretto.personal|Bedretto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bedretto.secret|Bedretto.secret]] 
+
+### [Bedretto.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBedretto.public.md) 
+
+### [Bedretto.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBedretto.internal.md) 
+
+### [Bedretto.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBedretto.protect.md) 
+
+### [Bedretto.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBedretto.private.md) 
+
+### [Bedretto.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBedretto.personal.md) 
+
+### [Bedretto.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityBedretto.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.65,7.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Marsens|Marsens]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Marsens.public|Marsens.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Marsens.internal|Marsens.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Marsens.protect|Marsens.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Marsens.private|Marsens.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Marsens.personal|Marsens.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Marsens.secret|Marsens.secret]] 
+
+### [Marsens.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityMarsens.public.md) 
+
+### [Marsens.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityMarsens.internal.md) 
+
+### [Marsens.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityMarsens.protect.md) 
+
+### [Marsens.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityMarsens.private.md) 
+
+### [Marsens.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityMarsens.personal.md) 
+
+### [Marsens.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Fribourg\CityMarsens.secret.md)
+

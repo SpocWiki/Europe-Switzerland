@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.93,8.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Braunwald|Braunwald]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Braunwald.public|Braunwald.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Braunwald.internal|Braunwald.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Braunwald.protect|Braunwald.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Braunwald.private|Braunwald.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Braunwald.personal|Braunwald.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Braunwald.secret|Braunwald.secret]] 
+
+### [Braunwald.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityBraunwald.public.md) 
+
+### [Braunwald.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityBraunwald.internal.md) 
+
+### [Braunwald.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityBraunwald.protect.md) 
+
+### [Braunwald.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityBraunwald.private.md) 
+
+### [Braunwald.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityBraunwald.personal.md) 
+
+### [Braunwald.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityBraunwald.secret.md)
+

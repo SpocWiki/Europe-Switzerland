@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.2,9.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Wildhaus|Wildhaus]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Wildhaus.public|Wildhaus.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Wildhaus.internal|Wildhaus.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Wildhaus.protect|Wildhaus.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Wildhaus.private|Wildhaus.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Wildhaus.personal|Wildhaus.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Wildhaus.secret|Wildhaus.secret]] 
+
+### [Wildhaus.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWildhaus.public.md) 
+
+### [Wildhaus.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWildhaus.internal.md) 
+
+### [Wildhaus.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWildhaus.protect.md) 
+
+### [Wildhaus.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWildhaus.private.md) 
+
+### [Wildhaus.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWildhaus.personal.md) 
+
+### [Wildhaus.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityWildhaus.secret.md)
+

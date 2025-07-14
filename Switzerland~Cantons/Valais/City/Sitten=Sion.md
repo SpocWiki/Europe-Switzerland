@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.23,7.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Sitten=Sion|Sitten=Sion]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sitten=Sion.public|Sitten=Sion.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sitten=Sion.internal|Sitten=Sion.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sitten=Sion.protect|Sitten=Sion.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sitten=Sion.private|Sitten=Sion.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sitten=Sion.personal|Sitten=Sion.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sitten=Sion.secret|Sitten=Sion.secret]] 
+
+### [Sitten=Sion.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.public.md) 
+
+### [Sitten=Sion.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.internal.md) 
+
+### [Sitten=Sion.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.protect.md) 
+
+### [Sitten=Sion.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.private.md) 
+
+### [Sitten=Sion.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.personal.md) 
+
+### [Sitten=Sion.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CitySitten=Sion.secret.md)
+

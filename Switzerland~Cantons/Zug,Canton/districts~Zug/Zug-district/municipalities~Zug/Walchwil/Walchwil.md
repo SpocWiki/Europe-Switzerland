@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.1,8.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Walchwil|Walchwil]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Walchwil.public|Walchwil.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Walchwil.internal|Walchwil.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Walchwil.protect|Walchwil.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Walchwil.private|Walchwil.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Walchwil.personal|Walchwil.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Walchwil.secret|Walchwil.secret]] 
+
+### [Walchwil.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\WalchwilWalchwil.public.md) 
+
+### [Walchwil.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\WalchwilWalchwil.internal.md) 
+
+### [Walchwil.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\WalchwilWalchwil.protect.md) 
+
+### [Walchwil.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\WalchwilWalchwil.private.md) 
+
+### [Walchwil.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\WalchwilWalchwil.personal.md) 
+
+### [Walchwil.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zug,Canton\districts~Zug\Zug-district\municipalities~Zug\WalchwilWalchwil.secret.md)
+

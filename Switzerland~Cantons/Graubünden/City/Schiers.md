@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.97,9.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Schiers|Schiers]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schiers.public|Schiers.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schiers.internal|Schiers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schiers.protect|Schiers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schiers.private|Schiers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schiers.personal|Schiers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schiers.secret|Schiers.secret]] 
+
+### [Schiers.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchiers.public.md) 
+
+### [Schiers.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchiers.internal.md) 
+
+### [Schiers.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchiers.protect.md) 
+
+### [Schiers.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchiers.private.md) 
+
+### [Schiers.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchiers.personal.md) 
+
+### [Schiers.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchiers.secret.md)
+

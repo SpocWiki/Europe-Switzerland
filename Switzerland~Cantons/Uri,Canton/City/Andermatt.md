@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.63,8.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Andermatt|Andermatt]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Andermatt.public|Andermatt.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Andermatt.internal|Andermatt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Andermatt.protect|Andermatt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Andermatt.private|Andermatt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Andermatt.personal|Andermatt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Andermatt.secret|Andermatt.secret]] 
+
+### [Andermatt.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.public.md) 
+
+### [Andermatt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.internal.md) 
+
+### [Andermatt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.protect.md) 
+
+### [Andermatt.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.private.md) 
+
+### [Andermatt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.personal.md) 
+
+### [Andermatt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityAndermatt.secret.md)
+

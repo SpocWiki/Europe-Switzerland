@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.3,8.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Zofingen|Zofingen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Zofingen.public|Zofingen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zofingen.internal|Zofingen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zofingen.protect|Zofingen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zofingen.private|Zofingen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zofingen.personal|Zofingen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zofingen.secret|Zofingen.secret]] 
+
+### [Zofingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityZofingen.public.md) 
+
+### [Zofingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityZofingen.internal.md) 
+
+### [Zofingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityZofingen.protect.md) 
+
+### [Zofingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityZofingen.private.md) 
+
+### [Zofingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityZofingen.personal.md) 
+
+### [Zofingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityZofingen.secret.md)
+

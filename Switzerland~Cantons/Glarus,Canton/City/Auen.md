@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.9,8.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Auen|Auen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Auen.public|Auen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Auen.internal|Auen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Auen.protect|Auen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Auen.private|Auen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Auen.personal|Auen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Auen.secret|Auen.secret]] 
+
+### [Auen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.public.md) 
+
+### [Auen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.internal.md) 
+
+### [Auen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.protect.md) 
+
+### [Auen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.private.md) 
+
+### [Auen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.personal.md) 
+
+### [Auen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Glarus,Canton\CityAuen.secret.md)
+

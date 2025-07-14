@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.8,8.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Lungern|Lungern]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lungern.public|Lungern.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lungern.internal|Lungern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lungern.protect|Lungern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lungern.private|Lungern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lungern.personal|Lungern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lungern.secret|Lungern.secret]] 
+
+### [Lungern.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.public.md) 
+
+### [Lungern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.internal.md) 
+
+### [Lungern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.protect.md) 
+
+### [Lungern.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.private.md) 
+
+### [Lungern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.personal.md) 
+
+### [Lungern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Obwalden\CityLungern.secret.md)
+

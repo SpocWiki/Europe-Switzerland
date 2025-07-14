@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.32,9.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Lichtensteig|Lichtensteig]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lichtensteig.public|Lichtensteig.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lichtensteig.internal|Lichtensteig.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lichtensteig.protect|Lichtensteig.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lichtensteig.private|Lichtensteig.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lichtensteig.personal|Lichtensteig.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lichtensteig.secret|Lichtensteig.secret]] 
+
+### [Lichtensteig.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityLichtensteig.public.md) 
+
+### [Lichtensteig.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityLichtensteig.internal.md) 
+
+### [Lichtensteig.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityLichtensteig.protect.md) 
+
+### [Lichtensteig.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityLichtensteig.private.md) 
+
+### [Lichtensteig.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityLichtensteig.personal.md) 
+
+### [Lichtensteig.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityLichtensteig.secret.md)
+

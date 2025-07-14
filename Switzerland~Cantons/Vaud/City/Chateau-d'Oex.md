@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.48,7.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex|Chateau-d'Oex]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.public|Chateau-d'Oex.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.internal|Chateau-d'Oex.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.protect|Chateau-d'Oex.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.private|Chateau-d'Oex.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.personal|Chateau-d'Oex.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chateau-d'Oex.secret|Chateau-d'Oex.secret]] 
+
+### [Chateau-d'Oex.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityChateau-d'Oex.public.md) 
+
+### [Chateau-d'Oex.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityChateau-d'Oex.internal.md) 
+
+### [Chateau-d'Oex.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityChateau-d'Oex.protect.md) 
+
+### [Chateau-d'Oex.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityChateau-d'Oex.private.md) 
+
+### [Chateau-d'Oex.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityChateau-d'Oex.personal.md) 
+
+### [Chateau-d'Oex.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityChateau-d'Oex.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.47,7.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Dornach|Dornach]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Dornach.public|Dornach.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Dornach.internal|Dornach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Dornach.protect|Dornach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Dornach.private|Dornach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Dornach.personal|Dornach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Dornach.secret|Dornach.secret]] 
+
+### [Dornach.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityDornach.public.md) 
+
+### [Dornach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityDornach.internal.md) 
+
+### [Dornach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityDornach.protect.md) 
+
+### [Dornach.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityDornach.private.md) 
+
+### [Dornach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityDornach.personal.md) 
+
+### [Dornach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityDornach.secret.md)
+

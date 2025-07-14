@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.73,8.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Gurtnellen|Gurtnellen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Gurtnellen.public|Gurtnellen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Gurtnellen.internal|Gurtnellen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Gurtnellen.protect|Gurtnellen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Gurtnellen.private|Gurtnellen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Gurtnellen.personal|Gurtnellen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Gurtnellen.secret|Gurtnellen.secret]] 
+
+### [Gurtnellen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGurtnellen.public.md) 
+
+### [Gurtnellen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGurtnellen.internal.md) 
+
+### [Gurtnellen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGurtnellen.protect.md) 
+
+### [Gurtnellen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGurtnellen.private.md) 
+
+### [Gurtnellen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGurtnellen.personal.md) 
+
+### [Gurtnellen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Uri,Canton\CityGurtnellen.secret.md)
+

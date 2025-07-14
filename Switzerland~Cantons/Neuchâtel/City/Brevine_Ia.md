@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.98,6.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Brevine_Ia|Brevine_Ia]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Brevine_Ia.public|Brevine_Ia.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Brevine_Ia.internal|Brevine_Ia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Brevine_Ia.protect|Brevine_Ia.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Brevine_Ia.private|Brevine_Ia.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Brevine_Ia.personal|Brevine_Ia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Brevine_Ia.secret|Brevine_Ia.secret]] 
+
+### [Brevine_Ia.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.public.md) 
+
+### [Brevine_Ia.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.internal.md) 
+
+### [Brevine_Ia.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.protect.md) 
+
+### [Brevine_Ia.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.private.md) 
+
+### [Brevine_Ia.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.personal.md) 
+
+### [Brevine_Ia.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityBrevine_Ia.secret.md)
+

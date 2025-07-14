@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.22,7.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Dailly|Dailly]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Dailly.public|Dailly.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Dailly.internal|Dailly.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Dailly.protect|Dailly.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Dailly.private|Dailly.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Dailly.personal|Dailly.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Dailly.secret|Dailly.secret]] 
+
+### [Dailly.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityDailly.public.md) 
+
+### [Dailly.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityDailly.internal.md) 
+
+### [Dailly.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityDailly.protect.md) 
+
+### [Dailly.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityDailly.private.md) 
+
+### [Dailly.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityDailly.personal.md) 
+
+### [Dailly.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityDailly.secret.md)
+

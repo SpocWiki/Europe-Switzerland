@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.05,8.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Luzern|Luzern]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Luzern.public|Luzern.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Luzern.internal|Luzern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Luzern.protect|Luzern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Luzern.private|Luzern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Luzern.personal|Luzern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Luzern.secret|Luzern.secret]] 
+
+### [Luzern.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.public.md) 
+
+### [Luzern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.internal.md) 
+
+### [Luzern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.protect.md) 
+
+### [Luzern.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.private.md) 
+
+### [Luzern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.personal.md) 
+
+### [Luzern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Lucerne,Canton\CityLuzern.secret.md)
+

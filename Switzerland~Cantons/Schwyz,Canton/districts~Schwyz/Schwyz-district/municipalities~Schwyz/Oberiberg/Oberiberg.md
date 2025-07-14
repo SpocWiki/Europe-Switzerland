@@ -36,10 +36,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Oberiberg|Oberiberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Oberiberg.public|Oberiberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Oberiberg.internal|Oberiberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Oberiberg.protect|Oberiberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Oberiberg.private|Oberiberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Oberiberg.personal|Oberiberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Oberiberg.secret|Oberiberg.secret]] 
+
+### [Oberiberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.public.md) 
+
+### [Oberiberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.internal.md) 
+
+### [Oberiberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.protect.md) 
+
+### [Oberiberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.private.md) 
+
+### [Oberiberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.personal.md) 
+
+### [Oberiberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Schwyz,Canton\districts~Schwyz\Schwyz-district\municipalities~Schwyz\OberibergOberiberg.secret.md)
+

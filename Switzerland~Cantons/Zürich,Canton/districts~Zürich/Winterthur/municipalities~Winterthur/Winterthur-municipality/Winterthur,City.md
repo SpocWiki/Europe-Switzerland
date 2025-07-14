@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Winterthur|Winterthur]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Winterthur.public|Winterthur.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Winterthur.internal|Winterthur.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Winterthur.protect|Winterthur.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Winterthur.private|Winterthur.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Winterthur.personal|Winterthur.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Winterthur.secret|Winterthur.secret]] 
+
+### [Winterthur,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Winterthur\municipalities~Winterthur\Winterthur-municipalityWinterthur,City.public.md) 
+
+### [Winterthur,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Winterthur\municipalities~Winterthur\Winterthur-municipalityWinterthur,City.internal.md) 
+
+### [Winterthur,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Winterthur\municipalities~Winterthur\Winterthur-municipalityWinterthur,City.protect.md) 
+
+### [Winterthur,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Winterthur\municipalities~Winterthur\Winterthur-municipalityWinterthur,City.private.md) 
+
+### [Winterthur,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Winterthur\municipalities~Winterthur\Winterthur-municipalityWinterthur,City.personal.md) 
+
+### [Winterthur,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Winterthur\municipalities~Winterthur\Winterthur-municipalityWinterthur,City.secret.md)
+

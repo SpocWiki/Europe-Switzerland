@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.58,9.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta|Ponte_Campovasta]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.public|Ponte_Campovasta.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.internal|Ponte_Campovasta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.protect|Ponte_Campovasta.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.private|Ponte_Campovasta.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.personal|Ponte_Campovasta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.secret|Ponte_Campovasta.secret]] 
+
+### [Ponte_Campovasta.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.public.md) 
+
+### [Ponte_Campovasta.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.internal.md) 
+
+### [Ponte_Campovasta.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.protect.md) 
+
+### [Ponte_Campovasta.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.private.md) 
+
+### [Ponte_Campovasta.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.personal.md) 
+
+### [Ponte_Campovasta.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityPonte_Campovasta.secret.md)
+

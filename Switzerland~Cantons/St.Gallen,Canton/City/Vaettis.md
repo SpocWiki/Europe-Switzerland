@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.92,9.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Vaettis|Vaettis]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Vaettis.public|Vaettis.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Vaettis.internal|Vaettis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Vaettis.protect|Vaettis.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Vaettis.private|Vaettis.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Vaettis.personal|Vaettis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Vaettis.secret|Vaettis.secret]] 
+
+### [Vaettis.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityVaettis.public.md) 
+
+### [Vaettis.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityVaettis.internal.md) 
+
+### [Vaettis.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityVaettis.protect.md) 
+
+### [Vaettis.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityVaettis.private.md) 
+
+### [Vaettis.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityVaettis.personal.md) 
+
+### [Vaettis.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityVaettis.secret.md)
+

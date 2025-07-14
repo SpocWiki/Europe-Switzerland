@@ -43,11 +43,16 @@ markerFolder: ./Schwyz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz|Schwyz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.public|Schwyz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.internal|Schwyz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.protect|Schwyz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.private|Schwyz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.personal|Schwyz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Schwyz.secret|Schwyz.secret]] 
+
+### [Schwyz,Canton.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchwyz,Canton.public.md) 
+
+### [Schwyz,Canton.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchwyz,Canton.internal.md) 
+
+### [Schwyz,Canton.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchwyz,Canton.protect.md) 
+
+### [Schwyz,Canton.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchwyz,Canton.private.md) 
+
+### [Schwyz,Canton.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchwyz,Canton.personal.md) 
+
+### [Schwyz,Canton.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSchwyz,Canton.secret.md)
 

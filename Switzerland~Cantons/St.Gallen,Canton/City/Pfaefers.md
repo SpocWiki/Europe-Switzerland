@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.97,9.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Pfaefers|Pfaefers]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Pfaefers.public|Pfaefers.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Pfaefers.internal|Pfaefers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Pfaefers.protect|Pfaefers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Pfaefers.private|Pfaefers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Pfaefers.personal|Pfaefers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Pfaefers.secret|Pfaefers.secret]] 
+
+### [Pfaefers.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityPfaefers.public.md) 
+
+### [Pfaefers.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityPfaefers.internal.md) 
+
+### [Pfaefers.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityPfaefers.protect.md) 
+
+### [Pfaefers.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityPfaefers.private.md) 
+
+### [Pfaefers.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityPfaefers.personal.md) 
+
+### [Pfaefers.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityPfaefers.secret.md)
+

@@ -41,10 +41,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Sion|Sion]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sion.public|Sion.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sion.internal|Sion.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sion.protect|Sion.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sion.private|Sion.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sion.personal|Sion.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sion.secret|Sion.secret]] 
+
+### [Sion.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~ValaisSion.public.md) 
+
+### [Sion.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~ValaisSion.internal.md) 
+
+### [Sion.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~ValaisSion.protect.md) 
+
+### [Sion.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~ValaisSion.private.md) 
+
+### [Sion.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~ValaisSion.personal.md) 
+
+### [Sion.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~ValaisSion.secret.md)
+

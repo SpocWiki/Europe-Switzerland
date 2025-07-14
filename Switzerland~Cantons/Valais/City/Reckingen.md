@@ -37,10 +37,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Reckingen|Reckingen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Reckingen.public|Reckingen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Reckingen.internal|Reckingen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Reckingen.protect|Reckingen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Reckingen.private|Reckingen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Reckingen.personal|Reckingen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Reckingen.secret|Reckingen.secret]] 
+
+### [Reckingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CityReckingen.public.md) 
+
+### [Reckingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CityReckingen.internal.md) 
+
+### [Reckingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CityReckingen.protect.md) 
+
+### [Reckingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CityReckingen.private.md) 
+
+### [Reckingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CityReckingen.personal.md) 
+
+### [Reckingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\CityReckingen.secret.md)
+

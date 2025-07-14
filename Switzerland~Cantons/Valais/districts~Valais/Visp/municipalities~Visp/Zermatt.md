@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.03,7.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Zermatt|Zermatt]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Zermatt.public|Zermatt.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zermatt.internal|Zermatt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zermatt.protect|Zermatt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zermatt.private|Zermatt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zermatt.personal|Zermatt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zermatt.secret|Zermatt.secret]] 
+
+### [Zermatt.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.public.md) 
+
+### [Zermatt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.internal.md) 
+
+### [Zermatt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.protect.md) 
+
+### [Zermatt.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.private.md) 
+
+### [Zermatt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.personal.md) 
+
+### [Zermatt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Visp\municipalities~VispZermatt.secret.md)
+

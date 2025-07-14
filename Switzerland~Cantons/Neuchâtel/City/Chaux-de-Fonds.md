@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.12,6.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds|Chaux-de-Fonds]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.public|Chaux-de-Fonds.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.internal|Chaux-de-Fonds.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.protect|Chaux-de-Fonds.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.private|Chaux-de-Fonds.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.personal|Chaux-de-Fonds.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.secret|Chaux-de-Fonds.secret]] 
+
+### [Chaux-de-Fonds.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.public.md) 
+
+### [Chaux-de-Fonds.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.internal.md) 
+
+### [Chaux-de-Fonds.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.protect.md) 
+
+### [Chaux-de-Fonds.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.private.md) 
+
+### [Chaux-de-Fonds.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.personal.md) 
+
+### [Chaux-de-Fonds.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityChaux-de-Fonds.secret.md)
+

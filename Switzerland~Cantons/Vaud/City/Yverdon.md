@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.78,6.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Yverdon|Yverdon]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Yverdon.public|Yverdon.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Yverdon.internal|Yverdon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Yverdon.protect|Yverdon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Yverdon.private|Yverdon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Yverdon.personal|Yverdon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Yverdon.secret|Yverdon.secret]] 
+
+### [Yverdon.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityYverdon.public.md) 
+
+### [Yverdon.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityYverdon.internal.md) 
+
+### [Yverdon.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityYverdon.protect.md) 
+
+### [Yverdon.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityYverdon.private.md) 
+
+### [Yverdon.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityYverdon.personal.md) 
+
+### [Yverdon.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityYverdon.secret.md)
+

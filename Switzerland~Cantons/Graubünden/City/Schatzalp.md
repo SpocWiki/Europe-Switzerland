@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.8,9.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Schatzalp|Schatzalp]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schatzalp.public|Schatzalp.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schatzalp.internal|Schatzalp.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schatzalp.protect|Schatzalp.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schatzalp.private|Schatzalp.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schatzalp.personal|Schatzalp.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schatzalp.secret|Schatzalp.secret]] 
+
+### [Schatzalp.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchatzalp.public.md) 
+
+### [Schatzalp.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchatzalp.internal.md) 
+
+### [Schatzalp.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchatzalp.protect.md) 
+
+### [Schatzalp.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchatzalp.private.md) 
+
+### [Schatzalp.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchatzalp.personal.md) 
+
+### [Schatzalp.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchatzalp.secret.md)
+

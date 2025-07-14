@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.52,6.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Lausanne|Lausanne]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lausanne.public|Lausanne.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lausanne.internal|Lausanne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lausanne.protect|Lausanne.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lausanne.private|Lausanne.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lausanne.personal|Lausanne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lausanne.secret|Lausanne.secret]] 
+
+### [Lausanne.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityLausanne.public.md) 
+
+### [Lausanne.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityLausanne.internal.md) 
+
+### [Lausanne.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityLausanne.protect.md) 
+
+### [Lausanne.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityLausanne.private.md) 
+
+### [Lausanne.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityLausanne.personal.md) 
+
+### [Lausanne.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityLausanne.secret.md)
+

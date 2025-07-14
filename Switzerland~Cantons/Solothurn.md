@@ -40,11 +40,16 @@ markerFolder: ./Solothurn/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn|Solothurn]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.public|Solothurn.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.internal|Solothurn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.protect|Solothurn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.private|Solothurn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.personal|Solothurn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Solothurn.secret|Solothurn.secret]] 
+
+### [Solothurn.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSolothurn.public.md) 
+
+### [Solothurn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSolothurn.internal.md) 
+
+### [Solothurn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSolothurn.protect.md) 
+
+### [Solothurn.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSolothurn.private.md) 
+
+### [Solothurn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSolothurn.personal.md) 
+
+### [Solothurn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsSolothurn.secret.md)
 

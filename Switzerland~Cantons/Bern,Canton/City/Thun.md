@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.77,7.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Thun|Thun]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Thun.public|Thun.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Thun.internal|Thun.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Thun.protect|Thun.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Thun.private|Thun.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Thun.personal|Thun.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Thun.secret|Thun.secret]] 
+
+### [Thun.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityThun.public.md) 
+
+### [Thun.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityThun.internal.md) 
+
+### [Thun.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityThun.protect.md) 
+
+### [Thun.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityThun.private.md) 
+
+### [Thun.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityThun.personal.md) 
+
+### [Thun.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityThun.secret.md)
+

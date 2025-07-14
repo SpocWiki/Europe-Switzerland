@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.65,9.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Kreuzlingen|Kreuzlingen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Kreuzlingen.public|Kreuzlingen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Kreuzlingen.internal|Kreuzlingen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Kreuzlingen.protect|Kreuzlingen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Kreuzlingen.private|Kreuzlingen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Kreuzlingen.personal|Kreuzlingen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Kreuzlingen.secret|Kreuzlingen.secret]] 
+
+### [Kreuzlingen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityKreuzlingen.public.md) 
+
+### [Kreuzlingen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityKreuzlingen.internal.md) 
+
+### [Kreuzlingen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityKreuzlingen.protect.md) 
+
+### [Kreuzlingen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityKreuzlingen.private.md) 
+
+### [Kreuzlingen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityKreuzlingen.personal.md) 
+
+### [Kreuzlingen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityKreuzlingen.secret.md)
+

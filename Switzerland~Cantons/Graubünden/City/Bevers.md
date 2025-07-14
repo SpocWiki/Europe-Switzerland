@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.55,9.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Bevers|Bevers]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bevers.public|Bevers.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bevers.internal|Bevers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bevers.protect|Bevers.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bevers.private|Bevers.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bevers.personal|Bevers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bevers.secret|Bevers.secret]] 
+
+### [Bevers.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBevers.public.md) 
+
+### [Bevers.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBevers.internal.md) 
+
+### [Bevers.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBevers.protect.md) 
+
+### [Bevers.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBevers.private.md) 
+
+### [Bevers.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBevers.personal.md) 
+
+### [Bevers.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CityBevers.secret.md)
+

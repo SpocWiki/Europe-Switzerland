@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.33,9.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Appenzell|Appenzell]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Appenzell.public|Appenzell.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Appenzell.internal|Appenzell.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Appenzell.protect|Appenzell.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Appenzell.private|Appenzell.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Appenzell.personal|Appenzell.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Appenzell.secret|Appenzell.secret]] 
+
+### [Appenzell.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.public.md) 
+
+### [Appenzell.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.internal.md) 
+
+### [Appenzell.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.protect.md) 
+
+### [Appenzell.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.private.md) 
+
+### [Appenzell.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.personal.md) 
+
+### [Appenzell.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Appenzell_Innerrhoden\CityAppenzell.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.3,8.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Chiavenna|Chiavenna]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Chiavenna.public|Chiavenna.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Chiavenna.internal|Chiavenna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Chiavenna.protect|Chiavenna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Chiavenna.private|Chiavenna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Chiavenna.personal|Chiavenna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Chiavenna.secret|Chiavenna.secret]] 
+
+### [Chiavenna.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiavenna.public.md) 
+
+### [Chiavenna.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiavenna.internal.md) 
+
+### [Chiavenna.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiavenna.protect.md) 
+
+### [Chiavenna.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiavenna.private.md) 
+
+### [Chiavenna.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiavenna.personal.md) 
+
+### [Chiavenna.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityChiavenna.secret.md)
+

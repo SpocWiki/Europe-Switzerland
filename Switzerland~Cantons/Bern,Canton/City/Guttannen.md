@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.65,8.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Guttannen|Guttannen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Guttannen.public|Guttannen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Guttannen.internal|Guttannen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Guttannen.protect|Guttannen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Guttannen.private|Guttannen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Guttannen.personal|Guttannen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Guttannen.secret|Guttannen.secret]] 
+
+### [Guttannen.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityGuttannen.public.md) 
+
+### [Guttannen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityGuttannen.internal.md) 
+
+### [Guttannen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityGuttannen.protect.md) 
+
+### [Guttannen.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityGuttannen.private.md) 
+
+### [Guttannen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityGuttannen.personal.md) 
+
+### [Guttannen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityGuttannen.secret.md)
+

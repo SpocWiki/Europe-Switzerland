@@ -37,10 +37,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Leukerbad|Leukerbad]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Leukerbad.public|Leukerbad.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Leukerbad.internal|Leukerbad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Leukerbad.protect|Leukerbad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Leukerbad.private|Leukerbad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Leukerbad.personal|Leukerbad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Leukerbad.secret|Leukerbad.secret]] 
+
+### [Leukerbad.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.public.md) 
+
+### [Leukerbad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.internal.md) 
+
+### [Leukerbad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.protect.md) 
+
+### [Leukerbad.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.private.md) 
+
+### [Leukerbad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.personal.md) 
+
+### [Leukerbad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Valais\districts~Valais\Leuk\municipalities~Leuk\LeukerbadLeukerbad.secret.md)
+

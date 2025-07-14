@@ -41,10 +41,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Uster|Uster]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Uster.public|Uster.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Uster.internal|Uster.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Uster.protect|Uster.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Uster.private|Uster.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Uster.personal|Uster.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Uster.secret|Uster.secret]] 
+
+### [Uster,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.public.md) 
+
+### [Uster,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.internal.md) 
+
+### [Uster,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.protect.md) 
+
+### [Uster,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.private.md) 
+
+### [Uster,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.personal.md) 
+
+### [Uster,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Uster,District\municipalities~Uster\Uster-municipalityUster,City.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.48,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Rorschach|Rorschach]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Rorschach.public|Rorschach.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Rorschach.internal|Rorschach.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Rorschach.protect|Rorschach.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Rorschach.private|Rorschach.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Rorschach.personal|Rorschach.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Rorschach.secret|Rorschach.secret]] 
+
+### [Rorschach.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRorschach.public.md) 
+
+### [Rorschach.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRorschach.internal.md) 
+
+### [Rorschach.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRorschach.protect.md) 
+
+### [Rorschach.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRorschach.private.md) 
+
+### [Rorschach.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRorschach.personal.md) 
+
+### [Rorschach.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRorschach.secret.md)
+

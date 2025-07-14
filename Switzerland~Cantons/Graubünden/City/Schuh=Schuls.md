@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.8,10.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Schuh=Schuls|Schuh=Schuls]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.public|Schuh=Schuls.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.internal|Schuh=Schuls.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.protect|Schuh=Schuls.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.private|Schuh=Schuls.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.personal|Schuh=Schuls.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.secret|Schuh=Schuls.secret]] 
+
+### [Schuh=Schuls.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.public.md) 
+
+### [Schuh=Schuls.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.internal.md) 
+
+### [Schuh=Schuls.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.protect.md) 
+
+### [Schuh=Schuls.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.private.md) 
+
+### [Schuh=Schuls.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.personal.md) 
+
+### [Schuh=Schuls.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Graubünden\CitySchuh=Schuls.secret.md)
+

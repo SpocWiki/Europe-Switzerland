@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Bachtel|Bachtel]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bachtel.public|Bachtel.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bachtel.internal|Bachtel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bachtel.protect|Bachtel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bachtel.private|Bachtel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bachtel.personal|Bachtel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bachtel.secret|Bachtel.secret]] 
+
+### [Bachtel.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\CityBachtel.public.md) 
+
+### [Bachtel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\CityBachtel.internal.md) 
+
+### [Bachtel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\CityBachtel.protect.md) 
+
+### [Bachtel.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\CityBachtel.private.md) 
+
+### [Bachtel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\CityBachtel.personal.md) 
+
+### [Bachtel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\CityBachtel.secret.md)
+

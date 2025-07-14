@@ -246,10 +246,16 @@ markerFolder: .//
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich|Zuerich=Zurich]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.public|Zuerich=Zurich.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.internal|Zuerich=Zurich.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.protect|Zuerich=Zurich.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.private|Zuerich=Zurich.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.personal|Zuerich=Zurich.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.secret|Zuerich=Zurich.secret]] 
+
+### [Zürich,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.public.md) 
+
+### [Zürich,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.internal.md) 
+
+### [Zürich,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.protect.md) 
+
+### [Zürich,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.private.md) 
+
+### [Zürich,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.personal.md) 
+
+### [Zürich,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Zürich,Canton\districts~Zürich\Zürich-district\municipalities~ZürichZürich,City.secret.md)
+

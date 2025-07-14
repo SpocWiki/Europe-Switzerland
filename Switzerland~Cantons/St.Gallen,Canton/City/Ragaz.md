@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.02,9.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Ragaz|Ragaz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Ragaz.public|Ragaz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Ragaz.internal|Ragaz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Ragaz.protect|Ragaz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Ragaz.private|Ragaz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Ragaz.personal|Ragaz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Ragaz.secret|Ragaz.secret]] 
+
+### [Ragaz.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRagaz.public.md) 
+
+### [Ragaz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRagaz.internal.md) 
+
+### [Ragaz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRagaz.protect.md) 
+
+### [Ragaz.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRagaz.private.md) 
+
+### [Ragaz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRagaz.personal.md) 
+
+### [Ragaz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\St.Gallen,Canton\CityRagaz.secret.md)
+

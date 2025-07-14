@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.15,7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Mont_Soleil|Mont_Soleil]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Mont_Soleil.public|Mont_Soleil.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Mont_Soleil.internal|Mont_Soleil.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Mont_Soleil.protect|Mont_Soleil.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Mont_Soleil.private|Mont_Soleil.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Mont_Soleil.personal|Mont_Soleil.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Mont_Soleil.secret|Mont_Soleil.secret]] 
+
+### [Mont_Soleil.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.public.md) 
+
+### [Mont_Soleil.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.internal.md) 
+
+### [Mont_Soleil.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.protect.md) 
+
+### [Mont_Soleil.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.private.md) 
+
+### [Mont_Soleil.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.personal.md) 
+
+### [Mont_Soleil.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Bern,Canton\CityMont_Soleil.secret.md)
+

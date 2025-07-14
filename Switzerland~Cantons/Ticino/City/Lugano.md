@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.02,8.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Lugano|Lugano]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lugano.public|Lugano.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lugano.internal|Lugano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lugano.protect|Lugano.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lugano.private|Lugano.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lugano.personal|Lugano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lugano.secret|Lugano.secret]] 
+
+### [Lugano.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLugano.public.md) 
+
+### [Lugano.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLugano.internal.md) 
+
+### [Lugano.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLugano.protect.md) 
+
+### [Lugano.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLugano.private.md) 
+
+### [Lugano.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLugano.personal.md) 
+
+### [Lugano.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Ticino\CityLugano.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.52,9.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Arbon|Arbon]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Arbon.public|Arbon.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Arbon.internal|Arbon.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Arbon.protect|Arbon.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Arbon.private|Arbon.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Arbon.personal|Arbon.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Arbon.secret|Arbon.secret]] 
+
+### [Arbon.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityArbon.public.md) 
+
+### [Arbon.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityArbon.internal.md) 
+
+### [Arbon.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityArbon.protect.md) 
+
+### [Arbon.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityArbon.private.md) 
+
+### [Arbon.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityArbon.personal.md) 
+
+### [Arbon.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Thurgau\CityArbon.secret.md)
+

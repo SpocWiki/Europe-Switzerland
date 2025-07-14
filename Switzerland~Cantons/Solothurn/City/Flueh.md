@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.48,7.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Flueh|Flueh]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Flueh.public|Flueh.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Flueh.internal|Flueh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Flueh.protect|Flueh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Flueh.private|Flueh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Flueh.personal|Flueh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Flueh.secret|Flueh.secret]] 
+
+### [Flueh.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityFlueh.public.md) 
+
+### [Flueh.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityFlueh.internal.md) 
+
+### [Flueh.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityFlueh.protect.md) 
+
+### [Flueh.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityFlueh.private.md) 
+
+### [Flueh.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityFlueh.personal.md) 
+
+### [Flueh.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Solothurn\CityFlueh.secret.md)
+

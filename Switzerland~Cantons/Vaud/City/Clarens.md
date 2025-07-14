@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.45,6.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Clarens|Clarens]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Clarens.public|Clarens.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Clarens.internal|Clarens.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Clarens.protect|Clarens.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Clarens.private|Clarens.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Clarens.personal|Clarens.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Clarens.secret|Clarens.secret]] 
+
+### [Clarens.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityClarens.public.md) 
+
+### [Clarens.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityClarens.internal.md) 
+
+### [Clarens.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityClarens.protect.md) 
+
+### [Clarens.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityClarens.private.md) 
+
+### [Clarens.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityClarens.personal.md) 
+
+### [Clarens.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Vaud\CityClarens.secret.md)
+

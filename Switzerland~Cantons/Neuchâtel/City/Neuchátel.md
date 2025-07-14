@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47,6.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Neuchátel|Neuchátel]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Neuchátel.public|Neuchátel.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Neuchátel.internal|Neuchátel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Neuchátel.protect|Neuchátel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Neuchátel.private|Neuchátel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Neuchátel.personal|Neuchátel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Neuchátel.secret|Neuchátel.secret]] 
+
+### [Neuchátel.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityNeuchátel.public.md) 
+
+### [Neuchátel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityNeuchátel.internal.md) 
+
+### [Neuchátel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityNeuchátel.protect.md) 
+
+### [Neuchátel.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityNeuchátel.private.md) 
+
+### [Neuchátel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityNeuchátel.personal.md) 
+
+### [Neuchátel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Neuchâtel\CityNeuchátel.secret.md)
+

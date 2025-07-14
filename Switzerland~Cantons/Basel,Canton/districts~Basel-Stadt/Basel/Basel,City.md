@@ -42,10 +42,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/City/Basel|Basel]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/City/Basel.public|Basel.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Basel.internal|Basel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Basel.protect|Basel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/City/Basel.private|Basel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Basel.personal|Basel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Basel.secret|Basel.secret]] 
+
+### [Basel,City.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.public.md) 
+
+### [Basel,City.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.internal.md) 
+
+### [Basel,City.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.protect.md) 
+
+### [Basel,City.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.private.md) 
+
+### [Basel,City.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.personal.md) 
+
+### [Basel,City.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~Cantons\Basel,Canton\districts~Basel-Stadt\BaselBasel,City.secret.md)
+

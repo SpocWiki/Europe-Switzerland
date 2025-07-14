@@ -41,11 +41,16 @@ markerFolder: ./Appenzell_Ausserrhoden/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Ausserrhoden|Appenzell_Ausserrhoden]] 
-- [[../../../../../../_public/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Ausserrhoden.public|Appenzell_Ausserrhoden.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Ausserrhoden.internal|Appenzell_Ausserrhoden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Ausserrhoden.protect|Appenzell_Ausserrhoden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Ausserrhoden.private|Appenzell_Ausserrhoden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Ausserrhoden.personal|Appenzell_Ausserrhoden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Switzerland/Switzerland~Counties/Appenzell_Ausserrhoden.secret|Appenzell_Ausserrhoden.secret]] 
+
+### [Appenzell_Ausserrhoden.public](/_public/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.public.md) 
+
+### [Appenzell_Ausserrhoden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.internal.md) 
+
+### [Appenzell_Ausserrhoden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.protect.md) 
+
+### [Appenzell_Ausserrhoden.private](/_private/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.private.md) 
+
+### [Appenzell_Ausserrhoden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.personal.md) 
+
+### [Appenzell_Ausserrhoden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Switzerland\Switzerland~CantonsAppenzell_Ausserrhoden.secret.md)
 
