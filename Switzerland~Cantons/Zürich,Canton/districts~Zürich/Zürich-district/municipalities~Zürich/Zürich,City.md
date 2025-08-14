@@ -222,22 +222,28 @@ area:
 - 87.93
 ---
 
+# [[Zürich,City]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::8.54] 
 [has_place_latitude::47.38] 
-[name::Zuerich=Zurich] 
+[name::Zürich,City] 
 State ::  
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Zürich,72|WD~Zürich,72]] 
+
+## #has_/map 
+
 
 ```leaflet
-id: Zuerich=Zurich
-coordinates: [[Zuerich=Zurich]] 
-markerFile: [[Zuerich=Zurich]] 
+id: Zürich,City
+coordinates: [[Zürich,City]] 
+markerFile: [[Zürich,City]] 
 defaultZoom: 11 
 maxZoom: 18
 geojsonFolder: .//
