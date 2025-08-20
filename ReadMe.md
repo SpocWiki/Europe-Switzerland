@@ -2,39 +2,40 @@
 title: Switzerland
 type: Country
 location:
-- 46.8963
-- 8.46058
+  - 46.8963
+  - 8.46058
 has_id_wikidata: Q39
 SpocWebEntityId: 26865
 tags:
-- geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Switzerland
-- Suiza
-- Suisse
-- سويسرا
-- 瑞士
-- Швейцария
-- the Swiss Confederation
-- la Confederación Suiza
+  - Switzerland
+  - Suiza
+  - Suisse
+  - سويسرا
+  - 瑞士
+  - Швейцария
+  - the Swiss Confederation
+  - la Confederación Suiza
 Languages:
-- de-CH
-- fr-CH
-- it-CH
-- rm
+  - de-CH
+  - fr-CH
+  - it-CH
+  - rm
 icon: flag-ch
 ---
 # [[Switzerland]] 
