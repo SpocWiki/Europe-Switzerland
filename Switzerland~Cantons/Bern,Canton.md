@@ -217,7 +217,7 @@ social_media_followers: 12733
 ```leaflet
 id: Bern
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bern/
 markerFolder: ./Bern/

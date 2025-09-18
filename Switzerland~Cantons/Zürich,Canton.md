@@ -33,7 +33,7 @@ expiryDate:
 ```leaflet
 id: Zürich
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Zürich/
 markerFolder: ./Zürich/

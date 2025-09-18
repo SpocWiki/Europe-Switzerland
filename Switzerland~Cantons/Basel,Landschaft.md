@@ -33,7 +33,7 @@ expiryDate:
 ```leaflet
 id: Basel-Landschaft
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Basel-Landschaft/
 markerFolder: ./Basel-Landschaft/

@@ -35,7 +35,7 @@ expiryDate:
 ```leaflet
 id: Sankt_Gallen
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sankt_Gallen/
 markerFolder: ./Sankt_Gallen/

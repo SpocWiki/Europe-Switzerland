@@ -65,7 +65,7 @@ markerFile: [[Genève]]
 
 zoomFeatures: false 
 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 defaultZoom: 10 
 geojsonFolder: ./Genève/

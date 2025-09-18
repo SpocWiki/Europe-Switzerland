@@ -34,7 +34,7 @@ expiryDate:
 ```leaflet
 id: Jura
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Jura/
 markerFolder: ./Jura/

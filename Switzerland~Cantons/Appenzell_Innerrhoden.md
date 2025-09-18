@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Appenzell_Innerrhoden
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Appenzell_Innerrhoden/
 markerFolder: ./Appenzell_Innerrhoden/
