@@ -51,7 +51,7 @@ State ::  [[Genève,Canton]]
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #has_/name_/en_ :: Geneva 
 #has_/name_/de_ :: Genf 

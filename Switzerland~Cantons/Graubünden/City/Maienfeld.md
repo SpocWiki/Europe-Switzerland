@@ -21,7 +21,7 @@ State :: Graubünden]
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

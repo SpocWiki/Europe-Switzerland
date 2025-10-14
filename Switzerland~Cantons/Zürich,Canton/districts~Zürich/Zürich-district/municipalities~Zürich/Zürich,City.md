@@ -233,7 +233,7 @@ State ::
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Zürich,72|WD~Zürich,72]] 
 

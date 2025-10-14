@@ -20,7 +20,7 @@ confidential: public
 Country :: [[Germany]]  
 State :: [[../../Baden-Wuerttemberg]]  
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

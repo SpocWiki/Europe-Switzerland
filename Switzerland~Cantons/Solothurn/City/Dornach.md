@@ -21,7 +21,7 @@ State :: Solothurn]
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

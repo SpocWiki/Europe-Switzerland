@@ -21,7 +21,7 @@ State :: St.Gallen]
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

@@ -21,7 +21,7 @@ State ::
 Country :: [[../../../../../Europe~South/Italy]] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

@@ -21,7 +21,7 @@ State :: Thurgau]
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

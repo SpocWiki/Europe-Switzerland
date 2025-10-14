@@ -24,7 +24,7 @@ State ::  [[../../Valais]]
 Country :: [[../../../../Switzerland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #has_/name_/en_ :: Sion 
 #has_/name_/de_ :: Sitten 

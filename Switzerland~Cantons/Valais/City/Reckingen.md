@@ -24,7 +24,7 @@ State :: [Valais](../../Valais.md)
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
