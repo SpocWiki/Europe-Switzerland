@@ -40,7 +40,7 @@ cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
 member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_location: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+work_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 place_of_death: "[[_Standards/WikiData/WD~Palo_Alto,47265]]"
 Commons_gallery: Leland Stanford
 Commons_category: Leland Stanford

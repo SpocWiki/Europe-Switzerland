@@ -57,7 +57,7 @@ archives_at:
   - "[[_Standards/WikiData/WD~Image_Archive_of_ETH_Library,40236085]]"
 has_list: "[[_Standards/WikiData/WD~list_of_ETH_Zurich_people,1828673]]"
 heritage_designation: "[[_Standards/WikiData/WD~class_A_Swiss_cultural_property_of_national_significance,8274529]]"
-headquarters_location: "[[_Standards/WikiData/WD~ETH_Zurich_main_building,14565994]]"
+headquarters_locations: "[[_Standards/WikiData/WD~ETH_Zurich_main_building,14565994]]"
 item_operated: "[[_Standards/WikiData/WD~Bleien_Radio_Observatory,19962703]]"
 rector: "[[_Standards/WikiData/WD~Günther_Dissertori,24261927]]"
 child_organization_unit:
@@ -69,7 +69,7 @@ chairperson: "[[_Standards/WikiData/WD~Joël_Mesot,60445979]]"
 accredited_by: "[[_Standards/WikiData/WD~Swiss_Accreditation_Council,131787455]]"
 inception: 1855-10-16T00:00:00Z
 country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-location: "[[_Standards/WikiData/WD~Zurich,72]]"
+locations: "[[_Standards/WikiData/WD~Zurich,72]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Zurich,72]]"
 ranking:
   - 20
