@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Basel-Landschaft
+  - Basel,Landschaft
 location:
   - 47.5
   - 7.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Basel-Landschaft
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Basel,Landschaft]]

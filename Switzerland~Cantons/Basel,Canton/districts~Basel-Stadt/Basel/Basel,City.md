@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Basel City
+  - Basel Stadt
+  - Stadt Basel
+  - Basel
+  - ''
+  - Basel,City
 location:
   - 47.56
   - 7.59
@@ -12,12 +19,6 @@ tags:
 SpocWebEntityId: 29038
 isDeleted: false
 confidential: public
-aliases:
-  - Basel City
-  - Basel Stadt
-  - Stadt Basel
-  - Basel
-  - 
 ---
 
 #is_a_/Place  

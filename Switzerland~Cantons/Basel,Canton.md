@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Canton Basel
+  - Kanton Basel
+  - Basel Canton
+  - Basel
+  - Basel,Canton
 location:
   - 47.56
   - 7.57
@@ -12,21 +18,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Canton Basel
-  - Kanton Basel
-  - Basel Canton
-  - Basel
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Basel,Canton]]

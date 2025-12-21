@@ -4,44 +4,45 @@ aliases:
   - Amasa Leland Stanford
   - Leland Stanford
   - Stanford
+  - Stanford,Leland
 has_id_wikidata: Q382109
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~businessperson,43845]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Governor_of_California,887010]]"
-  - "[[_Standards/WikiData/WD~United_States_senator,4416090]]"
-spouse: "[[_Standards/WikiData/WD~Jane_Stanford,2891993]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-award_received: "[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]"
+  - '[[_Standards/WikiData/WD~Governor_of_California,887010]]'
+  - '[[_Standards/WikiData/WD~United_States_senator,4416090]]'
+spouse: '[[_Standards/WikiData/WD~Jane_Stanford,2891993]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+award_received: '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Cazenovia_College,5055525]]"
-  - "[[_Standards/WikiData/WD~Clinton_Liberal_Institute,43079959]]"
+  - '[[_Standards/WikiData/WD~Cazenovia_College,5055525]]'
+  - '[[_Standards/WikiData/WD~Clinton_Liberal_Institute,43079959]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Charles_Stanford,5082624]]"
-  - "[[_Standards/WikiData/WD~Thomas_Welton_Stanford,7794983]]"
-  - "[[_Standards/WikiData/WD~Josiah_Stanford,111127804]]"
-different_from: "[[_Standards/WikiData/WD~Leland_Stanford,_Jr.,6520800]]"
-child: "[[_Standards/WikiData/WD~Leland_Stanford,_Jr.,6520800]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_burial: "[[_Standards/WikiData/WD~Stanford_Mausoleum,7598774]]"
+  - '[[_Standards/WikiData/WD~Charles_Stanford,5082624]]'
+  - '[[_Standards/WikiData/WD~Thomas_Welton_Stanford,7794983]]'
+  - '[[_Standards/WikiData/WD~Josiah_Stanford,111127804]]'
+different_from: '[[_Standards/WikiData/WD~Leland_Stanford,_Jr.,6520800]]'
+child: '[[_Standards/WikiData/WD~Leland_Stanford,_Jr.,6520800]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Stanford_Mausoleum,7598774]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-place_of_birth: "[[_Standards/WikiData/WD~Watervliet,17091257]]"
-member_of: "[[_Standards/WikiData/WD~Hellenic_Philological_Society_of_Constantinople,18912936]]"
-family_name: "[[_Standards/WikiData/WD~Stanford,19691540]]"
-given_name: "[[_Standards/WikiData/WD~Leland,20165785]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-father: "[[_Standards/WikiData/WD~Josiah_Stanford,136089149]]"
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+place_of_birth: '[[_Standards/WikiData/WD~Watervliet,17091257]]'
+member_of: '[[_Standards/WikiData/WD~Hellenic_Philological_Society_of_Constantinople,18912936]]'
+family_name: '[[_Standards/WikiData/WD~Stanford,19691540]]'
+given_name: '[[_Standards/WikiData/WD~Leland,20165785]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+father: '[[_Standards/WikiData/WD~Josiah_Stanford,136089149]]'
 date_of_death: 1893-06-21T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-work_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
-place_of_death: "[[_Standards/WikiData/WD~Palo_Alto,47265]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+work_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+place_of_death: '[[_Standards/WikiData/WD~Palo_Alto,47265]]'
 Commons_gallery: Leland Stanford
 Commons_category: Leland Stanford
 name_in_native_language: Leland Stanford
@@ -49,7 +50,7 @@ date_of_birth: 1824-03-09T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Holland%20Signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leland%20Stanford%20c1870s.jpg
 National_Governors_Association_biography_URL: https://www.nga.org/governor/amasa-leland-stanford/
-ISNI: "0000000121332029"
+ISNI: 0000000121332029
 ---
 
 # [[Stanford,Leland]]  

@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Bern City
+  - Bern Stadt
+  - Stadt Bern
+  - Bern
+  - ''
+  - Bern,City
+has_id_wikidata: Q70
 location:
   - 46.94
   - 7.49
@@ -9,16 +17,9 @@ mapmarker: city
 type: City
 tags:
   - geo/City
-has_id_wikidata: Q70
 SpocWebEntityId: 29132
 isDeleted: false
 confidential: public
-aliases:
-  - Bern City
-  - Bern Stadt
-  - Stadt Bern
-  - Bern
-  - 
 ---
 
 

@@ -1,16 +1,19 @@
 ---
-location: [47.1,8.5] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Walchwil
+location:
+  - 47.1
+  - 8.5
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35397
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

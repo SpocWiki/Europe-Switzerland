@@ -1,16 +1,19 @@
 ---
-location: [46.55,9.88] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bevers
+location:
+  - 46.55
+  - 9.88
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29163
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [46.52,9.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Montespluga
+location:
+  - 46.52
+  - 9.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32578
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

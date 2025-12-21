@@ -1,16 +1,19 @@
 ---
-location: [46.5,8.5] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bedretto
+location:
+  - 46.5
+  - 8.5
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29066
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

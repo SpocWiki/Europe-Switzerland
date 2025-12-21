@@ -1,16 +1,19 @@
 ---
-location: [46.47,8.23] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Reckingen
+location:
+  - 46.47
+  - 8.23
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33666
 isDeleted: false
 confidential: public
-
 ---
 
 # [Reckingen](Reckingen.md) 

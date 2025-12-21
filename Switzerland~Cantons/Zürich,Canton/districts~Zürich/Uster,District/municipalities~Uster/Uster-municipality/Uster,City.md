@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Uster City
+  - Uster Stadt
+  - Stadt Uster
+  - Uster
+  - Uster,City
 location:
   - 47.35
   - 8.72
@@ -12,11 +18,6 @@ tags:
 SpocWebEntityId: 35137
 isDeleted: false
 confidential: public
-aliases:
-  - Uster City
-  - Uster Stadt
-  - Stadt Uster
-  - Uster
 ---
 
 #is_a_/Place  

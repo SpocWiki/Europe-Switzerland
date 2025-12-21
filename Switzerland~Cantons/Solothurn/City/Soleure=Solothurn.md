@@ -1,16 +1,19 @@
 ---
-location: [47.22,7.53] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Soleure=Solothurn
+location:
+  - 47.22
+  - 7.53
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34347
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

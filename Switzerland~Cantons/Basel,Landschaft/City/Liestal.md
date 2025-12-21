@@ -1,16 +1,19 @@
 ---
-location: [47.48,7.73] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Liestal
+location:
+  - 47.48
+  - 7.73
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32006
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

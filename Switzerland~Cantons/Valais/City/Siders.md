@@ -1,16 +1,19 @@
 ---
-location: [46.3,7.53] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Siders
+location:
+  - 46.3
+  - 7.53
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34242
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

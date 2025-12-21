@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Genève
+  - Kanton Genf
+  - Canton Genf
+  - Genf
+  - Geneva
+  - ''
+  - Genève,Canton
+has_id_wikidata: Q71
 location:
   - 46.18
   - 6.15
@@ -10,7 +19,6 @@ type:
   - City
   - geo-Region
 title: Genève
-has_id_wikidata: Q71
 SpocWebEntityId: 30409
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
@@ -21,23 +29,16 @@ confidential: public
 tags:
   - geo/City
   - geo/Country/Region
-aliases:
-  - Genève
-  - Kanton Genf
-  - Canton Genf
-  - Genf
-  - Geneva
-  - 
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [Genève,Canton](Genève,Canton.md)

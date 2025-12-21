@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Jura
+  - Jura Canton
+  - Canton Jura
+  - Kanton Jura
+  - Jura,Canton
 location:
   - 47.3
   - 7.3
@@ -12,21 +18,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Jura
-  - Jura Canton
-  - Canton Jura
-  - Kanton Jura
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Jura

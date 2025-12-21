@@ -1,16 +1,19 @@
 ---
-location: [46.9,8.25] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Sarnen
+location:
+  - 46.9
+  - 8.25
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33958
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

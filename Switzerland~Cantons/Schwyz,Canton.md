@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Schwyz
+  - Schwyz Canton
+  - Canton Schwyz
+  - Kanton Schwyz
+  - Schwyz,Canton
 location:
   - 47.1
   - 8.7
@@ -12,21 +18,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Schwyz
-  - Schwyz Canton
-  - Canton Schwyz
-  - Kanton Schwyz
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Schwyz

@@ -1,16 +1,20 @@
 ---
-location: [46.98,6.63] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Brevine_Ia
+  - Brevine Ia
+location:
+  - 46.98
+  - 6.63
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29345
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

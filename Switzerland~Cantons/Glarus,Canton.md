@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Glarus
+  - Glarus Canton
+  - Canton Glarus
+  - Kanton Glarus
+  - Glarus,Canton
 location:
   - 47
   - 9.1
@@ -12,21 +18,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Glarus
-  - Glarus Canton
-  - Canton Glarus
-  - Kanton Glarus
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Glarus

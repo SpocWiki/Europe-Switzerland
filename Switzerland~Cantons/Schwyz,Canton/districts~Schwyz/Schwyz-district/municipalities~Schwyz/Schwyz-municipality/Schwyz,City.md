@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Schwyz City
+  - Schwyz Stadt
+  - Stadt Schwyz
+  - Schwyz
+  - Schwyz,City
 location:
   - 47.02
   - 8.65
@@ -12,11 +18,6 @@ tags:
 SpocWebEntityId: 34124
 isDeleted: false
 confidential: public
-aliases:
-  - Schwyz City
-  - Schwyz Stadt
-  - Stadt Schwyz
-  - Schwyz
 ---
 
 

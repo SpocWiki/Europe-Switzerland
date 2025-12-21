@@ -1,16 +1,19 @@
 ---
-location: [46.38,7.62] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Leukerbad
+location:
+  - 46.38
+  - 7.62
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31964
 isDeleted: false
 confidential: public
-
 ---
 
 # [Leukerbad](Leukerbad.md)

@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Kanton Zürich
+  - Zurich Canton
+  - Zürich
+  - Zürich,Canton
 location:
   - 47.4
   - 8.6
@@ -12,20 +17,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kanton Zürich
-  - Zurich Canton
-  - Zürich
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Zürich

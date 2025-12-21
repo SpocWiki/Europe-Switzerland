@@ -1,16 +1,20 @@
 ---
-location: [46.02,8.98] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Monte_Bré
+  - Monte Bré
+location:
+  - 46.02
+  - 8.98
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32567
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

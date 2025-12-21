@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Lucerne
+  - Kanton Luzern
+  - Canton Luzern
+  - Luzern
+  - ''
+  - Lucerne,Canton
 location:
   - 47
   - 8.2
@@ -12,22 +19,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Lucerne
-  - Kanton Luzern
-  - Canton Luzern
-  - Luzern
-  - 
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Lucerne

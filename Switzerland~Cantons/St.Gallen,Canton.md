@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Sankt_Gallen
+  - Sankt Gallen
+  - St Gallen
+  - Canton Sankt Gallen
+  - Kanton Sankt Gallen
+  - St.Gallen,Canton
 location:
   - 47.2
   - 9.2
@@ -12,22 +19,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Sankt_Gallen
-  - Sankt Gallen
-  - St Gallen
-  - Canton Sankt Gallen
-  - Kanton Sankt Gallen
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Sankt_Gallen

@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Glarus City
+  - Glarus Stadt
+  - Stadt Glarus
+  - Glarus
+  - Glarus,City
 location:
   - 47.05
   - 9.05
@@ -12,11 +18,6 @@ tags:
 SpocWebEntityId: 30463
 isDeleted: false
 confidential: public
-aliases:
-  - Glarus City
-  - Glarus Stadt
-  - Stadt Glarus
-  - Glarus
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

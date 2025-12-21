@@ -1,16 +1,19 @@
 ---
-location: [46.35,7] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Leysin
+location:
+  - 46.35
+  - 7
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31971
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
