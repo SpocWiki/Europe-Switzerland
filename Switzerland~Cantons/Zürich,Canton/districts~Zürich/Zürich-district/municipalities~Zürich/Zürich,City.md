@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0200-01-01 
 aliases:
   - Zurich
   - Zuerich
