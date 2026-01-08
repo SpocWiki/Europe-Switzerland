@@ -44,17 +44,17 @@ markerFolder: ./Jura/
 
 ## Confidential Links & Embeds: 
 
-### [Jura,Canton](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton|Jura,Canton]] 
 
-### [Jura,Canton.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.public|Jura,Canton.public]] 
 
-### [Jura,Canton.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.internal|Jura,Canton.internal]] 
 
-### [Jura,Canton.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.protect|Jura,Canton.protect]] 
 
-### [Jura,Canton.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.private|Jura,Canton.private]] 
 
-### [Jura,Canton.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.personal|Jura,Canton.personal]] 
 
-### [Jura,Canton.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton.secret|Jura,Canton.secret]] 
 

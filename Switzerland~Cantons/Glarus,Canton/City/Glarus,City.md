@@ -18,14 +18,19 @@ tags:
 SpocWebEntityId: 30463
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.05
+dv_has_place_latitude: 47.05
+dv_name: Glarus
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.05] 
-[has_place_latitude::47.05] 
-[name::Glarus] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -42,17 +47,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Glarus,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City|Glarus,City]] 
 
-### [Glarus,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.public|Glarus,City.public]] 
 
-### [Glarus,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.internal|Glarus,City.internal]] 
 
-### [Glarus,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.protect|Glarus,City.protect]] 
 
-### [Glarus,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.private|Glarus,City.private]] 
 
-### [Glarus,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.personal|Glarus,City.personal]] 
 
-### [Glarus,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Glarus,City.secret|Glarus,City.secret]] 
 

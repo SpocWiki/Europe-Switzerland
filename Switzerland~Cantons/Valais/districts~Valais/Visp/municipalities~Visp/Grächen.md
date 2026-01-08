@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30621
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.85
+dv_has_place_latitude: 46.2
+dv_name: Grächen
+dv_Country: "[[../../../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.85] 
-[has_place_latitude::46.2] 
-[name::Grächen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grächen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen|Grächen]] 
 
-### [Grächen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.public|Grächen.public]] 
 
-### [Grächen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.internal|Grächen.internal]] 
 
-### [Grächen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.protect|Grächen.protect]] 
 
-### [Grächen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.private|Grächen.private]] 
 
-### [Grächen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.personal|Grächen.personal]] 
 
-### [Grächen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Visp/municipalities~Visp/Grächen.secret|Grächen.secret]] 
 

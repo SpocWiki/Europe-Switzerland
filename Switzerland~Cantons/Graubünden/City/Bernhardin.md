@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29137
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.17
+dv_has_place_latitude: 46.5
+dv_name: Bernhardin
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.17] 
-[has_place_latitude::46.5] 
-[name::Bernhardin] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bernhardin](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin|Bernhardin]] 
 
-### [Bernhardin.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.public|Bernhardin.public]] 
 
-### [Bernhardin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.internal|Bernhardin.internal]] 
 
-### [Bernhardin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.protect|Bernhardin.protect]] 
 
-### [Bernhardin.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.private|Bernhardin.private]] 
 
-### [Bernhardin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.personal|Bernhardin.personal]] 
 
-### [Bernhardin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Bernhardin.secret|Bernhardin.secret]] 
 

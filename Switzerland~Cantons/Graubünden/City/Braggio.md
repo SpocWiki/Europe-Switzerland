@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29308
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.12
+dv_has_place_latitude: 46.3
+dv_name: Braggio
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.12] 
-[has_place_latitude::46.3] 
-[name::Braggio] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Braggio](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio|Braggio]] 
 
-### [Braggio.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.public|Braggio.public]] 
 
-### [Braggio.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.internal|Braggio.internal]] 
 
-### [Braggio.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.protect|Braggio.protect]] 
 
-### [Braggio.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.private|Braggio.private]] 
 
-### [Braggio.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.personal|Braggio.personal]] 
 
-### [Braggio.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Braggio.secret|Braggio.secret]] 
 

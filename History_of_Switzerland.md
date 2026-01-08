@@ -16,11 +16,14 @@ facet_of: "[[_Standards/WikiData/WD~Switzerland,39]]"
 country: "[[_Standards/WikiData/WD~Switzerland,39]]"
 Dewey_Decimal_Classification: "949.4"
 Commons_category: History of Switzerland
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Switzerland,208761|WD~History_of_Switzerland,208761]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Switzerland,208761|WD~History_of_Switzerland,208761]]"
 ---
 
 # [[History_of_Switzerland]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Switzerland,208761|WD~History_of_Switzerland,208761]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -69,4 +72,21 @@ Commons_category: History of Switzerland
 > In 2002, Switzerland joined the United Nations.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Switzerland) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/History_of_Switzerland|History_of_Switzerland]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/History_of_Switzerland.public|History_of_Switzerland.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/History_of_Switzerland.internal|History_of_Switzerland.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/History_of_Switzerland.protect|History_of_Switzerland.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/History_of_Switzerland.private|History_of_Switzerland.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/History_of_Switzerland.personal|History_of_Switzerland.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/History_of_Switzerland.secret|History_of_Switzerland.secret]] 
 

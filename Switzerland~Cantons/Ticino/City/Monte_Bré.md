@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32567
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.98
+dv_has_place_latitude: 46.02
+dv_name: Monte Bré
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.98] 
-[has_place_latitude::46.02] 
-[name::Monte Bré] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monte_Bré](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré|Monte_Bré]] 
 
-### [Monte_Bré.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.public|Monte_Bré.public]] 
 
-### [Monte_Bré.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.internal|Monte_Bré.internal]] 
 
-### [Monte_Bré.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.protect|Monte_Bré.protect]] 
 
-### [Monte_Bré.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.private|Monte_Bré.private]] 
 
-### [Monte_Bré.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.personal|Monte_Bré.personal]] 
 
-### [Monte_Bré.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Monte_Bré.secret|Monte_Bré.secret]] 
 

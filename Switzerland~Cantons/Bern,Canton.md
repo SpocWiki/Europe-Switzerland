@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1191-01-01 
 aliases:
   - Bern
@@ -228,17 +228,17 @@ markerFolder: ./Bern/
 
 ## Confidential Links & Embeds: 
 
-### [Bern,Canton](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton|Bern,Canton]] 
 
-### [Bern,Canton.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.public|Bern,Canton.public]] 
 
-### [Bern,Canton.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.internal|Bern,Canton.internal]] 
 
-### [Bern,Canton.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.protect|Bern,Canton.protect]] 
 
-### [Bern,Canton.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.private|Bern,Canton.private]] 
 
-### [Bern,Canton.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.personal|Bern,Canton.personal]] 
 
-### [Bern,Canton.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton.secret|Bern,Canton.secret]] 
 

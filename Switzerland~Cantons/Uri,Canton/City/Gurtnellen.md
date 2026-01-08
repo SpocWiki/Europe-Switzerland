@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30643
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.62
+dv_has_place_latitude: 46.73
+dv_name: Gurtnellen
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.62] 
-[has_place_latitude::46.73] 
-[name::Gurtnellen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gurtnellen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen|Gurtnellen]] 
 
-### [Gurtnellen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.public|Gurtnellen.public]] 
 
-### [Gurtnellen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.internal|Gurtnellen.internal]] 
 
-### [Gurtnellen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.protect|Gurtnellen.protect]] 
 
-### [Gurtnellen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.private|Gurtnellen.private]] 
 
-### [Gurtnellen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.personal|Gurtnellen.personal]] 
 
-### [Gurtnellen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.secret|Gurtnellen.secret]] 
 

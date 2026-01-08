@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30433
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.52
+dv_has_place_latitude: 47
+dv_name: Gersau
+dv_Country: "[[../../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.52] 
-[has_place_latitude::47] 
-[name::Gersau] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gersau](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau|Gersau]] 
 
-### [Gersau.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.public|Gersau.public]] 
 
-### [Gersau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.internal|Gersau.internal]] 
 
-### [Gersau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.protect|Gersau.protect]] 
 
-### [Gersau.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.private|Gersau.private]] 
 
-### [Gersau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.personal|Gersau.personal]] 
 
-### [Gersau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Gersau/Gersau.secret|Gersau.secret]] 
 

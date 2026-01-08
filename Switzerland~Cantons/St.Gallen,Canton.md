@@ -45,17 +45,17 @@ markerFolder: ./Sankt_Gallen/
 
 ## Confidential Links & Embeds: 
 
-### [St.Gallen,Canton](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton|St.Gallen,Canton]] 
 
-### [St.Gallen,Canton.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.public|St.Gallen,Canton.public]] 
 
-### [St.Gallen,Canton.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.internal|St.Gallen,Canton.internal]] 
 
-### [St.Gallen,Canton.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.protect|St.Gallen,Canton.protect]] 
 
-### [St.Gallen,Canton.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.private|St.Gallen,Canton.private]] 
 
-### [St.Gallen,Canton.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.personal|St.Gallen,Canton.personal]] 
 
-### [St.Gallen,Canton.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton.secret|St.Gallen,Canton.secret]] 
 

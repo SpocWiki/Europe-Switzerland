@@ -43,17 +43,17 @@ markerFolder: ./Zürich/
 
 ## Confidential Links & Embeds: 
 
-### [Zürich,Canton](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton|Zürich,Canton]] 
 
-### [Zürich,Canton.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.public|Zürich,Canton.public]] 
 
-### [Zürich,Canton.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.internal|Zürich,Canton.internal]] 
 
-### [Zürich,Canton.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.protect|Zürich,Canton.protect]] 
 
-### [Zürich,Canton.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.private|Zürich,Canton.private]] 
 
-### [Zürich,Canton.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.personal|Zürich,Canton.personal]] 
 
-### [Zürich,Canton.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton.secret|Zürich,Canton.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33105
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.9
+dv_has_place_latitude: 47.35
+dv_name: Olten
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.9] 
-[has_place_latitude::47.35] 
-[name::Olten] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Olten](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten|Olten]] 
 
-### [Olten.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.public|Olten.public]] 
 
-### [Olten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.internal|Olten.internal]] 
 
-### [Olten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.protect|Olten.protect]] 
 
-### [Olten.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.private|Olten.private]] 
 
-### [Olten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.personal|Olten.personal]] 
 
-### [Olten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Olten.secret|Olten.secret]] 
 

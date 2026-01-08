@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29582
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.98
+dv_has_place_latitude: 45.83
+dv_name: Chiasso
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.98] 
-[has_place_latitude::45.83] 
-[name::Chiasso] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chiasso](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso|Chiasso]] 
 
-### [Chiasso.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.public|Chiasso.public]] 
 
-### [Chiasso.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.internal|Chiasso.internal]] 
 
-### [Chiasso.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.protect|Chiasso.protect]] 
 
-### [Chiasso.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.private|Chiasso.private]] 
 
-### [Chiasso.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.personal|Chiasso.personal]] 
 
-### [Chiasso.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Chiasso.secret|Chiasso.secret]] 
 

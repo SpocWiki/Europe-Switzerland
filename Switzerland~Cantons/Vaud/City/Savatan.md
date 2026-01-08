@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33979
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.03
+dv_has_place_latitude: 46.22
+dv_name: Savatan
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.03] 
-[has_place_latitude::46.22] 
-[name::Savatan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Savatan](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan|Savatan]] 
 
-### [Savatan.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.public|Savatan.public]] 
 
-### [Savatan.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.internal|Savatan.internal]] 
 
-### [Savatan.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.protect|Savatan.protect]] 
 
-### [Savatan.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.private|Savatan.private]] 
 
-### [Savatan.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.personal|Savatan.personal]] 
 
-### [Savatan.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Savatan.secret|Savatan.secret]] 
 

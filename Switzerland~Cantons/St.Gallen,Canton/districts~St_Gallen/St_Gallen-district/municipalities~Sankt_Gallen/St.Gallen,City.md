@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [St.Gallen,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City|St.Gallen,City]] 
 
-### [St.Gallen,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.public|St.Gallen,City.public]] 
 
-### [St.Gallen,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.internal|St.Gallen,City.internal]] 
 
-### [St.Gallen,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.protect|St.Gallen,City.protect]] 
 
-### [St.Gallen,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.private|St.Gallen,City.private]] 
 
-### [St.Gallen,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.personal|St.Gallen,City.personal]] 
 
-### [St.Gallen,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St_Gallen-district/municipalities~Sankt_Gallen/St.Gallen,City.secret|St.Gallen,City.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35397
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.5
+dv_has_place_latitude: 47.1
+dv_name: Walchwil
+dv_Country: "[[../../../../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.5] 
-[has_place_latitude::47.1] 
-[name::Walchwil] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Walchwil](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil|Walchwil]] 
 
-### [Walchwil.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.public|Walchwil.public]] 
 
-### [Walchwil.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.internal|Walchwil.internal]] 
 
-### [Walchwil.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.protect|Walchwil.protect]] 
 
-### [Walchwil.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.private|Walchwil.private]] 
 
-### [Walchwil.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.personal|Walchwil.personal]] 
 
-### [Walchwil.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Walchwil/Walchwil.secret|Walchwil.secret]] 
 

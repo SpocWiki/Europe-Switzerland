@@ -14,17 +14,23 @@ tags:
 SpocWebEntityId: 31964
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.62
+dv_has_place_latitude: 46.38
+dv_name: Leukerbad
+dv_State: "[Valais](../../../../../Valais.md)"
+dv_Country: "[Switzerland](../../../../../../../Switzerland.md)"
 ---
 
 # [Leukerbad](Leukerbad.md)
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.62] 
-[has_place_latitude::46.38] 
-[name::Leukerbad] 
-State ::  [Valais](../../../../../Valais.md) 
-Country :: [Switzerland](../../../../../../../Switzerland.md)   
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+State = `=this.dv_State`
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +47,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leukerbad](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad|Leukerbad]] 
 
-### [Leukerbad.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.public|Leukerbad.public]] 
 
-### [Leukerbad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.internal|Leukerbad.internal]] 
 
-### [Leukerbad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.protect|Leukerbad.protect]] 
 
-### [Leukerbad.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.private|Leukerbad.private]] 
 
-### [Leukerbad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.personal|Leukerbad.personal]] 
 
-### [Leukerbad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Leuk/municipalities~Leuk/Leukerbad/Leukerbad.secret|Leukerbad.secret]] 
 

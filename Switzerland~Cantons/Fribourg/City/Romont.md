@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33752
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.92
+dv_has_place_latitude: 46.68
+dv_name: Romont
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.92] 
-[has_place_latitude::46.68] 
-[name::Romont] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Romont](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont|Romont]] 
 
-### [Romont.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.public|Romont.public]] 
 
-### [Romont.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.internal|Romont.internal]] 
 
-### [Romont.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.protect|Romont.protect]] 
 
-### [Romont.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.private|Romont.private]] 
 
-### [Romont.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.personal|Romont.personal]] 
 
-### [Romont.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Romont.secret|Romont.secret]] 
 

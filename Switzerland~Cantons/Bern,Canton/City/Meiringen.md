@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32385
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.2
+dv_has_place_latitude: 46.73
+dv_name: Meiringen
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.2] 
-[has_place_latitude::46.73] 
-[name::Meiringen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Meiringen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen|Meiringen]] 
 
-### [Meiringen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.public|Meiringen.public]] 
 
-### [Meiringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.internal|Meiringen.internal]] 
 
-### [Meiringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.protect|Meiringen.protect]] 
 
-### [Meiringen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.private|Meiringen.private]] 
 
-### [Meiringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.personal|Meiringen.personal]] 
 
-### [Meiringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Meiringen.secret|Meiringen.secret]] 
 

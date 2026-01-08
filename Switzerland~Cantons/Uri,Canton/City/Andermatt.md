@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28819
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.58
+dv_has_place_latitude: 46.63
+dv_name: Andermatt
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.58] 
-[has_place_latitude::46.63] 
-[name::Andermatt] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Andermatt](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt|Andermatt]] 
 
-### [Andermatt.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.public|Andermatt.public]] 
 
-### [Andermatt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.internal|Andermatt.internal]] 
 
-### [Andermatt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.protect|Andermatt.protect]] 
 
-### [Andermatt.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.private|Andermatt.private]] 
 
-### [Andermatt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.personal|Andermatt.personal]] 
 
-### [Andermatt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.secret|Andermatt.secret]] 
 

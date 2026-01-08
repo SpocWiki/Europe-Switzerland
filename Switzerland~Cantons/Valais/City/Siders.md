@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34242
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.53
+dv_has_place_latitude: 46.3
+dv_name: Siders
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.53] 
-[has_place_latitude::46.3] 
-[name::Siders] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Siders](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders|Siders]] 
 
-### [Siders.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.public|Siders.public]] 
 
-### [Siders.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.internal|Siders.internal]] 
 
-### [Siders.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.protect|Siders.protect]] 
 
-### [Siders.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.private|Siders.private]] 
 
-### [Siders.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.personal|Siders.personal]] 
 
-### [Siders.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Siders.secret|Siders.secret]] 
 

@@ -14,14 +14,20 @@ tags:
 SpocWebEntityId: 35846
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.95
+dv_has_place_latitude: 47.3
+dv_name: Zofingen
+dv_State: Aargau]
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.95] 
-[has_place_latitude::47.3] 
-[name::Zofingen] 
-State :: Aargau] 
-Country :: [[Switzerland]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+State = `=this.dv_State`
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zofingen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen|Zofingen]] 
 
-### [Zofingen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.public|Zofingen.public]] 
 
-### [Zofingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.internal|Zofingen.internal]] 
 
-### [Zofingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.protect|Zofingen.protect]] 
 
-### [Zofingen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.private|Zofingen.private]] 
 
-### [Zofingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.personal|Zofingen.personal]] 
 
-### [Zofingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Zofingen.secret|Zofingen.secret]] 
 

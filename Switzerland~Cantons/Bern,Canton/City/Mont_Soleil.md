@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32559
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7
+dv_has_place_latitude: 47.15
+dv_name: Mont Soleil
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7] 
-[has_place_latitude::47.15] 
-[name::Mont Soleil] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mont_Soleil](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil|Mont_Soleil]] 
 
-### [Mont_Soleil.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.public|Mont_Soleil.public]] 
 
-### [Mont_Soleil.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.internal|Mont_Soleil.internal]] 
 
-### [Mont_Soleil.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.protect|Mont_Soleil.protect]] 
 
-### [Mont_Soleil.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.private|Mont_Soleil.private]] 
 
-### [Mont_Soleil.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.personal|Mont_Soleil.personal]] 
 
-### [Mont_Soleil.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.secret|Mont_Soleil.secret]] 
 

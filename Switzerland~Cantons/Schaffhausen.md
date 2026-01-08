@@ -40,17 +40,17 @@ markerFolder: ./Schaffhausen/
 
 ## Confidential Links & Embeds: 
 
-### [Schaffhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen|Schaffhausen]] 
 
-### [Schaffhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.public|Schaffhausen.public]] 
 
-### [Schaffhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.internal|Schaffhausen.internal]] 
 
-### [Schaffhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.protect|Schaffhausen.protect]] 
 
-### [Schaffhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.private|Schaffhausen.private]] 
 
-### [Schaffhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.personal|Schaffhausen.personal]] 
 
-### [Schaffhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen.secret|Schaffhausen.secret]] 
 

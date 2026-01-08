@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32590
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.9
+dv_has_place_latitude: 46.45
+dv_name: Montreux-Clarens
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.9] 
-[has_place_latitude::46.45] 
-[name::Montreux-Clarens] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montreux-Clarens](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens|Montreux-Clarens]] 
 
-### [Montreux-Clarens.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.public|Montreux-Clarens.public]] 
 
-### [Montreux-Clarens.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.internal|Montreux-Clarens.internal]] 
 
-### [Montreux-Clarens.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.protect|Montreux-Clarens.protect]] 
 
-### [Montreux-Clarens.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.private|Montreux-Clarens.private]] 
 
-### [Montreux-Clarens.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.personal|Montreux-Clarens.personal]] 
 
-### [Montreux-Clarens.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.secret|Montreux-Clarens.secret]] 
 

@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.54
+dv_has_place_latitude: 47.38
+dv_name: Zürich,City
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Zürich,72|WD~Zürich,72]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Zürich,72|WD~Zürich,72]]"
+
 has_time_started: 0200-01-01 
 aliases:
   - Zurich
@@ -227,17 +235,17 @@ area:
 # [[Zürich,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.54] 
-[has_place_latitude::47.38] 
-[name::Zürich,City] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Zürich,72|WD~Zürich,72]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -255,17 +263,17 @@ markerFolder: .//
 
 ## Confidential Links & Embeds: 
 
-### [Zürich,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City|Zürich,City]] 
 
-### [Zürich,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.public|Zürich,City.public]] 
 
-### [Zürich,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.internal|Zürich,City.internal]] 
 
-### [Zürich,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.protect|Zürich,City.protect]] 
 
-### [Zürich,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.private|Zürich,City.private]] 
 
-### [Zürich,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.personal|Zürich,City.personal]] 
 
-### [Zürich,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City.secret|Zürich,City.secret]] 
 

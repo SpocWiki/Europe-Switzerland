@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33958
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.25
+dv_has_place_latitude: 46.9
+dv_name: Sarnen
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.25] 
-[has_place_latitude::46.9] 
-[name::Sarnen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sarnen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen|Sarnen]] 
 
-### [Sarnen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.public|Sarnen.public]] 
 
-### [Sarnen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.internal|Sarnen.internal]] 
 
-### [Sarnen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.protect|Sarnen.protect]] 
 
-### [Sarnen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.private|Sarnen.private]] 
 
-### [Sarnen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.personal|Sarnen.personal]] 
 
-### [Sarnen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.secret|Sarnen.secret]] 
 

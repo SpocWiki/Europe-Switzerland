@@ -14,14 +14,20 @@ tags:
 SpocWebEntityId: 33733
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.78
+dv_has_place_latitude: 47.55
+dv_name: Rheinfelden
+dv_Country: "[[../../../../Germany]]"
+dv_State: "[[../../Baden-Wuerttemberg]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.78] 
-[has_place_latitude::47.55] 
-[name::Rheinfelden] 
-Country :: [[Germany]]  
-State :: [[../../Baden-Wuerttemberg]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+Country = `=this.dv_Country`
+State = `=this.dv_State`
 [Population::] 
 
 
@@ -37,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rheinfelden](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden|Rheinfelden]] 
 
-### [Rheinfelden.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.public|Rheinfelden.public]] 
 
-### [Rheinfelden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.internal|Rheinfelden.internal]] 
 
-### [Rheinfelden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.protect|Rheinfelden.protect]] 
 
-### [Rheinfelden.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.private|Rheinfelden.private]] 
 
-### [Rheinfelden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.personal|Rheinfelden.personal]] 
 
-### [Rheinfelden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.secret|Rheinfelden.secret]] 
 

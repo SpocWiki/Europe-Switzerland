@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33402
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.85
+dv_has_place_latitude: 46.65
+dv_name: Platta Medels
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.85] 
-[has_place_latitude::46.65] 
-[name::Platta Medels] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Platta_Medels](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels|Platta_Medels]] 
 
-### [Platta_Medels.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.public|Platta_Medels.public]] 
 
-### [Platta_Medels.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.internal|Platta_Medels.internal]] 
 
-### [Platta_Medels.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.protect|Platta_Medels.protect]] 
 
-### [Platta_Medels.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.private|Platta_Medels.private]] 
 
-### [Platta_Medels.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.personal|Platta_Medels.personal]] 
 
-### [Platta_Medels.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Platta_Medels.secret|Platta_Medels.secret]] 
 

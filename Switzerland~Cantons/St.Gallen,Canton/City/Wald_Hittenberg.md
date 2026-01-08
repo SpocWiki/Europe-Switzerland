@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 35399
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.93
+dv_has_place_latitude: 47.27
+dv_name: Wald Hittenberg
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.93] 
-[has_place_latitude::47.27] 
-[name::Wald Hittenberg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wald_Hittenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg|Wald_Hittenberg]] 
 
-### [Wald_Hittenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.public|Wald_Hittenberg.public]] 
 
-### [Wald_Hittenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.internal|Wald_Hittenberg.internal]] 
 
-### [Wald_Hittenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.protect|Wald_Hittenberg.protect]] 
 
-### [Wald_Hittenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.private|Wald_Hittenberg.private]] 
 
-### [Wald_Hittenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.personal|Wald_Hittenberg.personal]] 
 
-### [Wald_Hittenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Wald_Hittenberg.secret|Wald_Hittenberg.secret]] 
 

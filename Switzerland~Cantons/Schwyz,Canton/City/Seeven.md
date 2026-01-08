@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34173
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.63
+dv_has_place_latitude: 47.03
+dv_name: Seeven
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.63] 
-[has_place_latitude::47.03] 
-[name::Seeven] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Seeven](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven|Seeven]] 
 
-### [Seeven.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.public|Seeven.public]] 
 
-### [Seeven.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.internal|Seeven.internal]] 
 
-### [Seeven.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.protect|Seeven.protect]] 
 
-### [Seeven.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.private|Seeven.private]] 
 
-### [Seeven.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.personal|Seeven.personal]] 
 
-### [Seeven.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seeven.secret|Seeven.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32006
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.73
+dv_has_place_latitude: 47.48
+dv_name: Liestal
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.73] 
-[has_place_latitude::47.48] 
-[name::Liestal] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Liestal](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal|Liestal]] 
 
-### [Liestal.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.public|Liestal.public]] 
 
-### [Liestal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.internal|Liestal.internal]] 
 
-### [Liestal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.protect|Liestal.protect]] 
 
-### [Liestal.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.private|Liestal.private]] 
 
-### [Liestal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.personal|Liestal.personal]] 
 
-### [Liestal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.secret|Liestal.secret]] 
 

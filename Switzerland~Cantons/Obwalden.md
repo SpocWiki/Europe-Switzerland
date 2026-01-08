@@ -40,17 +40,17 @@ markerFolder: ./Obwalden/
 
 ## Confidential Links & Embeds: 
 
-### [Obwalden](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden|Obwalden]] 
 
-### [Obwalden.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.public|Obwalden.public]] 
 
-### [Obwalden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.internal|Obwalden.internal]] 
 
-### [Obwalden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.protect|Obwalden.protect]] 
 
-### [Obwalden.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.private|Obwalden.private]] 
 
-### [Obwalden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.personal|Obwalden.personal]] 
 
-### [Obwalden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden.secret|Obwalden.secret]] 
 

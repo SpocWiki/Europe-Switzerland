@@ -39,17 +39,17 @@ markerFolder: ./Zug/
 
 ## Confidential Links & Embeds: 
 
-### [Zug,Canton](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton|Zug,Canton]] 
 
-### [Zug,Canton.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.public|Zug,Canton.public]] 
 
-### [Zug,Canton.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.internal|Zug,Canton.internal]] 
 
-### [Zug,Canton.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.protect|Zug,Canton.protect]] 
 
-### [Zug,Canton.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.private|Zug,Canton.private]] 
 
-### [Zug,Canton.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.personal|Zug,Canton.personal]] 
 
-### [Zug,Canton.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton.secret|Zug,Canton.secret]] 
 

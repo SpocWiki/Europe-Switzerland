@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32330
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.07
+dv_has_place_latitude: 46.65
+dv_name: Marsens
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.07] 
-[has_place_latitude::46.65] 
-[name::Marsens] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marsens](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens|Marsens]] 
 
-### [Marsens.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.public|Marsens.public]] 
 
-### [Marsens.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.internal|Marsens.internal]] 
 
-### [Marsens.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.protect|Marsens.protect]] 
 
-### [Marsens.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.private|Marsens.private]] 
 
-### [Marsens.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.personal|Marsens.personal]] 
 
-### [Marsens.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.secret|Marsens.secret]] 
 

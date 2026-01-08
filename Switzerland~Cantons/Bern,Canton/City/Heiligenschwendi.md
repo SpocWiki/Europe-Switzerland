@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30849
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.68
+dv_has_place_latitude: 46.75
+dv_name: Heiligenschwendi
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.68] 
-[has_place_latitude::46.75] 
-[name::Heiligenschwendi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heiligenschwendi](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi|Heiligenschwendi]] 
 
-### [Heiligenschwendi.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.public|Heiligenschwendi.public]] 
 
-### [Heiligenschwendi.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.internal|Heiligenschwendi.internal]] 
 
-### [Heiligenschwendi.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.protect|Heiligenschwendi.protect]] 
 
-### [Heiligenschwendi.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.private|Heiligenschwendi.private]] 
 
-### [Heiligenschwendi.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.personal|Heiligenschwendi.personal]] 
 
-### [Heiligenschwendi.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.secret|Heiligenschwendi.secret]] 
 

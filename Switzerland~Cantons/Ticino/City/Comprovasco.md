@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29649
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.93
+dv_has_place_latitude: 46.47
+dv_name: Comprovasco
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.93] 
-[has_place_latitude::46.47] 
-[name::Comprovasco] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Comprovasco](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco|Comprovasco]] 
 
-### [Comprovasco.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.public|Comprovasco.public]] 
 
-### [Comprovasco.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.internal|Comprovasco.internal]] 
 
-### [Comprovasco.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.protect|Comprovasco.protect]] 
 
-### [Comprovasco.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.private|Comprovasco.private]] 
 
-### [Comprovasco.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.personal|Comprovasco.personal]] 
 
-### [Comprovasco.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.secret|Comprovasco.secret]] 
 

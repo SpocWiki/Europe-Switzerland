@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34296
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.35
+dv_has_place_latitude: 46.23
+dv_name: Sitten=Sion
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.35] 
-[has_place_latitude::46.23] 
-[name::Sitten=Sion] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sitten=Sion](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion|Sitten=Sion]] 
 
-### [Sitten=Sion.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.public|Sitten=Sion.public]] 
 
-### [Sitten=Sion.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.internal|Sitten=Sion.internal]] 
 
-### [Sitten=Sion.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.protect|Sitten=Sion.protect]] 
 
-### [Sitten=Sion.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.private|Sitten=Sion.private]] 
 
-### [Sitten=Sion.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.personal|Sitten=Sion.personal]] 
 
-### [Sitten=Sion.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Sitten=Sion.secret|Sitten=Sion.secret]] 
 

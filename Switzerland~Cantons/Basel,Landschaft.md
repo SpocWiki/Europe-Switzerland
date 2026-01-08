@@ -20,16 +20,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  different_from: "[[Basel,Canton]]"
+dv_is_different_from: "[[Basel,Canton]]"
 ---
 
 # [[Basel,Landschaft]]
 
-#is_/different_from ::[[Basel,Canton]] 
+is_different_from = `=this.dv_is_different_from`
 
 ```leaflet
 id: Basel-Landschaft
@@ -43,17 +46,17 @@ markerFolder: ./Basel-Landschaft/
 
 ## Confidential Links & Embeds: 
 
-### [Basel,Landschaft](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft|Basel,Landschaft]] 
 
-### [Basel,Landschaft.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.public|Basel,Landschaft.public]] 
 
-### [Basel,Landschaft.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.internal|Basel,Landschaft.internal]] 
 
-### [Basel,Landschaft.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.protect|Basel,Landschaft.protect]] 
 
-### [Basel,Landschaft.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.private|Basel,Landschaft.private]] 
 
-### [Basel,Landschaft.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.personal|Basel,Landschaft.personal]] 
 
-### [Basel,Landschaft.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft.secret|Basel,Landschaft.secret]] 
 

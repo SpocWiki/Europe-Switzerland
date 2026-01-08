@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28956
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.87
+dv_has_place_latitude: 47.28
+dv_name: Bachtel
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.87] 
-[has_place_latitude::47.28] 
-[name::Bachtel] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bachtel](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel|Bachtel]] 
 
-### [Bachtel.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.public|Bachtel.public]] 
 
-### [Bachtel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.internal|Bachtel.internal]] 
 
-### [Bachtel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.protect|Bachtel.protect]] 
 
-### [Bachtel.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.private|Bachtel.private]] 
 
-### [Bachtel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.personal|Bachtel.personal]] 
 
-### [Bachtel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.secret|Bachtel.secret]] 
 

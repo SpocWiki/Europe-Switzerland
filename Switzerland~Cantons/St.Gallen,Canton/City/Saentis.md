@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34722
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.33
+dv_has_place_latitude: 47.25
+dv_name: Saentis
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.33] 
-[has_place_latitude::47.25] 
-[name::Saentis] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saentis](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis|Saentis]] 
 
-### [Saentis.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.public|Saentis.public]] 
 
-### [Saentis.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.internal|Saentis.internal]] 
 
-### [Saentis.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.protect|Saentis.protect]] 
 
-### [Saentis.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.private|Saentis.private]] 
 
-### [Saentis.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.personal|Saentis.personal]] 
 
-### [Saentis.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Saentis.secret|Saentis.secret]] 
 

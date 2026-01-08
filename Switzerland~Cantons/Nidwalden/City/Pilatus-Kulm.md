@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33371
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.27
+dv_has_place_latitude: 46.98
+dv_name: Pilatus-Kulm
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.27] 
-[has_place_latitude::46.98] 
-[name::Pilatus-Kulm] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pilatus-Kulm](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm|Pilatus-Kulm]] 
 
-### [Pilatus-Kulm.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.public|Pilatus-Kulm.public]] 
 
-### [Pilatus-Kulm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.internal|Pilatus-Kulm.internal]] 
 
-### [Pilatus-Kulm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.protect|Pilatus-Kulm.protect]] 
 
-### [Pilatus-Kulm.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.private|Pilatus-Kulm.private]] 
 
-### [Pilatus-Kulm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.personal|Pilatus-Kulm.personal]] 
 
-### [Pilatus-Kulm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.secret|Pilatus-Kulm.secret]] 
 

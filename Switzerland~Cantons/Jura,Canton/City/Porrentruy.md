@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33469
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.07
+dv_has_place_latitude: 47.42
+dv_name: Porrentruy
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.07] 
-[has_place_latitude::47.42] 
-[name::Porrentruy] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Porrentruy](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy|Porrentruy]] 
 
-### [Porrentruy.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.public|Porrentruy.public]] 
 
-### [Porrentruy.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.internal|Porrentruy.internal]] 
 
-### [Porrentruy.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.protect|Porrentruy.protect]] 
 
-### [Porrentruy.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.private|Porrentruy.private]] 
 
-### [Porrentruy.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.personal|Porrentruy.personal]] 
 
-### [Porrentruy.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.secret|Porrentruy.secret]] 
 

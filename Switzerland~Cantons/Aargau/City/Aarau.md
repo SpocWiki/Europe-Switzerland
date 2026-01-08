@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28637
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.04
+dv_has_place_latitude: 47.38
+dv_name: Aarau
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.04] 
-[has_place_latitude::47.38] 
-[name::Aarau] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aarau](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau|Aarau]] 
 
-### [Aarau.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.public|Aarau.public]] 
 
-### [Aarau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.internal|Aarau.internal]] 
 
-### [Aarau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.protect|Aarau.protect]] 
 
-### [Aarau.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.private|Aarau.private]] 
 
-### [Aarau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.personal|Aarau.personal]] 
 
-### [Aarau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.secret|Aarau.secret]] 
 

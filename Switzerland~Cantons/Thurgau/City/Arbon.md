@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28855
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.43
+dv_has_place_latitude: 47.52
+dv_name: Arbon
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.43] 
-[has_place_latitude::47.52] 
-[name::Arbon] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arbon](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon|Arbon]] 
 
-### [Arbon.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.public|Arbon.public]] 
 
-### [Arbon.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.internal|Arbon.internal]] 
 
-### [Arbon.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.protect|Arbon.protect]] 
 
-### [Arbon.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.private|Arbon.private]] 
 
-### [Arbon.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.personal|Arbon.personal]] 
 
-### [Arbon.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Arbon.secret|Arbon.secret]] 
 

@@ -4,7 +4,7 @@ aliases:
   - Basel Stadt
   - Stadt Basel
   - Basel
-  - ''
+  - ""
   - Basel,City
 location:
   - 47.56
@@ -19,15 +19,20 @@ tags:
 SpocWebEntityId: 29038
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.59
+dv_has_place_latitude: 47.56
+dv_name: Basel
+dv_Country: "[[../../../../../Switzerland]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.59] 
-[has_place_latitude::47.56] 
-[name::Basel] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -44,17 +49,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Basel,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City|Basel,City]] 
 
-### [Basel,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.public|Basel,City.public]] 
 
-### [Basel,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.internal|Basel,City.internal]] 
 
-### [Basel,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.protect|Basel,City.protect]] 
 
-### [Basel,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.private|Basel,City.private]] 
 
-### [Basel,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.personal|Basel,City.personal]] 
 
-### [Basel,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City.secret|Basel,City.secret]] 
 

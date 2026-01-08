@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31397
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.33
+dv_has_place_latitude: 47.6
+dv_name: Kesswil
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.33] 
-[has_place_latitude::47.6] 
-[name::Kesswil] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kesswil](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil|Kesswil]] 
 
-### [Kesswil.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.public|Kesswil.public]] 
 
-### [Kesswil.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.internal|Kesswil.internal]] 
 
-### [Kesswil.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.protect|Kesswil.protect]] 
 
-### [Kesswil.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.private|Kesswil.private]] 
 
-### [Kesswil.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.personal|Kesswil.personal]] 
 
-### [Kesswil.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Kesswil.secret|Kesswil.secret]] 
 

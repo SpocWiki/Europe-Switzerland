@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29345
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.63
+dv_has_place_latitude: 46.98
+dv_name: Brevine Ia
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.63] 
-[has_place_latitude::46.98] 
-[name::Brevine Ia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brevine_Ia](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia|Brevine_Ia]] 
 
-### [Brevine_Ia.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.public|Brevine_Ia.public]] 
 
-### [Brevine_Ia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.internal|Brevine_Ia.internal]] 
 
-### [Brevine_Ia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.protect|Brevine_Ia.protect]] 
 
-### [Brevine_Ia.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.private|Brevine_Ia.private]] 
 
-### [Brevine_Ia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.personal|Brevine_Ia.personal]] 
 
-### [Brevine_Ia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.secret|Brevine_Ia.secret]] 
 

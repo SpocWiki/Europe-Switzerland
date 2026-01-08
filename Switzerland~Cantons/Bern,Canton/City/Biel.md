@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29177
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.23
+dv_has_place_latitude: 47.15
+dv_name: Biel
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.23] 
-[has_place_latitude::47.15] 
-[name::Biel] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Biel](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel|Biel]] 
 
-### [Biel.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.public|Biel.public]] 
 
-### [Biel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.internal|Biel.internal]] 
 
-### [Biel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.protect|Biel.protect]] 
 
-### [Biel.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.private|Biel.private]] 
 
-### [Biel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.personal|Biel.personal]] 
 
-### [Biel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Biel.secret|Biel.secret]] 
 

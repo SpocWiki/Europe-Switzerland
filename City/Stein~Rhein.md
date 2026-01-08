@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34544
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.9
+dv_has_place_latitude: 47.68
+dv_name: Stein~Rhein
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.9] 
-[has_place_latitude::47.68] 
-[name::Stein~Rhein] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Switzerland]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stein~Rhein](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein|Stein~Rhein]] 
 
-### [Stein~Rhein.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.public|Stein~Rhein.public]] 
 
-### [Stein~Rhein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.internal|Stein~Rhein.internal]] 
 
-### [Stein~Rhein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.protect|Stein~Rhein.protect]] 
 
-### [Stein~Rhein.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.private|Stein~Rhein.private]] 
 
-### [Stein~Rhein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.personal|Stein~Rhein.personal]] 
 
-### [Stein~Rhein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.secret|Stein~Rhein.secret]] 
 

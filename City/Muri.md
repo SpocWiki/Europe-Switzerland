@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32632
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.33
+dv_has_place_latitude: 47.62
+dv_name: Muri
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.33] 
-[has_place_latitude::47.62] 
-[name::Muri] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Switzerland]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Muri](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri|Muri]] 
 
-### [Muri.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.public|Muri.public]] 
 
-### [Muri.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.internal|Muri.internal]] 
 
-### [Muri.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.protect|Muri.protect]] 
 
-### [Muri.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.private|Muri.private]] 
 
-### [Muri.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.personal|Muri.personal]] 
 
-### [Muri.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/City/Muri.secret|Muri.secret]] 
 

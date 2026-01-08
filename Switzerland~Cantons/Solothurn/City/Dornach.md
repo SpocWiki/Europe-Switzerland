@@ -14,14 +14,20 @@ tags:
 SpocWebEntityId: 29848
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.63
+dv_has_place_latitude: 47.47
+dv_name: Dornach
+dv_State: Solothurn]
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.63] 
-[has_place_latitude::47.47] 
-[name::Dornach] 
-State :: Solothurn] 
-Country :: [[Switzerland]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+State = `=this.dv_State`
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dornach](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach|Dornach]] 
 
-### [Dornach.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.public|Dornach.public]] 
 
-### [Dornach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.internal|Dornach.internal]] 
 
-### [Dornach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.protect|Dornach.protect]] 
 
-### [Dornach.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.private|Dornach.private]] 
 
-### [Dornach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.personal|Dornach.personal]] 
 
-### [Dornach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Dornach.secret|Dornach.secret]] 
 

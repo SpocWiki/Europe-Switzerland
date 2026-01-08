@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30833
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9.53
+dv_has_place_latitude: 47.45
+dv_name: Heiden
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9.53] 
-[has_place_latitude::47.45] 
-[name::Heiden] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heiden](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden|Heiden]] 
 
-### [Heiden.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.public|Heiden.public]] 
 
-### [Heiden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.internal|Heiden.internal]] 
 
-### [Heiden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.protect|Heiden.protect]] 
 
-### [Heiden.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.private|Heiden.private]] 
 
-### [Heiden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.personal|Heiden.personal]] 
 
-### [Heiden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Heiden.secret|Heiden.secret]] 
 

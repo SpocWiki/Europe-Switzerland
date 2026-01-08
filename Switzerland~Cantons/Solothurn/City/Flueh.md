@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30198
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.52
+dv_has_place_latitude: 47.48
+dv_name: Flueh
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.52] 
-[has_place_latitude::47.48] 
-[name::Flueh] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Flueh](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh|Flueh]] 
 
-### [Flueh.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.public|Flueh.public]] 
 
-### [Flueh.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.internal|Flueh.internal]] 
 
-### [Flueh.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.protect|Flueh.protect]] 
 
-### [Flueh.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.private|Flueh.private]] 
 
-### [Flueh.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.personal|Flueh.personal]] 
 
-### [Flueh.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.secret|Flueh.secret]] 
 

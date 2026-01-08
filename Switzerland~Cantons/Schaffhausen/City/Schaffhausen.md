@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33990
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.63
+dv_has_place_latitude: 47.7
+dv_name: Schaffhausen
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.63] 
-[has_place_latitude::47.7] 
-[name::Schaffhausen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schaffhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen|Schaffhausen]] 
 
-### [Schaffhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.public|Schaffhausen.public]] 
 
-### [Schaffhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.internal|Schaffhausen.internal]] 
 
-### [Schaffhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.protect|Schaffhausen.protect]] 
 
-### [Schaffhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.private|Schaffhausen.private]] 
 
-### [Schaffhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.personal|Schaffhausen.personal]] 
 
-### [Schaffhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.secret|Schaffhausen.secret]] 
 

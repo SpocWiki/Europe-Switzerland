@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30715
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 9
+dv_has_place_latitude: 47.65
+dv_name: Haisenhaus
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::9] 
-[has_place_latitude::47.65] 
-[name::Haisenhaus] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haisenhaus](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus|Haisenhaus]] 
 
-### [Haisenhaus.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.public|Haisenhaus.public]] 
 
-### [Haisenhaus.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.internal|Haisenhaus.internal]] 
 
-### [Haisenhaus.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.protect|Haisenhaus.protect]] 
 
-### [Haisenhaus.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.private|Haisenhaus.private]] 
 
-### [Haisenhaus.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.personal|Haisenhaus.personal]] 
 
-### [Haisenhaus.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.secret|Haisenhaus.secret]] 
 

@@ -33,17 +33,17 @@ disableCollapseIcon: false
 
 ## Confidential Links & Embeds: 
 
-### [Switzerland~Cantons](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons|Switzerland~Cantons]] 
 
-### [Switzerland~Cantons.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.public|Switzerland~Cantons.public]] 
 
-### [Switzerland~Cantons.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.internal|Switzerland~Cantons.internal]] 
 
-### [Switzerland~Cantons.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.protect|Switzerland~Cantons.protect]] 
 
-### [Switzerland~Cantons.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.private|Switzerland~Cantons.private]] 
 
-### [Switzerland~Cantons.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.personal|Switzerland~Cantons.personal]] 
 
-### [Switzerland~Cantons.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons.secret|Switzerland~Cantons.secret]] 
 

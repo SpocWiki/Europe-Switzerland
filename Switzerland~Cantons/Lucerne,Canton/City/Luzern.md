@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32155
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.32
+dv_has_place_latitude: 47.05
+dv_name: Luzern
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.32] 
-[has_place_latitude::47.05] 
-[name::Luzern] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Luzern](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern|Luzern]] 
 
-### [Luzern.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.public|Luzern.public]] 
 
-### [Luzern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.internal|Luzern.internal]] 
 
-### [Luzern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.protect|Luzern.protect]] 
 
-### [Luzern.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.private|Luzern.private]] 
 
-### [Luzern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.personal|Luzern.personal]] 
 
-### [Luzern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Luzern.secret|Luzern.secret]] 
 

@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Bern,70|WD~Bern,70]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Bern,70|WD~Bern,70]]"
+
 has_time_started: 1191-01-01 
 aliases:
   - Berne
@@ -201,7 +205,7 @@ located_in_time_zone:
 ---
 # [[Bern,City]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Bern,70|WD~Bern,70]]
+is_same_as = `=this.dv_is_same_as`
 ## #has_/text_of_/abstract 
 
 > **Bern** (Swiss Standard German: [bɛrn] ), or Berne (French: [bɛʁn] ), 
@@ -238,17 +242,17 @@ located_in_time_zone:
 
 ## Confidential Links & Embeds: 
 
-### [Bern,City](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City|Bern,City]] 
 
-### [Bern,City.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.public|Bern,City.public]] 
 
-### [Bern,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.internal|Bern,City.internal]] 
 
-### [Bern,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.protect|Bern,City.protect]] 
 
-### [Bern,City.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.private|Bern,City.private]] 
 
-### [Bern,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.personal|Bern,City.personal]] 
 
-### [Bern,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.secret|Bern,City.secret]] 
 

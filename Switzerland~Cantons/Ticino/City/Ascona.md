@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28896
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.78
+dv_has_place_latitude: 46.15
+dv_name: Ascona
+dv_Country: "[[../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.78] 
-[has_place_latitude::46.15] 
-[name::Ascona] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Europe~South/Italy]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ascona](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona|Ascona]] 
 
-### [Ascona.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.public|Ascona.public]] 
 
-### [Ascona.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.internal|Ascona.internal]] 
 
-### [Ascona.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.protect|Ascona.protect]] 
 
-### [Ascona.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.private|Ascona.private]] 
 
-### [Ascona.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.personal|Ascona.personal]] 
 
-### [Ascona.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Ascona.secret|Ascona.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35482
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.43
+dv_has_place_latitude: 47.03
+dv_name: Weggis
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.43] 
-[has_place_latitude::47.03] 
-[name::Weggis] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weggis](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis|Weggis]] 
 
-### [Weggis.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.public|Weggis.public]] 
 
-### [Weggis.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.internal|Weggis.internal]] 
 
-### [Weggis.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.protect|Weggis.protect]] 
 
-### [Weggis.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.private|Weggis.private]] 
 
-### [Weggis.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.personal|Weggis.personal]] 
 
-### [Weggis.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/City/Weggis.secret|Weggis.secret]] 
 

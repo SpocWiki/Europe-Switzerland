@@ -40,17 +40,17 @@ markerFolder: ./Vaud/
 
 ## Confidential Links & Embeds: 
 
-### [Vaud](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud|Vaud]] 
 
-### [Vaud.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.public|Vaud.public]] 
 
-### [Vaud.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.internal|Vaud.internal]] 
 
-### [Vaud.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.protect|Vaud.protect]] 
 
-### [Vaud.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.private|Vaud.private]] 
 
-### [Vaud.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.personal|Vaud.personal]] 
 
-### [Vaud.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud.secret|Vaud.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30237
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.9
+dv_has_place_latitude: 47.55
+dv_name: Frauenfeld
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::8.9] 
-[has_place_latitude::47.55] 
-[name::Frauenfeld] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Frauenfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld|Frauenfeld]] 
 
-### [Frauenfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.public|Frauenfeld.public]] 
 
-### [Frauenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.internal|Frauenfeld.internal]] 
 
-### [Frauenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.protect|Frauenfeld.protect]] 
 
-### [Frauenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.private|Frauenfeld.private]] 
 
-### [Frauenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.personal|Frauenfeld.personal]] 
 
-### [Frauenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Frauenfeld.secret|Frauenfeld.secret]] 
 

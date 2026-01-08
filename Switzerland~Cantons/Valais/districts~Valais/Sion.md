@@ -14,24 +14,38 @@ tags:
 SpocWebEntityId: 34289
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.37
+dv_has_place_latitude: 46.23
+dv_name: Sion
+dv_State: "[[../../Valais]]"
+dv_Country: "[[../../../../Switzerland]]"
+dv_has_:
+  name_:
+    en_: Sion
+    de_: Sitten
+    fr_: Sion
+dv_has_name_en_: Sion
+dv_has_name_de_: Sitten
+dv_has_name_fr_: Sion
 ---
 
 # [Sion](Sion.md) 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.37] 
-[has_place_latitude::46.23] 
-[name::Sion] 
-State ::  [[../../Valais]]
-Country :: [[../../../../Switzerland]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+State = `=this.dv_State`
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
 
-#has_/name_/en_ :: Sion 
-#has_/name_/de_ :: Sitten 
-#has_/name_/fr_ :: Sion 
+has_name_en_ = `=this.dv_has_name_en_`
+has_name_de_ = `=this.dv_has_name_de_`
+has_name_fr_ = `=this.dv_has_name_fr_`
 
 
 ```leaflet
@@ -45,17 +59,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sion](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion|Sion]] 
 
-### [Sion.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.public|Sion.public]] 
 
-### [Sion.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.internal|Sion.internal]] 
 
-### [Sion.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.protect|Sion.protect]] 
 
-### [Sion.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.private|Sion.private]] 
 
-### [Sion.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.personal|Sion.personal]] 
 
-### [Sion.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.secret|Sion.secret]] 
 

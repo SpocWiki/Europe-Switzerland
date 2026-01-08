@@ -40,17 +40,17 @@ markerFolder: ./Thurgau/
 
 ## Confidential Links & Embeds: 
 
-### [Thurgau](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau|Thurgau]] 
 
-### [Thurgau.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.public|Thurgau.public]] 
 
-### [Thurgau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.internal|Thurgau.internal]] 
 
-### [Thurgau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.protect|Thurgau.protect]] 
 
-### [Thurgau.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.private|Thurgau.private]] 
 
-### [Thurgau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.personal|Thurgau.personal]] 
 
-### [Thurgau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau.secret|Thurgau.secret]] 
 

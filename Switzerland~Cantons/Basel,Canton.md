@@ -23,16 +23,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  different_from: "[[Basel,Landschaft]]"
+dv_is_different_from: "[[Basel,Landschaft]]"
 ---
 
 # [[Basel,Canton]]
 
-#is_/different_from :: [[Basel,Landschaft]] 
+is_different_from = `=this.dv_is_different_from`
 
 ```leaflet
 id: Basel-Stadt
@@ -46,17 +49,17 @@ markerFolder: ./Basel-Stadt/
 
 ## Confidential Links & Embeds: 
 
-### [Basel,Canton](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton|Basel,Canton]] 
 
-### [Basel,Canton.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.public|Basel,Canton.public]] 
 
-### [Basel,Canton.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.internal|Basel,Canton.internal]] 
 
-### [Basel,Canton.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.protect|Basel,Canton.protect]] 
 
-### [Basel,Canton.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.private|Basel,Canton.private]] 
 
-### [Basel,Canton.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.personal|Basel,Canton.personal]] 
 
-### [Basel,Canton.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Canton.secret|Basel,Canton.secret]] 
 

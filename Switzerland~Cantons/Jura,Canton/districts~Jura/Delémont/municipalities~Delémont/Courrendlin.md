@@ -78,19 +78,20 @@ minZoom: 6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Courrendlin) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Courrendlin](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin|Courrendlin]] 
 
-### [Courrendlin.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.public|Courrendlin.public]] 
 
-### [Courrendlin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.internal|Courrendlin.internal]] 
 
-### [Courrendlin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.protect|Courrendlin.protect]] 
 
-### [Courrendlin.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.private|Courrendlin.private]] 
 
-### [Courrendlin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.personal|Courrendlin.personal]] 
 
-### [Courrendlin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Delémont/municipalities~Delémont/Courrendlin.secret|Courrendlin.secret]] 
 

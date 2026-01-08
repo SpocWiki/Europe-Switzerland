@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~ETH_Zurich,11942|WD~ETH_Zurich,11942]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~ETH_Zurich,11942|WD~ETH_Zurich,11942]]"
+
 has_time_started: 1855-10-16 
 aliases:
 has_id_wikidata: Q11942
@@ -101,7 +105,7 @@ IPv6_routing_prefix:
 
 # [[ETH_Zurich]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~ETH_Zurich,11942|WD~ETH_Zurich,11942]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -112,4 +116,21 @@ IPv6_routing_prefix:
 > Students, faculty, and researchers affiliated with ETH Zurich include 22 Nobel laureates, including Albert Einstein, two Fields Medalists, three Pritzker Prize winners, and one Turing Award recipient. It is a founding member of the IDEA League and the International Alliance of Research Universities (IARU), and a member of the CESAER and League of European Research Universities (LERU) networks and the ENHANCE Alliance.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/ETH%20Zurich) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City/ETH_Zurich|ETH_Zurich]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City/ETH_Zurich.public|ETH_Zurich.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City/ETH_Zurich.internal|ETH_Zurich.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City/ETH_Zurich.protect|ETH_Zurich.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City/ETH_Zurich.private|ETH_Zurich.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City/ETH_Zurich.personal|ETH_Zurich.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City/ETH_Zurich.secret|ETH_Zurich.secret]] 
 

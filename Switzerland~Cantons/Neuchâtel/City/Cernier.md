@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29530
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.9
+dv_has_place_latitude: 47.07
+dv_name: Cernier
+dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.9] 
-[has_place_latitude::47.07] 
-[name::Cernier] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Switzerland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cernier](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier|Cernier]] 
 
-### [Cernier.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.public|Cernier.public]] 
 
-### [Cernier.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.internal|Cernier.internal]] 
 
-### [Cernier.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.protect|Cernier.protect]] 
 
-### [Cernier.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.private|Cernier.private]] 
 
-### [Cernier.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.personal|Cernier.personal]] 
 
-### [Cernier.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.secret|Cernier.secret]] 
 

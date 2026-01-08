@@ -41,17 +41,17 @@ markerFolder: ./Appenzell_Innerrhoden/
 
 ## Confidential Links & Embeds: 
 
-### [Appenzell_Innerrhoden](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden|Appenzell_Innerrhoden]] 
 
-### [Appenzell_Innerrhoden.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.public|Appenzell_Innerrhoden.public]] 
 
-### [Appenzell_Innerrhoden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.internal|Appenzell_Innerrhoden.internal]] 
 
-### [Appenzell_Innerrhoden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.protect|Appenzell_Innerrhoden.protect]] 
 
-### [Appenzell_Innerrhoden.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.private|Appenzell_Innerrhoden.private]] 
 
-### [Appenzell_Innerrhoden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.personal|Appenzell_Innerrhoden.personal]] 
 
-### [Appenzell_Innerrhoden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden.secret|Appenzell_Innerrhoden.secret]] 
 
