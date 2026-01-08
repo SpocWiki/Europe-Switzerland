@@ -35,7 +35,7 @@ confidential: public
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.33] 
 [has_place_latitude::47.42] 
-[name::St.Gallen] 
+[has_/name::St.Gallen] 
 State ::  
 Country :: [[Switzerland]]  
 [StateId::] 
