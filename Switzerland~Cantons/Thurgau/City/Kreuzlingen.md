@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.18
 dv_has_place_latitude: 47.65
-dv_name: Kreuzlingen
+dv_has_name_: Kreuzlingen
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

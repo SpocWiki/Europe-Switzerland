@@ -21,7 +21,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.65
 dv_has_place_latitude: 47.02
-dv_name: Schwyz
+dv_has_name_: Schwyz
 dv_Country: "[[../../../../../../../Switzerland]]"
 ---
 

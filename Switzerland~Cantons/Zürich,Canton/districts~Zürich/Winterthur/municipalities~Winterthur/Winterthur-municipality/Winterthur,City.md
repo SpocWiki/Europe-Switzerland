@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.72
 dv_has_place_latitude: 47.5
-dv_name: Winterthur
+dv_has_name_: Winterthur
 dv_Country: "[[../../../../../../../Switzerland]]"
 ---
 #is_a_/Place  

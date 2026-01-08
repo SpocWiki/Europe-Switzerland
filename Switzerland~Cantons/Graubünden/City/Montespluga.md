@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.4
 dv_has_place_latitude: 46.52
-dv_name: Montespluga
+dv_has_name_: Montespluga
 dv_Country: "[[../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  

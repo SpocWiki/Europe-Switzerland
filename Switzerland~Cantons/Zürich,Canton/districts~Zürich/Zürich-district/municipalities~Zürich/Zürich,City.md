@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.54
 dv_has_place_latitude: 47.38
-dv_name: Zürich,City
+dv_has_name_: Zürich,City
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Zürich,72|WD~Zürich,72]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Zürich,72|WD~Zürich,72]]"

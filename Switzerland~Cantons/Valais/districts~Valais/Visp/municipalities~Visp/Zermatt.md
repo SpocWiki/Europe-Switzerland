@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.75
 dv_has_place_latitude: 46.03
-dv_name: Zermatt
+dv_has_name_: Zermatt
 dv_Country: "[[../../../../../../Switzerland]]"
 ---
 #is_a_/Place  

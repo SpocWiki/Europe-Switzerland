@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.45
 dv_has_place_latitude: 47.7
-dv_name: Unter-Hallau
+dv_has_name_: Unter-Hallau
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.78
 dv_has_place_latitude: 46.15
-dv_name: Ascona
+dv_has_name_: Ascona
 dv_Country: "[[../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  

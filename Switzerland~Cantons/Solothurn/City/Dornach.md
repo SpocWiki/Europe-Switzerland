@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.63
 dv_has_place_latitude: 47.47
-dv_name: Dornach
+dv_has_name_: Dornach
 dv_State: Solothurn]
 dv_Country: "[[../../../../Switzerland]]"
 ---

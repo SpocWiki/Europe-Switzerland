@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.8
 dv_has_place_latitude: 46.48
-dv_name: Faido
+dv_has_name_: Faido
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.9
 dv_has_place_latitude: 47.07
-dv_name: Cernier
+dv_has_name_: Cernier
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

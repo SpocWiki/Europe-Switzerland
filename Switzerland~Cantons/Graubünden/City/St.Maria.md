@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.42
 dv_has_place_latitude: 46.6
-dv_name: St.Maria
+dv_has_name_: St.Maria
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

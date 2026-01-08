@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.33
 dv_has_place_latitude: 47.6
-dv_name: Kesswil
+dv_has_name_: Kesswil
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

@@ -21,7 +21,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.72
 dv_has_place_latitude: 47.35
-dv_name: Uster
+dv_has_name_: Uster
 dv_Country: "[[../../../../../../../Switzerland]]"
 ---
 

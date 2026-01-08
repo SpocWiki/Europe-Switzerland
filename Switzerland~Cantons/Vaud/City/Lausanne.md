@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.63
 dv_has_place_latitude: 46.52
-dv_name: Lausanne
+dv_has_name_: Lausanne
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

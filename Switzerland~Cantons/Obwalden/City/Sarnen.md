@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.25
 dv_has_place_latitude: 46.9
-dv_name: Sarnen
+dv_has_name_: Sarnen
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

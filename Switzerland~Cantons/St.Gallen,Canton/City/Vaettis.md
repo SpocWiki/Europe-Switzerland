@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.43
 dv_has_place_latitude: 46.92
-dv_name: Vaettis
+dv_has_name_: Vaettis
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

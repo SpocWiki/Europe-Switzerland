@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.23
 dv_has_place_latitude: 46.47
-dv_name: Reckingen
+dv_has_name_: Reckingen
 dv_State: "[Valais](../../Valais.md)"
 dv_Country: "[[../../../../Switzerland]]"
 ---

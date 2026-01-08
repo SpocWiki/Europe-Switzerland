@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.8
 dv_has_place_latitude: 46.7
-dv_name: Beatenberg
+dv_has_name_: Beatenberg
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

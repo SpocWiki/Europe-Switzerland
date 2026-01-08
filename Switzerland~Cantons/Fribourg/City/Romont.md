@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.92
 dv_has_place_latitude: 46.68
-dv_name: Romont
+dv_has_name_: Romont
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

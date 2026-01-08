@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.87
 dv_has_place_latitude: 47.28
-dv_name: Bachtel
+dv_has_name_: Bachtel
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

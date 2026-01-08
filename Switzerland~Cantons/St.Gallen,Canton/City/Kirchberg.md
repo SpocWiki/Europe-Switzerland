@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.05
 dv_has_place_latitude: 47.42
-dv_name: Kirchberg
+dv_has_name_: Kirchberg
 dv_State: Thurgau]
 dv_Country: "[[../../../../Switzerland]]"
 ---

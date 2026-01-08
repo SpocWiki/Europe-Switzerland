@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.15
 dv_has_place_latitude: 46.25
-dv_name: Grono
+dv_has_name_: Grono
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.83
 dv_has_place_latitude: 47.12
-dv_name: Chaux-de-Fonds
+dv_has_name_: Chaux-de-Fonds
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

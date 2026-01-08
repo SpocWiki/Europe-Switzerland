@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.95
 dv_has_place_latitude: 47.3
-dv_name: Zofingen
+dv_has_name_: Zofingen
 dv_State: Aargau]
 dv_Country: "[[../../../../Switzerland]]"
 ---

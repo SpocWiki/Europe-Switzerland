@@ -21,7 +21,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.05
 dv_has_place_latitude: 47.05
-dv_name: Glarus
+dv_has_name_: Glarus
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

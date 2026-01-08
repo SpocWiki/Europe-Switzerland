@@ -23,7 +23,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.49
 dv_has_place_latitude: 46.94
-dv_name: Bern
+dv_has_name_: Bern
 dv_Country: "[[../../../../Switzerland]]"
 ---
 

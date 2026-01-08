@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.32
 dv_has_place_latitude: 47.05
-dv_name: Luzern
+dv_has_name_: Luzern
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

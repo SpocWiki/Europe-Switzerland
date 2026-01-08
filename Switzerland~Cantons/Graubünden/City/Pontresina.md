@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.9
 dv_has_place_latitude: 46.5
-dv_name: Pontresina
+dv_has_name_: Pontresina
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.78
 dv_has_place_latitude: 46.93
-dv_name: Langnau
+dv_has_name_: Langnau
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

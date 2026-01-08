@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.9
 dv_has_place_latitude: 47.35
-dv_name: Olten
+dv_has_name_: Olten
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.78
 dv_has_place_latitude: 47.55
-dv_name: Rheinfelden
+dv_has_name_: Rheinfelden
 dv_Country: "[[../../../../Germany]]"
 dv_State: "[[../../Baden-Wuerttemberg]]"
 ---

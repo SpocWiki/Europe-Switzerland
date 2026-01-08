@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.03
 dv_has_place_latitude: 46.22
-dv_name: Savatan
+dv_has_name_: Savatan
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

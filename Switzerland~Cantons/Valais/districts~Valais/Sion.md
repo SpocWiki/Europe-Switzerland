@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.37
 dv_has_place_latitude: 46.23
-dv_name: Sion
+dv_has_name_: Sion
 dv_State: "[[../../Valais]]"
 dv_Country: "[[../../../../Switzerland]]"
 dv_has_:

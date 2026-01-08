@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.53
 dv_has_place_latitude: 47.22
-dv_name: Soleure=Solothurn
+dv_has_name_: Soleure=Solothurn
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

@@ -42,7 +42,7 @@ expiryDate: ""
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.15
 dv_has_place_latitude: 46.18
-dv_name: Genf=Geneva
+dv_has_name_: Genf=Geneva
 dv_State: "[[Genève,Canton]]"
 dv_Country: "[[../../Switzerland]]"
 dv_has_:

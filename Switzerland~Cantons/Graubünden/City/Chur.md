@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.53
 dv_has_place_latitude: 46.85
-dv_name: Chur
+dv_has_name_: Chur
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

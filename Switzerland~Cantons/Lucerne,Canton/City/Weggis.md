@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.43
 dv_has_place_latitude: 47.03
-dv_name: Weggis
+dv_has_name_: Weggis
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

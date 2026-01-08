@@ -22,7 +22,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.59
 dv_has_place_latitude: 47.56
-dv_name: Basel
+dv_has_name_: Basel
 dv_Country: "[[../../../../../Switzerland]]"
 ---
 

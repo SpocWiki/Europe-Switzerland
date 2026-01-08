@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.53
 dv_has_place_latitude: 47
-dv_name: Maienfeld
+dv_has_name_: Maienfeld
 dv_State: Graubünden]
 dv_Country: "[[../../../../Switzerland]]"
 ---

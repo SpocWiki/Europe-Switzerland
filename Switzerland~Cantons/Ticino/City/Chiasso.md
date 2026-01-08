@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.98
 dv_has_place_latitude: 45.83
-dv_name: Chiasso
+dv_has_name_: Chiasso
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

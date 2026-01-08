@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.2
 dv_has_place_latitude: 46.73
-dv_name: Meiringen
+dv_has_name_: Meiringen
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

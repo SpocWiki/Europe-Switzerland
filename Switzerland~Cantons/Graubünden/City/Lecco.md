@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.4
 dv_has_place_latitude: 46.83
-dv_name: Lecco
+dv_has_name_: Lecco
 dv_Country: "[[../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  

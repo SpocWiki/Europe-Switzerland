@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.62
 dv_has_place_latitude: 46.38
-dv_name: Leukerbad
+dv_has_name_: Leukerbad
 dv_State: "[Valais](../../../../../Valais.md)"
 dv_Country: "[Switzerland](../../../../../../../Switzerland.md)"
 ---

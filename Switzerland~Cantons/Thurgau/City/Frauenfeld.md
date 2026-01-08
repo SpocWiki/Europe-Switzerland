@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.9
 dv_has_place_latitude: 47.55
-dv_name: Frauenfeld
+dv_has_name_: Frauenfeld
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  

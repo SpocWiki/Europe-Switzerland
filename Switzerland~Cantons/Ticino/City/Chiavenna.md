@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.88
 dv_has_place_latitude: 46.3
-dv_name: Chiavenna
+dv_has_name_: Chiavenna
 dv_Country: "[[../../../../../Europe~South/Italy]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.93
 dv_has_place_latitude: 46.58
-dv_name: Ponte Campovasta
+dv_has_name_: Ponte Campovasta
 dv_Country: "[[../../../../Switzerland]]"
 ---
 #is_a_/Place  
