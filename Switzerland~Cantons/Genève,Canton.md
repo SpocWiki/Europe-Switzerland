@@ -42,7 +42,7 @@ expiryDate: ""
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.15
 dv_has_place_latitude: 46.18
-dv_has_name_: Genf=Geneva
+dv_has_name: Genf=Geneva
 dv_State: "[[Genève,Canton]]"
 dv_Country: "[[../../Switzerland]]"
 dv_has_:
@@ -61,7 +61,7 @@ dv_has_name_fr_: Genève
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State = `=this.dv_State`
 Country = `=this.dv_Country`
 [StateId::] 

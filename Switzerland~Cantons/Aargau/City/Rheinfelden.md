@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.78
 dv_has_place_latitude: 47.55
-dv_has_name_: Rheinfelden
+dv_has_name: Rheinfelden
 dv_Country: "[[../../../../Germany]]"
 dv_State: "[[../../Baden-Wuerttemberg]]"
 ---
@@ -25,7 +25,7 @@ dv_State: "[[../../Baden-Wuerttemberg]]"
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 Country = `=this.dv_Country`
 State = `=this.dv_State`
 [Population::] 

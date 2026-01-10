@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.62
 dv_has_place_latitude: 46.38
-dv_has_name_: Leukerbad
+dv_has_name: Leukerbad
 dv_State: "[Valais](../../../../../Valais.md)"
 dv_Country: "[Switzerland](../../../../../../../Switzerland.md)"
 ---
@@ -28,7 +28,7 @@ dv_Country: "[Switzerland](../../../../../../../Switzerland.md)"
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State = `=this.dv_State`
 Country = `=this.dv_Country`
 [StateId::] 

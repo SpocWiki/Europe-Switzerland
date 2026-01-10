@@ -46,7 +46,7 @@ dv_ISO4217-currency_country_name: SWITZERLAND
 dv_Telephone: 41
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Switzerland
+dv_has_name: Switzerland
 dv_has_name_en: Switzerland
 dv_has_name_es: Suiza
 dv_has_name_fr: Suisse
@@ -117,7 +117,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global` 
 Global_Name = `=this.dv_Global_Name` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [	has_name_en	 :: Switzerland ] 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 
