@@ -27,7 +27,7 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Appenzell_Ausserrhoden
+# [[Appenzell_Ausserrhoden]]
 
 ```leaflet
 id: Appenzell_Ausserrhoden
@@ -36,6 +36,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Appenzell_Ausserrhoden/
 markerFolder: ./Appenzell_Ausserrhoden/
+markerFile: [[Burgenland]] 
+coordinates: [[Burgenland]] 
 ```
 
 

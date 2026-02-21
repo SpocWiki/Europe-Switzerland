@@ -29,15 +29,21 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Zürich
+# [[Zürich,Canton]] 
+
+
+## #has_/map  
 
 ```leaflet
 id: Zürich
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Zürich/
-markerFolder: ./Zürich/
+geojsonFolder: ./Zürich,Canton//
+markerFolder: ./Zürich,Canton/
+markerFile: [[Zürich,Canton]] 
+coordinates: [[Zürich,Canton]] 
 ```
 
 

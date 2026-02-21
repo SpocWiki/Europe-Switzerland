@@ -31,15 +31,20 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Sankt_Gallen
+# [[St.Gallen,Canton]] 
+
+## #has_/map  
 
 ```leaflet
 id: Sankt_Gallen
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Sankt_Gallen/
-markerFolder: ./Sankt_Gallen/
+geojsonFolder: ./St.Gallen,Canton/
+markerFolder: ./St.Gallen,Canton/
+markerFile: [[St.Gallen,Canton]] 
+coordinates: [[St.Gallen,Canton]] 
 ```
 
 

@@ -72,19 +72,20 @@ has_name_en_ = `=this.dv_has_name_en_`
 has_name_de_ = `=this.dv_has_name_de_`
 has_name_fr_ = `=this.dv_has_name_fr_`
 
+## #has_/map  
 
 ```leaflet
-id: Genève
-coordinates: [[Genève]] 
-markerFile: [[Genève]] 
+id: Genève,Canton
+coordinates: [[Genève,Canton]] 
+markerFile: [[Genève,Canton]] 
 
 zoomFeatures: false 
 
 minZoom: 4 
 maxZoom: 18
 defaultZoom: 10 
-geojsonFolder: ./Genève/
-markerFolder: ./Genève/
+geojsonFolder: ./Genève,Canton/
+markerFolder: ./Genève,Canton/
 ```
 
 

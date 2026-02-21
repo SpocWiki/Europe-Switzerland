@@ -43,7 +43,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau|Aarau]] 
+### #is_/same_as :: [[Aarau|Aarau]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Aarau.public|Aarau.public]] 
 

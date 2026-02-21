@@ -43,7 +43,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden|Rheinfelden]] 
+### #is_/same_as :: [[Rheinfelden|Rheinfelden]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Rheinfelden.public|Rheinfelden.public]] 
 

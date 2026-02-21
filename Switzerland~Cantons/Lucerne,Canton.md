@@ -31,15 +31,20 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Lucerne
+# [[Lucerne,Canton]] 
+
+## #has_/map 
 
 ```leaflet
-id: Lucerne
-zoomFeatures: true 
+id: Lucerne,Canton 2026-02-212026-02-21
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Lucerne/
-markerFolder: ./Lucerne/
+geojsonFolder: ./Lucerne,Canton/
+markerFolder: ./Lucerne,Canton/
+markerFile: [[Lucerne,Canton]] 
+coordinates: [[Lucerne,Canton]] 
 ```
 
 

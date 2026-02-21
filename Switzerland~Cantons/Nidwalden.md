@@ -26,15 +26,20 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Nidwalden
+# [[Nidwalden]]
+
+## #has_/map  
 
 ```leaflet
 id: Nidwalden
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Nidwalden/
 markerFolder: ./Nidwalden/
+markerFile: [[Nidwalden]] 
+coordinates: [[Nidwalden]] 
 ```
 
 

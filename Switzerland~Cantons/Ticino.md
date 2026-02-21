@@ -26,15 +26,21 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Ticino
+# [[Ticino]]
+
+
+## #has_/map  
 
 ```leaflet
 id: Ticino
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ticino/
 markerFolder: ./Ticino/
+markerFile: [[Ticino]] 
+coordinates: [[Ticino]] 
 ```
 
 

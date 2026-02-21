@@ -30,15 +30,21 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Schwyz
+# [[Schwyz,Canton]] 
+
+
+## #has_/map  
 
 ```leaflet
 id: Schwyz
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Schwyz/
-markerFolder: ./Schwyz/
+geojsonFolder: ./Schwyz,Canton/
+markerFolder: ./Schwyz,Canton/
+markerFile: [[Schwyz,Canton]] 
+coordinates: [[Schwyz,Canton]] 
 ```
 
 

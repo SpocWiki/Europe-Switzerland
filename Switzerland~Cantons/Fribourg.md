@@ -26,15 +26,20 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Fribourg
+# [[Fribourg]]
+
+## #has_/map  
 
 ```leaflet
 id: Fribourg
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Fribourg/
 markerFolder: ./Fribourg/
+markerFile: [[Fribourg]] 
+coordinates: [[Fribourg]] 
 ```
 
 

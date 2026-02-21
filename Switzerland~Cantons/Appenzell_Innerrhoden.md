@@ -27,7 +27,7 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Appenzell_Innerrhoden
+# [[Appenzell_Innerrhoden]]
 
 ```leaflet
 id: Appenzell_Innerrhoden
@@ -36,6 +36,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Appenzell_Innerrhoden/
 markerFolder: ./Appenzell_Innerrhoden/
+markerFile: [[Burgenland]] 
+coordinates: [[Burgenland]] 
 ```
 
 

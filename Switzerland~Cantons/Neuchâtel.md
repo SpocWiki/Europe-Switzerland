@@ -26,15 +26,20 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Neuchâtel
+# [[Neuchâtel]]
+
+## #has_/map  
 
 ```leaflet
 id: Neuchâtel
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Neuchâtel/
 markerFolder: ./Neuchâtel/
+markerFile: [[Neuchâtel]] 
+coordinates: [[Neuchâtel]] 
 ```
 
 

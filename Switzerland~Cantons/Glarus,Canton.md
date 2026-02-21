@@ -30,15 +30,20 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Glarus
+# [[Glarus,Canton]] 
+
+## #has_/map  
 
 ```leaflet
 id: Glarus
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Glarus/
-markerFolder: ./Glarus/
+geojsonFolder: ./Glarus,Canton/
+markerFolder: ./Glarus,Canton/
+markerFile: [[Glarus,Canton]] 
+coordinates: [[Glarus,Canton]] 
 ```
 
 

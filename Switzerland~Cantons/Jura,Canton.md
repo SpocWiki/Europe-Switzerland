@@ -30,15 +30,20 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Jura
+# [[Jura,Canton]] 
+
+## #has_/map  
 
 ```leaflet
 id: Jura
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Jura/
-markerFolder: ./Jura/
+geojsonFolder: ./Jura,Canton/
+markerFolder: ./Jura,Canton/
+markerFile: [[Jura,Canton]] 
+coordinates: [[Jura,Canton]] 
 ```
 
 

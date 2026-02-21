@@ -26,15 +26,21 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Thurgau
+# [[Thurgau]] 
+
+
+## #has_/map 
 
 ```leaflet
 id: Thurgau
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Thurgau/
 markerFolder: ./Thurgau/
+markerFile: [[Thurgau]] 
+coordinates: [[Thurgau]] 
 ```
 
 

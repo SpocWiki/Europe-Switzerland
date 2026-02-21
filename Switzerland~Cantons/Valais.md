@@ -26,15 +26,20 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Valais
+# [[Valais]]
+
+## #has_/map 
 
 ```leaflet
 id: Valais
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Valais/
 markerFolder: ./Valais/
+markerFile: [[Valais]] 
+coordinates: [[Valais]] 
 ```
 
 

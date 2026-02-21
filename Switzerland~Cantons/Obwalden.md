@@ -26,15 +26,20 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Obwalden
+# [[Obwalden]] 
+
+## #has_/map  
 
 ```leaflet
 id: Obwalden
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Obwalden/
 markerFolder: ./Obwalden/
+markerFile: [[Obwalden]] 
+coordinates: [[Obwalden]] 
 ```
 
 

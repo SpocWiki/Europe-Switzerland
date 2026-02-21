@@ -30,15 +30,20 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Uri
+# [[Uri,Canton]] 
+
+## #has_/map  
 
 ```leaflet
 id: Uri
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Uri/
-markerFolder: ./Uri/
+geojsonFolder: ./Uri,Canton/
+markerFolder: ./Uri,Canton/
+markerFile: [[Uri,Canton]] 
+coordinates: [[Uri,Canton]] 
 ```
 
 

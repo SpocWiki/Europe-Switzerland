@@ -27,13 +27,19 @@ expiryDate:
 
 # [[Zug,Canton]]
 
+
+## #has_/map 
+
 ```leaflet
 id: Zug
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Zug/
-markerFolder: ./Zug/
+geojsonFolder: ./Zug,Canton//
+markerFolder: ./Zug,Canton/
+markerFile: [[Zug,Canton]] 
+coordinates: [[Zug,Canton]] 
 ```
 
 

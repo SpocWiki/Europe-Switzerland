@@ -38,12 +38,15 @@ dv_is_different_from: "[[Basel,Landschaft]]"
 is_different_from = `=this.dv_is_different_from`
 
 ```leaflet
-id: Basel-Stadt
-zoomFeatures: true 
+id: Basel,Canton
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Basel-Stadt/
-markerFolder: ./Basel-Stadt/
+geojsonFolder: ./Basel,Canton/
+markerFolder: ./Basel,Canton/
+markerFile: [[Basel,Canton]] 
+coordinates: [[Basel,Canton]] 
 ```
 
 

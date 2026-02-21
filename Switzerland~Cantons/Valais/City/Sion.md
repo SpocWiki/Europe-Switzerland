@@ -4,7 +4,7 @@ aliases:
   - Sion
 location:
   - 46.23
-  - 7.37
+  - 7.35
 mapzoom:
   - 7
   - 12
@@ -12,11 +12,11 @@ mapmarker: city
 type: City
 tags:
   - geo/City
-SpocWebEntityId: 34289
+SpocWebEntityId: 34296
 isDeleted: false
 confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
-dv_has_place_longitude: 7.37
+dv_has_place_longitude: 7.35
 dv_has_place_latitude: 46.23
 dv_has_name: Sion
 dv_State: "[[../../Valais]]"
@@ -42,7 +42,6 @@ State = `=this.dv_State`
 Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-
 
 has_name_en_ = `=this.dv_has_name_en_`
 has_name_de_ = `=this.dv_has_name_de_`

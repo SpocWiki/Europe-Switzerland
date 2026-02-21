@@ -26,15 +26,21 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Vaud
+# [[Vaud]]
+
+
+## #has_/map 
 
 ```leaflet
 id: Vaud
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Vaud/
+geojsonFolder: ./Vaud//
 markerFolder: ./Vaud/
+markerFile: [[Vaud]] 
+coordinates: [[Vaud]] 
 ```
 
 

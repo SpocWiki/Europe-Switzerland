@@ -34,13 +34,18 @@ dv_is_different_from: "[[Basel,Canton]]"
 
 is_different_from = `=this.dv_is_different_from`
 
+## #has_/map  
+
 ```leaflet
-id: Basel-Landschaft
-zoomFeatures: true 
+id: Basel,Landschaft
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Basel-Landschaft/
-markerFolder: ./Basel-Landschaft/
+geojsonFolder: ./Basel,Landschaft/
+markerFolder: ./Basel,Landschaft/
+markerFile: [[Basel,Landschaft]] 
+coordinates: [[Basel,Landschaft]] 
 ```
 
 

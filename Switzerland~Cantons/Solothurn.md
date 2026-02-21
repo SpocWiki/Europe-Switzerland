@@ -26,15 +26,21 @@ publishDate: ''
 expiryDate: ''
 ---
 
-# Solothurn
+# [[Solothurn]] 
+
+
+## #has_/map  
 
 ```leaflet
 id: Solothurn
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Solothurn/
 markerFolder: ./Solothurn/
+markerFile: [[Solothurn]] 
+coordinates: [[Solothurn]] 
 ```
 
 

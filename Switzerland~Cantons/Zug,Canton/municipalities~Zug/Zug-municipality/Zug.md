@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.52
 dv_has_place_latitude: 47.17
 dv_has_name: Zug
-dv_Country: "[[../../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../Switzerland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
@@ -43,7 +43,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug|Zug]] 
+### #is_/same_as :: [[Zug|Zug]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.public|Zug.public]] 
 

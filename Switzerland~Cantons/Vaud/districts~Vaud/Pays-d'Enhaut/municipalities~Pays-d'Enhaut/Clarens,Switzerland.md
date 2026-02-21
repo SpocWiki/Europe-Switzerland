@@ -14,12 +14,15 @@ tags:
 SpocWebEntityId: 29620
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.9
 dv_has_place_latitude: 46.45
 dv_has_name: Clarens
-dv_Country: "[[../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland]]"
 ---
+
+# [[Clarens,Switzerland]] 
+
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
@@ -30,7 +33,7 @@ Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-
+## #has_/map  
 
 ```leaflet
 id: Clarens
@@ -41,9 +44,21 @@ maxZoom: 18
 ```
 
 
+## #has_/text_of_/abstract 
+
+> Clarens-Montreux is a neighbourhood in the municipality of Montreux, 
+> in the canton of Vaud, in Switzerland. 
+> 
+> This neighbourhood is the biggest and most populated of the city of Montreux.
+> 
+> Clarens was made famous throughout Europe 
+> by the immense success of the book La Nouvelle Héloïse by Jean-Jacques Rousseau.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Clarens,%20Switzerland) 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Clarens|Clarens]] 
+### #is_/same_as :: [[Clarens,Switzerland|Clarens]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Clarens.public|Clarens.public]] 
 
