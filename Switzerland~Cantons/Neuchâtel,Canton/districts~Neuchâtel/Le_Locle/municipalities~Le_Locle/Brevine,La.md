@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Brevine_Ia
-  - Brevine Ia
+  - Brevine
+  - Brevine,La
 location:
   - 46.98
   - 6.63
@@ -15,11 +15,11 @@ tags:
 SpocWebEntityId: 29345
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.63
 dv_has_place_latitude: 46.98
-dv_has_name: Brevine Ia
-dv_Country: "[[../../../../Switzerland]]"
+dv_has_name: Brevine,La
+dv_Country: "[[../../../../../../Switzerland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
@@ -34,7 +34,7 @@ Country = `=this.dv_Country`
 
 
 ```leaflet
-id: Brevine Ia
+id: Brevine,La
 coordinates: [[Brevine_Ia]] 
 markerFile: [[Brevine_Ia]] 
 defaultZoom: 11 
@@ -44,7 +44,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Brevine_Ia|Brevine_Ia]] 
+### #is_/same_as :: [[Brevine,La|Brevine_Ia]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.public|Brevine_Ia.public]] 
 

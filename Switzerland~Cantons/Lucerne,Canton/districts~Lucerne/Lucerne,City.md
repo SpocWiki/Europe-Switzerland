@@ -1,6 +1,50 @@
+---
+aliases:
+  - Luzern
+  - Lucerne 
+location:
+  - 47.05
+  - 8.32
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
+type: City
+tags:
+  - geo/City
+SpocWebEntityId: 32155
+isDeleted: false
+confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 8.32
+dv_has_place_latitude: 47.05
+dv_has_name: Luzern
+dv_Country: "[[../../../../Switzerland]]"
+---
+
+# [[../City/Lucerne,City]] 
+
+#is_a_/Place  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_has_name` 
+State ::  
+Country = `=this.dv_Country`
+[StateId::] 
+[Population::] 
+
+## #has_/map  
+
+```leaflet
+id: Luzern
+coordinates: [[Luzern]] 
+markerFile: [[Luzern]] 
+defaultZoom: 11 
+maxZoom: 18
+```
 
 ## #has_/text_of_/abstract 
-
 
 > Lucerne (English:  loo-SURN) or **Luzern** (Swiss Standard German: [luˈtsɛrn] ) 
 > is a city in central Switzerland, in the German-speaking portion of the country. 
@@ -27,7 +71,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/districts~Lucerne/Luzern,City|Luzern,City]] 
+### #is_/same_as :: [[../City/Lucerne,City|Luzern,City]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/districts~Lucerne/Luzern,City.public|Luzern,City.public]] 
 

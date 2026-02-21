@@ -36,8 +36,8 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Neuchâtel,Canton/
-markerFolder: ./Neuchâtel,Canton/
+geojsonFolder: ./Neuchâtel,Canton///
+markerFolder: ./Neuchâtel,Canton/City
 markerFile: [[Neuchâtel,Canton]] 
 coordinates: [[Neuchâtel,Canton]] 
 ```
