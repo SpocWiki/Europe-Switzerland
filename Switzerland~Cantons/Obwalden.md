@@ -36,8 +36,8 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Obwalden/
-markerFolder: ./Obwalden/
+geojsonFolder: ./Obwalden/////
+markerFolder: ./Obwalden
 markerFile: [[Obwalden]] 
 coordinates: [[Obwalden]] 
 ```

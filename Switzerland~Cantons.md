@@ -1,11 +1,12 @@
 
 ```leaflet
-id: Switzerland
-zoomFeatures: true 
+id: Switzerland~Cantons
+zoomFeatures: true
+defaultZoom: 7 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Switzerland~Counties/
-markerFolder: ./Switzerland~Counties//
+geojsonFolder: ./Switzerland~Cantons/
+markerFolder: ./Switzerland~Cantons//
 ```
 
 

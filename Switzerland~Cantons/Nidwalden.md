@@ -33,11 +33,11 @@ expiryDate: ''
 ```leaflet
 id: Nidwalden
 zoomFeatures: false 
-defaultZoom: 8 
+defaultZoom: 9 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Nidwalden/
-markerFolder: ./Nidwalden/
+geojsonFolder: ./Nidwalden////
+markerFolder: ./Nidwalden/City
 markerFile: [[Nidwalden]] 
 coordinates: [[Nidwalden]] 
 ```

@@ -1,0 +1,62 @@
+---
+aliases:
+  - Solothurn
+location:
+  - 47.3
+  - 7.6
+type: geo-Region
+title: Solothurn
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+tags:
+  - geo/Country/Region
+Languages:
+  - de
+cssclasses:
+  - geo-Region
+publish: true
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
+---
+
+# [[Solothurn,Canton]] 
+
+
+## #has_/map  
+
+```leaflet
+id: Solothurn,Canton
+zoomFeatures: false 
+defaultZoom: 8 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Solothurn,Canton//
+markerFolder: ./Solothurn,Canton/City
+markerFile: [[Solothurn,Canton]] 
+coordinates: [[Solothurn,Canton]] 
+```
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[Solothurn,Canton|Solothurn,Canton]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton.public|Solothurn,Canton.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton.internal|Solothurn,Canton.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton.protect|Solothurn,Canton.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton.private|Solothurn,Canton.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton.personal|Solothurn,Canton.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton.secret|Solothurn,Canton.secret]] 
+
