@@ -1,6 +1,8 @@
 ---
 aliases:
-  - Schuh=Schuls
+  - Schuh
+  - Schuls
+  - Scuol
 location:
   - 46.8
   - 10.3
@@ -14,12 +16,15 @@ tags:
 SpocWebEntityId: 34079
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 10.3
 dv_has_place_latitude: 46.8
 dv_has_name: Schuh=Schuls
-dv_Country: "[[../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland]]"
 ---
+
+# [[Scuol]] 
+
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
@@ -30,7 +35,7 @@ Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-
+## #has_/map  
 
 ```leaflet
 id: Schuh=Schuls
@@ -43,7 +48,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Schuh=Schuls|Schuh=Schuls]] 
+### #is_/same_as :: [[Scuol|Scuol]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Schuh=Schuls.public|Schuh=Schuls.public]] 
 

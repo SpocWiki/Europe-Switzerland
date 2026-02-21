@@ -1,7 +1,8 @@
 ---
 aliases:
   - Luzern
-  - Lucerne 
+  - Lucerne
+  - Lucerne,City
 location:
   - 47.05
   - 8.32
@@ -9,17 +10,42 @@ mapzoom:
   - 7
   - 12
 mapmarker: city
-type: City
+type: private_note
 tags:
   - geo/City
+  - Lucerne,City
+  - excalidraw
 SpocWebEntityId: 32155
 isDeleted: false
-confidential: public
+confidential: private
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 8.32
 dv_has_place_latitude: 47.05
 dv_has_name: Luzern
 dv_Country: "[[../../../../Switzerland]]"
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isReadOnly: false
+keywords:
+  Lucerne,City
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  Lucerne,City
+publish: false
+publishDate:
+title:
+  Lucerne,City
 ---
 
 # [[Lucerne,City]] 
@@ -58,8 +84,7 @@ maxZoom: 18
 > and towns with an overall population of about 220,000 people.
 >
 > Owing to its location on the shores of Lake Lucerne (German: Vierwaldstättersee) 
-> and its outflow, the river Reuss, within sight of the mounts Pilatus and Rigi in the Swiss Alps, 
-> Lucerne has long been a destination for tourists. 
+> and its outflow, the river Reuss, within sight of the mounts Pilatus and Rigi in the Swiss[[Lucerne,City|Lucerne,City]]tination for tourists. 
 > One of the city's landmarks is the Chapel Bridge (German: Kapellbrücke), 
 > a wooden bridge first erected in the 14th century.
 >
@@ -86,3 +111,22 @@ maxZoom: 18
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/districts~Lucerne/Lucerne,City.secret|Lucerne,City.secret]] 
 
+
+# [[Lucerne,City]] 
+
+#is_/part_of :: [[Lucerne,City]] 
+
+![[Lucerne,City.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Lucerne,City.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

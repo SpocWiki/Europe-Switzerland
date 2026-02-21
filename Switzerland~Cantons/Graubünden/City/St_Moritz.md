@@ -1,7 +1,8 @@
 ---
 aliases:
-  - St_Moritz
-  - St Moritz
+  - St.Moritz
+  - St. Moritz
+  - Sankt Moritz
 location:
   - 46.5
   - 9.83
@@ -34,9 +35,9 @@ Country = `=this.dv_Country`
 
 
 ```leaflet
-id: Sankt Moritz
-coordinates: [[Sankt_Moritz]] 
-markerFile: [[Sankt_Moritz]] 
+id: St.Moritz
+coordinates: [[St.Moritz]] 
+markerFile: [[St.Moritz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -44,17 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St_Moritz|St_Moritz]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St.Moritz|St.Moritz]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St_Moritz.public|St_Moritz.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St.Moritz.public|St.Moritz.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St_Moritz.internal|St_Moritz.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St.Moritz.internal|St.Moritz.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St_Moritz.protect|St_Moritz.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St.Moritz.protect|St.Moritz.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St_Moritz.private|St_Moritz.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St.Moritz.private|St.Moritz.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St_Moritz.personal|St_Moritz.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St.Moritz.personal|St.Moritz.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St_Moritz.secret|St_Moritz.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/St.Moritz.secret|St.Moritz.secret]] 
 

@@ -43,7 +43,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy|Porrentruy]] 
+### #is_/same_as :: [[Porrentruy|Porrentruy]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.public|Porrentruy.public]] 
 

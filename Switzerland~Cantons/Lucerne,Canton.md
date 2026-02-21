@@ -41,8 +41,8 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Lucerne,Canton/
-markerFolder: ./Lucerne,Canton/
+geojsonFolder: ./Lucerne,Canton///
+markerFolder: ./Lucerne,Canton/City
 markerFile: [[Lucerne,Canton]] 
 coordinates: [[Lucerne,Canton]] 
 ```
