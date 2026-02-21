@@ -37,8 +37,8 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Thurgau/
-markerFolder: ./Thurgau/
+geojsonFolder: ./Thurgau//
+markerFolder: ./Thurgau/City
 markerFile: [[Thurgau]] 
 coordinates: [[Thurgau]] 
 ```

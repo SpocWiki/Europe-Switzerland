@@ -37,7 +37,7 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Ticino/
+geojsonFolder: ./Ticino//
 markerFolder: ./Ticino/
 markerFile: [[Ticino]] 
 coordinates: [[Ticino]] 

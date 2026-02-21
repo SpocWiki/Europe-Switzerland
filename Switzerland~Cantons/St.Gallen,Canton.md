@@ -41,8 +41,8 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./St.Gallen,Canton/
-markerFolder: ./St.Gallen,Canton/
+geojsonFolder: ./St.Gallen,Canton//
+markerFolder: ./St.Gallen,Canton/City
 markerFile: [[St.Gallen,Canton]] 
 coordinates: [[St.Gallen,Canton]] 
 ```

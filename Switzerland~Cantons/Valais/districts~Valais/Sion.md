@@ -9,12 +9,14 @@ mapzoom:
   - 7
   - 12
 mapmarker: city
-type: City
+type: private_note
 tags:
   - geo/City
+  - Sion
+  - excalidraw
 SpocWebEntityId: 34289
 isDeleted: false
-confidential: public
+confidential: private
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.37
 dv_has_place_latitude: 46.23
@@ -29,6 +31,29 @@ dv_has_:
 dv_has_name_en_: Sion
 dv_has_name_de_: Sitten
 dv_has_name_fr_: Sion
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isReadOnly: false
+keywords:
+  Sion
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  Sion
+publish: false
+publishDate:
+title:
+  Sion
 ---
 
 # [[Sion]] 
@@ -75,3 +100,22 @@ maxZoom: 18
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.secret|Sion.secret]] 
 
+
+# [[Sion]] 
+
+#is_/part_of :: [[Sion]] 
+
+![[Sion.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Sion.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

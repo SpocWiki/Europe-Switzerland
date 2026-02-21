@@ -12,7 +12,7 @@ mapmarker: city
 type: City
 tags:
   - geo/City
-SpocWebEntityId: 34355
+SpocWebEntityId: 34347
 isDeleted: false
 confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
@@ -24,13 +24,13 @@ dv_Country: "[[../../../../Switzerland]]"
 
 # [[Solothurn]]  
 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+#is_a_/Place    
+is_a_ = `=this.dv_is_a_` 
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_has_name` 
+name = `=this.dv_has_name`  
 State ::  
-Country = `=this.dv_Country`
+Country = `=this.dv_Country` 
 [StateId::] 
 [Population::] 
 
