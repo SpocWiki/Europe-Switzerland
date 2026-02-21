@@ -40,8 +40,8 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Glarus,Canton/
-markerFolder: ./Glarus,Canton/
+geojsonFolder: ./Glarus,Canton//
+markerFolder: ./Glarus,Canton/City
 markerFile: [[Glarus,Canton]] 
 coordinates: [[Glarus,Canton]] 
 ```

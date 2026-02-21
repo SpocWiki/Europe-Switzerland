@@ -84,8 +84,8 @@ zoomFeatures: false
 minZoom: 4 
 maxZoom: 18
 defaultZoom: 10 
-geojsonFolder: ./Genève,Canton/
-markerFolder: ./Genève,Canton/
+geojsonFolder: ./Genève,Canton///
+markerFolder: ./Genève,Canton/City
 ```
 
 

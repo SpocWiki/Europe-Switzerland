@@ -36,8 +36,8 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Fribourg/
-markerFolder: ./Fribourg/
+geojsonFolder: ./Fribourg//
+markerFolder: ./Fribourg/City
 markerFile: [[Fribourg]] 
 coordinates: [[Fribourg]] 
 ```

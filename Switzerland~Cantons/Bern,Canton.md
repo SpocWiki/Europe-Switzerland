@@ -214,7 +214,7 @@ local_dialing_code: 31
 social_media_followers: 12733
 ---
 
-# [[Bern]]
+# [[Bern,Canton]]
 
 ## #has_/map  
 
@@ -224,8 +224,8 @@ zoomFeatures: false
 defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Bern,Canton/
-markerFolder: ./Bern,Canton/
+geojsonFolder: ./Bern,Canton///
+markerFolder: ./Bern,Canton/City
 markerFile: [[Bern,Canton]] 
 coordinates: [[Bern,Canton]] 
 ```
