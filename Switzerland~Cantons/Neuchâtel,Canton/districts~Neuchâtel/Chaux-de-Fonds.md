@@ -61,7 +61,9 @@ Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
+#is_/same_as :: [[WD~,]] 
 
+## #has_/map  
 
 ```leaflet
 id: Chaux-de-Fonds

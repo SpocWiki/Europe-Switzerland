@@ -28,7 +28,11 @@ expiryDate: ''
 
 # [[Obwalden]] 
 
+
+#is_/same_as :: [[WD~,]] 
+
 ## #has_/map  
+
 
 ```leaflet
 id: Obwalden
@@ -37,7 +41,7 @@ defaultZoom: 8
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Obwalden/////
-markerFolder: ./Obwalden
+markerFolder: ./Obwalden/
 markerFile: [[Obwalden]] 
 coordinates: [[Obwalden]] 
 ```

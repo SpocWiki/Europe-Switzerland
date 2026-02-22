@@ -43,7 +43,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden/City/Appenzell|Appenzell]] 
+### #is_/same_as :: [[Appenzell|Appenzell]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden/City/Appenzell.public|Appenzell.public]] 
 

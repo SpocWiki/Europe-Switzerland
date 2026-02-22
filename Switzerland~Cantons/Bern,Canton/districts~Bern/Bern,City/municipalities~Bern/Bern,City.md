@@ -242,7 +242,7 @@ is_same_as = `=this.dv_is_same_as`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City|Bern,City]] 
+### #is_/same_as :: [[Bern,City|Bern,City]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.public|Bern,City.public]] 
 

@@ -28,7 +28,11 @@ expiryDate: ''
 
 # [[Nidwalden]]
 
+
+#is_/same_as :: [[WD~,]] 
+
 ## #has_/map  
+
 
 ```leaflet
 id: Nidwalden
@@ -37,7 +41,7 @@ defaultZoom: 9
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Nidwalden////
-markerFolder: ./Nidwalden/City
+markerFolder: ./Nidwalden/
 markerFile: [[Nidwalden]] 
 coordinates: [[Nidwalden]] 
 ```

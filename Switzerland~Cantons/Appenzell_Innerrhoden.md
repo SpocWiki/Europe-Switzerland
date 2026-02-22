@@ -29,15 +29,20 @@ expiryDate: ''
 
 # [[Appenzell_Innerrhoden]]
 
+#is_/same_as :: [[WD~,]] 
+
+## #has_/map  
+
 ```leaflet
 id: Appenzell_Innerrhoden
-zoomFeatures: true 
+zoomFeatures: false 
+defaultZoom: 8 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Appenzell_Innerrhoden/
+geojsonFolder: ./Appenzell_Innerrhoden//
 markerFolder: ./Appenzell_Innerrhoden/
-markerFile: [[Burgenland]] 
-coordinates: [[Burgenland]] 
+markerFile: [[Appenzell_Innerrhoden]] 
+coordinates: [[Appenzell_Innerrhoden]] 
 ```
 
 

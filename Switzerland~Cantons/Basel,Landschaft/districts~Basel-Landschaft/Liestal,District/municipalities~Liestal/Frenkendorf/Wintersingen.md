@@ -14,12 +14,15 @@ tags:
 SpocWebEntityId: 35646
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.68
 dv_has_place_latitude: 47.5
 dv_has_name: Wintersingen
-dv_Country: "[[../../../../Switzerland]]"
+dv_Country: "[[../../../../../../../Switzerland]]"
 ---
+
+# [[Wintersingen]]  
+
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
@@ -30,12 +33,16 @@ Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
+#is_/same_as :: [[WD~,]] 
 
+## #has_/map 
 
 ```leaflet
 id: Wintersingen
 coordinates: [[Wintersingen]] 
 markerFile: [[Wintersingen]] 
+geojsonFolder: ./Wintersingen//
+markerFolder: ./Wintersingen/
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -43,7 +50,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Wintersingen|Wintersingen]] 
+### #is_/same_as :: [[Wintersingen|Wintersingen]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Wintersingen.public|Wintersingen.public]] 
 

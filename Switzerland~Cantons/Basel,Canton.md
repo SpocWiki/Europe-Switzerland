@@ -35,7 +35,11 @@ dv_is_different_from: "[[Basel,Landschaft]]"
 
 # [[Basel,Canton]]
 
-is_different_from = `=this.dv_is_different_from`
+is_different_from = `=this.dv_is_different_from` 
+
+#is_/same_as :: [[WD~,]] 
+
+## #has_/map 
 
 ```leaflet
 id: Basel,Canton

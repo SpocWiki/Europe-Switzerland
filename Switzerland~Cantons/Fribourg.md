@@ -28,7 +28,11 @@ expiryDate: ''
 
 # [[Fribourg]]
 
+
+#is_/same_as :: [[WD~,]] 
+
 ## #has_/map  
+
 
 ```leaflet
 id: Fribourg
@@ -37,7 +41,7 @@ defaultZoom: 8
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Fribourg//
-markerFolder: ./Fribourg/City
+markerFolder: ./Fribourg/
 markerFile: [[Fribourg]] 
 coordinates: [[Fribourg]] 
 ```

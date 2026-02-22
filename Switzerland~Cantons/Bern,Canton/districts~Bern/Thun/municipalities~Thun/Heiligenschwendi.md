@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 30849
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.68
 dv_has_place_latitude: 46.75
 dv_has_name: Heiligenschwendi
-dv_Country: "[[../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
@@ -43,7 +43,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi|Heiligenschwendi]] 
+### #is_/same_as :: [[Heiligenschwendi|Heiligenschwendi]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Heiligenschwendi.public|Heiligenschwendi.public]] 
 

@@ -2,12 +2,11 @@
 aliases:
   - Genève
   - Kanton Genf
-  - Canton Genf
   - Genf
   - Geneva
-  - ""
   - Genève,Canton
-has_id_wikidata: Q71
+  - Canton of Geneva
+has_id_wikidata: Q11917
 location:
   - 46.18
   - 6.15
@@ -57,22 +56,26 @@ dv_has_name_fr_: Genève
 
 # [Genève,Canton](Genève,Canton.md)
 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
-has_place_longitude = `=this.dv_has_place_longitude` 
+#is_a_/Place   
+is_a_ = `=this.dv_is_a_` 
+has_place_longitude = `=this.dv_has_place_longitude`  
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 
-State = `=this.dv_State`
-Country = `=this.dv_Country`
+State = `=this.dv_State` 
+Country = `=this.dv_Country` 
 [StateId::] 
 [Population::] 
 
 
-has_name_en_ = `=this.dv_has_name_en_`
-has_name_de_ = `=this.dv_has_name_de_`
-has_name_fr_ = `=this.dv_has_name_fr_`
+has_name_en_ = `=this.dv_has_name_en_` 
+has_name_de_ = `=this.dv_has_name_de_` 
+has_name_fr_ = `=this.dv_has_name_fr_` 
+
+#is_/same_as :: [[WD~Canton_of_Geneva,11917]] 
+
 
 ## #has_/map  
+
 
 ```leaflet
 id: Genève,Canton
@@ -85,9 +88,31 @@ minZoom: 4
 maxZoom: 18
 defaultZoom: 10 
 geojsonFolder: ./Genève,Canton///
-markerFolder: ./Genève,Canton/City
+markerFolder: ./Genève,Canton/
 ```
 
+## #has_/text_of_/abstract 
+
+> The **Canton of Geneva**, officially the Republic and Canton of Geneva, 
+> is one of the 26 cantons of the Swiss Confederation. 
+> 
+> It is composed of forty-five municipalities, 
+> and the seat of the government and parliament is in the city of Geneva.
+> 
+> Geneva is the French-speaking westernmost canton of Switzerland. 
+> It lies at the western end of Lake Geneva and on both sides of the Rhone, 
+> its main river. 
+> 
+> Within the country, 
+> the canton borders Vaud to the east, the only adjacent canton. 
+> However, most of Geneva's border is with France, 
+> specifically the region of Auvergne-Rhône-Alpes. 
+> As is the case in several other Swiss cantons (Ticino, Neuchâtel, and Jura), 
+> Geneva is referred to as a republic within the Swiss Confederation.
+> 
+> One of the most populated cantons, Geneva is considered one of the most cosmopolitan regions of the country. As a center of the Calvinist Reformation, the city of Geneva has had a great influence on the canton, which essentially consists of the city and its suburbs. Notable institutions of international importance based in the canton are the United Nations, the International Committee of the Red Cross and CERN.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Canton%20of%20Geneva) 
 
 ## Confidential Links & Embeds: 
 

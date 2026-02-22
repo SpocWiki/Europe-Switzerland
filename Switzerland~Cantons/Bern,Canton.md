@@ -216,7 +216,11 @@ social_media_followers: 12733
 
 # [[Bern,Canton]]
 
+
+#is_/same_as :: [[WD~,]] 
+
 ## #has_/map  
+
 
 ```leaflet
 id: Bern
@@ -225,7 +229,7 @@ defaultZoom: 8
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bern,Canton///
-markerFolder: ./Bern,Canton/City
+markerFolder: ./Bern,Canton/
 markerFile: [[Bern,Canton]] 
 coordinates: [[Bern,Canton]] 
 ```

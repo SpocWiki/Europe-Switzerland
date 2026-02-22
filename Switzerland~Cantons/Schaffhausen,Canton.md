@@ -28,6 +28,7 @@ expiryDate: ''
 
 # [[Schaffhausen,Canton]]
 
+#is_/same_as :: [[WD~,]] 
 
 ## #has_/map  
 
@@ -38,7 +39,7 @@ defaultZoom: 8
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Schaffhausen,Canton//
-markerFolder: ./Schaffhausen,Canton/City
+markerFolder: ./Schaffhausen,Canton/
 markerFile: [[Schaffhausen,Canton]] 
 coordinates: [[Schaffhausen,Canton]] 
 ```

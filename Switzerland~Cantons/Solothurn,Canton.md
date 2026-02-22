@@ -38,7 +38,7 @@ defaultZoom: 8
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Solothurn,Canton//
-markerFolder: ./Solothurn,Canton/City
+markerFolder: ./Solothurn,Canton/
 markerFile: [[Solothurn,Canton]] 
 coordinates: [[Solothurn,Canton]] 
 ```
