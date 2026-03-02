@@ -8,15 +8,14 @@ mapzoom:
 mapmarker: city
 type: City
 tags:
-  - geo/City
-SpocWebEntityId: 34454
+  - geo/District
 isDeleted: false
 confidential: public
 aliases:
-  - St.Gallen City
-  - St.Gallen Stadt
   - St.Gallen
   - Sankt Gallen
+  - Canton of St. Gallen
+has_id_wikidata: Q12746
 ---
 
 # [[St.Gallen,District]] 
@@ -30,6 +29,7 @@ State ::
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 
+#is_/same_as :: [[WD~Canton_of_St._Gallen,12746]] 
 
 ## #has_/map 
 
@@ -40,6 +40,14 @@ markerFile: [[St.Gallen,District]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+## #has_/text_of_/abstract 
+
+> The **Canton of St. Gallen** or St Gall (German: Kanton St. Gallen [zaŋkt ˈɡalən] ; Romansh: Chantun Son Gagl; French: Canton de Saint-Gall; Italian: Canton San Gallo) is a canton of Switzerland. Its capital is St. Gallen.
+> 
+> Located in northeastern Switzerland, the canton has an area of 2,026 km2 (782 sq mi) (5% of Switzerland) and a resident population close to half a million as of 2015 (6% of Switzerland). It was formed in 1803 as a conflation of the city of St. Gallen, the territories of the Abbey of St. Gall and various former subject territories of the Old Swiss Confederacy.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Canton%20of%20St.%20Gallen)  
 
 
 ## Confidential Links & Embeds: 

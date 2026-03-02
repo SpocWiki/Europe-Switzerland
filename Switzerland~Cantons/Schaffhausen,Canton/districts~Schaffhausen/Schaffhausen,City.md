@@ -34,11 +34,12 @@ Country = `=this.dv_Country`
 [Population::] 
 
 
-
 ```leaflet
 id: Schaffhausen
-coordinates: [[Schaffhausen]] 
-markerFile: [[Schaffhausen]] 
+coordinates: [[Schaffhausen,City]] 
+markerFile: [[Schaffhausen,City]] 
+geojsonFolder: ./Schaffhausen,City//
+markerFolder: ./Schaffhausen,City/
 defaultZoom: 11 
 maxZoom: 18
 ```

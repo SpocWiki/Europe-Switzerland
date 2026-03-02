@@ -37,8 +37,10 @@ Country = `=this.dv_Country`
 
 ```leaflet
 id: Lohn
-coordinates: [[Lohn]] 
-markerFile: [[Lohn]] 
+coordinates: [[Lohn,Schaffhausen]] 
+markerFile: [[Lohn,Schaffhausen]] 
+geojsonFolder: ./Lohn,Schaffhausen//
+markerFolder: ./Lohn,Schaffhausen/
 defaultZoom: 11 
 maxZoom: 18
 ```

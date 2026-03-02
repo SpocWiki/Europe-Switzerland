@@ -33,12 +33,14 @@ Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-
+## #has_/map  
 
 ```leaflet
 id: Stein~Rhein
-coordinates: [[Stein~Rhein]] 
-markerFile: [[Stein~Rhein]] 
+coordinates: [[Stein,Rhein]] 
+markerFile: [[Stein,Rhein]] 
+geojsonFolder: ./Stein,Rhein//
+markerFolder: ./Stein,Rhein/
 defaultZoom: 11 
 maxZoom: 18
 ```
