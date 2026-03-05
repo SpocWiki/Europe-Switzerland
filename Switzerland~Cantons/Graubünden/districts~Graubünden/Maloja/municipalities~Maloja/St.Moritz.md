@@ -19,11 +19,11 @@ tags:
 SpocWebEntityId: 34477
 isDeleted: false
 confidential: private
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 9.83
 dv_has_place_latitude: 46.5
 dv_has_name: Sankt Moritz
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 cssclasses:
   - private
   - note

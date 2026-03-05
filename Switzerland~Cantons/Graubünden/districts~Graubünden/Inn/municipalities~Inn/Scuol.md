@@ -16,44 +16,44 @@ tags:
 SpocWebEntityId: 34079
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 10.3
 dv_has_place_latitude: 46.8
 dv_has_name: Scuol
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 has_id_wikidata: Q69079
 replaces:
-  - "[[_Standards/WikiData/WD~Tarasp,68372]]"
-  - "[[_Standards/WikiData/WD~Sent,69709]]"
-  - "[[_Standards/WikiData/WD~Ardez,64338]]"
-  - "[[_Standards/WikiData/WD~Guarda,65110]]"
-  - "[[_Standards/WikiData/WD~Ftan,65375]]"
+  - "[[_Standards/WikiData/WD~Tarasp,68372|WD~Tarasp,68372]]"
+  - "[[_Standards/WikiData/WD~Sent,69709|WD~Sent,69709]]"
+  - "[[_Standards/WikiData/WD~Ardez,64338|WD~Ardez,64338]]"
+  - "[[_Standards/WikiData/WD~Guarda,65110|WD~Guarda,65110]]"
+  - "[[_Standards/WikiData/WD~Ftan,65375|WD~Ftan,65375]]"
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Tarasp,68372]]"
-  - "[[_Standards/WikiData/WD~Sent,69709]]"
-  - "[[_Standards/WikiData/WD~Mals,427187]]"
-  - "[[_Standards/WikiData/WD~Taufers_im_Münstertal,504554]]"
-  - "[[_Standards/WikiData/WD~Ftan,65375]]"
-instance_of: "[[_Standards/WikiData/WD~Municipality_of_Switzerland,70208]]"
+  - "[[_Standards/WikiData/WD~Tarasp,68372|WD~Tarasp,68372]]"
+  - "[[_Standards/WikiData/WD~Sent,69709|WD~Sent,69709]]"
+  - "[[_Standards/WikiData/WD~Mals,427187|WD~Mals,427187]]"
+  - "[[_Standards/WikiData/WD~Taufers_im_Münstertal,504554|WD~Taufers_im_Münstertal,504554]]"
+  - "[[_Standards/WikiData/WD~Ftan,65375|WD~Ftan,65375]]"
+instance_of: "[[_Standards/WikiData/WD~Municipality_of_Switzerland,70208|WD~Municipality_of_Switzerland,70208]]"
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Clemgia,1100391]]"
-  - "[[_Standards/WikiData/WD~Brancla,18018842]]"
-  - "[[_Standards/WikiData/WD~Inn,14369]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Scuol,8723876]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Category_People_from_Scuol,8748785]]"
-heritage_designation: "[[_Standards/WikiData/WD~Swiss_townscape_worthy_of_protection,12127133]]"
-list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_Scuol,14913697]]"
-member_of: "[[_Standards/WikiData/WD~SGV_ACS,21122037]]"
-capital_of: "[[_Standards/WikiData/WD~Engiadina_Bassa_Val_Müstair_Region,23013965]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Engiadina_Bassa_Val_Müstair_Region,23013965]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Category_Deaths_in_Scuol,_Switzerland,30008729]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Category_Births_in_Scuol,_Switzerland,30008816]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Govdirectory,108109790]]"
+  - "[[_Standards/WikiData/WD~Clemgia,1100391|WD~Clemgia,1100391]]"
+  - "[[_Standards/WikiData/WD~Brancla,18018842|WD~Brancla,18018842]]"
+  - "[[_Standards/WikiData/WD~Inn,14369|WD~Inn,14369]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Scuol,8723876|WD~Category_Scuol,8723876]]"
+category_of_associated_people: "[[_Standards/WikiData/WD~Category_People_from_Scuol,8748785|WD~Category_People_from_Scuol,8748785]]"
+heritage_designation: "[[_Standards/WikiData/WD~Swiss_townscape_worthy_of_protection,12127133|WD~Swiss_townscape_worthy_of_protection,12127133]]"
+list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_Scuol,14913697|WD~list_of_cultural_properties_in_Scuol,14913697]]"
+member_of: "[[_Standards/WikiData/WD~SGV_ACS,21122037|WD~SGV_ACS,21122037]]"
+capital_of: "[[_Standards/WikiData/WD~Engiadina_Bassa_Val_Müstair_Region,23013965|WD~Engiadina_Bassa_Val_Müstair_Region,23013965]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Engiadina_Bassa_Val_Müstair_Region,23013965|WD~Engiadina_Bassa_Val_Müstair_Region,23013965]]"
+category_for_people_who_died_here: "[[_Standards/WikiData/WD~Category_Deaths_in_Scuol,_Switzerland,30008729|WD~Category_Deaths_in_Scuol,_Switzerland,30008729]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Category_Births_in_Scuol,_Switzerland,30008816|WD~Category_Births_in_Scuol,_Switzerland,30008816]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Govdirectory,108109790|WD~Govdirectory,108109790]]"
 coordinate_location: Point(10.2995 46.797)
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-country: "[[_Standards/WikiData/WD~Switzerland,39]]"
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
+country: "[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
 elevation_above_sea_level:
   - 1250
   - 2368

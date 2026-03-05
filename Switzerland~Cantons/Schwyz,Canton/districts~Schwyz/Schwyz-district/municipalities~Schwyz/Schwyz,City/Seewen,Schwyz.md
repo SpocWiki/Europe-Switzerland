@@ -15,11 +15,11 @@ tags:
 SpocWebEntityId: 34173
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 8.63
 dv_has_place_latitude: 47.03
 dv_has_name: Seewen,Schwyz
-dv_Country: "[[../../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../../Switzerland|Switzerland]]"
 ---
 
 # [[Seewen,Schwyz]] 

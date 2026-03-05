@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 33990
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 8.63
 dv_has_place_latitude: 47.7
 dv_has_name: Schaffhausen
-dv_Country: "[[../../../../Switzerland]]"
+dv_Country: "[[../../../../Switzerland|Switzerland]]"
 ---
 
 # [[Schaffhausen,City]]  

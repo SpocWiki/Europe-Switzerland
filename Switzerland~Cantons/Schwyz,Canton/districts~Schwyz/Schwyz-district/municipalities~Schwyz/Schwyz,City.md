@@ -18,11 +18,11 @@ tags:
 SpocWebEntityId: 34124
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 8.65
 dv_has_place_latitude: 47.02
 dv_has_name: Schwyz
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 ---
 
 # [[Schwyz,City]] 

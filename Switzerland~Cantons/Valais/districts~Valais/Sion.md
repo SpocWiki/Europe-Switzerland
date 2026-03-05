@@ -17,12 +17,12 @@ tags:
 SpocWebEntityId: 34289
 isDeleted: false
 confidential: private
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 7.37
 dv_has_place_latitude: 46.23
 dv_has_name: Sion
-dv_State: "[[../../Valais]]"
-dv_Country: "[[../../../../Switzerland]]"
+dv_State: "[[../../Valais|Valais]]"
+dv_Country: "[[../../../../Switzerland|Switzerland]]"
 dv_has_:
   name_:
     en_: Sion

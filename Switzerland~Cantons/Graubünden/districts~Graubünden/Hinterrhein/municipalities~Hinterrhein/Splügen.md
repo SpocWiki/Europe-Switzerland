@@ -15,39 +15,39 @@ tags:
 SpocWebEntityId: 34417
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 9.32
 dv_has_place_latitude: 46.55
 dv_has_name: Splügen
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 has_id_wikidata: Q64195
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Sufers,66012]]"
-  - "[[_Standards/WikiData/WD~Medels_im_Rheinwald,689543]]"
-  - "[[_Standards/WikiData/WD~Madesimo,40931]]"
-  - "[[_Standards/WikiData/WD~Safien,64368]]"
-  - "[[_Standards/WikiData/WD~Mesocco,64617]]"
-  - "[[_Standards/WikiData/WD~Nufenen,65241]]"
-different_from: "[[_Standards/WikiData/WD~Splügen_Pass,605243]]"
+  - "[[_Standards/WikiData/WD~Sufers,66012|WD~Sufers,66012]]"
+  - "[[_Standards/WikiData/WD~Medels_im_Rheinwald,689543|WD~Medels_im_Rheinwald,689543]]"
+  - "[[_Standards/WikiData/WD~Madesimo,40931|WD~Madesimo,40931]]"
+  - "[[_Standards/WikiData/WD~Safien,64368|WD~Safien,64368]]"
+  - "[[_Standards/WikiData/WD~Mesocco,64617|WD~Mesocco,64617]]"
+  - "[[_Standards/WikiData/WD~Nufenen,65241|WD~Nufenen,65241]]"
+different_from: "[[_Standards/WikiData/WD~Splügen_Pass,605243|WD~Splügen_Pass,605243]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~former_municipality_of_Switzerland,685309]]"
-  - "[[_Standards/WikiData/WD~Ortschaft,11183787]]"
-  - "[[_Standards/WikiData/WD~village,532]]"
-replaces: "[[_Standards/WikiData/WD~Medels_im_Rheinwald,689543]]"
-twinned_administrative_body: "[[_Standards/WikiData/WD~L'Espluga_de_Francolí,1229283]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Splügen,9121477]]"
-heritage_designation: "[[_Standards/WikiData/WD~Swiss_townscape_worthy_of_protection,12127133]]"
-list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_Rheinwald,14537687]]"
-replaced_by: "[[_Standards/WikiData/WD~Rheinwald,55264136]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Rheinwald,55264136]]"
+  - "[[_Standards/WikiData/WD~former_municipality_of_Switzerland,685309|WD~former_municipality_of_Switzerland,685309]]"
+  - "[[_Standards/WikiData/WD~Ortschaft,11183787|WD~Ortschaft,11183787]]"
+  - "[[_Standards/WikiData/WD~village,532|WD~village,532]]"
+replaces: "[[_Standards/WikiData/WD~Medels_im_Rheinwald,689543|WD~Medels_im_Rheinwald,689543]]"
+twinned_administrative_body: "[[_Standards/WikiData/WD~L'Espluga_de_Francolí,1229283|WD~L'Espluga_de_Francolí,1229283]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Splügen,9121477|WD~Category_Splügen,9121477]]"
+heritage_designation: "[[_Standards/WikiData/WD~Swiss_townscape_worthy_of_protection,12127133|WD~Swiss_townscape_worthy_of_protection,12127133]]"
+list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_Rheinwald,14537687|WD~list_of_cultural_properties_in_Rheinwald,14537687]]"
+replaced_by: "[[_Standards/WikiData/WD~Rheinwald,55264136|WD~Rheinwald,55264136]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Rheinwald,55264136|WD~Rheinwald,55264136]]"
 notable_work:
-  - "[[_Standards/WikiData/WD~Sunrise_at_Spluga,55814015]]"
-  - "[[_Standards/WikiData/WD~The_Spluga,108184659]]"
+  - "[[_Standards/WikiData/WD~Sunrise_at_Spluga,55814015|WD~Sunrise_at_Spluga,55814015]]"
+  - "[[_Standards/WikiData/WD~The_Spluga,108184659|WD~The_Spluga,108184659]]"
 coordinate_location: Point(9.316666666 46.549722222)
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-country: "[[_Standards/WikiData/WD~Switzerland,39]]"
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
+country: "[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
 population: 378
 elevation_above_sea_level: 1457
 area: 60.49

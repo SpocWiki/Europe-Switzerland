@@ -15,11 +15,11 @@ tags:
 SpocWebEntityId: 33351
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 9.48
 dv_has_place_latitude: 46.97
 dv_has_name: Pfaefers
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 ---
 
 # [[Pfäfers]]  

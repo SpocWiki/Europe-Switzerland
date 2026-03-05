@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 29582
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 8.98
 dv_has_place_latitude: 45.83
 dv_has_name: Chiasso
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 ---
 
 # [[Chiasso]] 

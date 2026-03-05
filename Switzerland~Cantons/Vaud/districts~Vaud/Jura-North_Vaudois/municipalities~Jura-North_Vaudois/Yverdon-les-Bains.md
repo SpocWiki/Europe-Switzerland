@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 35760
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 6.65
 dv_has_place_latitude: 46.78
 dv_has_name: Yverdon
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 ---
 
 # [[Yverdon-les-Bains]] 

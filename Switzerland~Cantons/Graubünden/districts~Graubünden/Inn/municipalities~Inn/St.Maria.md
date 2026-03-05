@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 34473
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 10.42
 dv_has_place_latitude: 46.6
 dv_has_name: St.Maria
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

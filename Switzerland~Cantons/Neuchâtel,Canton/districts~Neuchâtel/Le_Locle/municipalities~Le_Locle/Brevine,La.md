@@ -16,22 +16,22 @@ tags:
 SpocWebEntityId: 29345
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 6.63
 dv_has_place_latitude: 46.98
 dv_has_name: Brevine,La
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 has_id_wikidata: Q68838
-instance_of: "[[_Standards/WikiData/WD~Municipality_of_Switzerland,70208]]"
-shares_border_with: "[[_Standards/WikiData/WD~Grand'Combe_Châteleu,907011]]"
-twinned_administrative_body: "[[_Standards/WikiData/WD~Leynes,1467614]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_La_Brévine,8996348]]"
-list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_La_Brévine,14545079]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Govdirectory,108109790]]"
+instance_of: "[[_Standards/WikiData/WD~Municipality_of_Switzerland,70208|WD~Municipality_of_Switzerland,70208]]"
+shares_border_with: "[[_Standards/WikiData/WD~Grand'Combe_Châteleu,907011|WD~Grand'Combe_Châteleu,907011]]"
+twinned_administrative_body: "[[_Standards/WikiData/WD~Leynes,1467614|WD~Leynes,1467614]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_La_Brévine,8996348|WD~Category_La_Brévine,8996348]]"
+list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_La_Brévine,14545079|WD~list_of_cultural_properties_in_La_Brévine,14545079]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Govdirectory,108109790|WD~Govdirectory,108109790]]"
 coordinate_location: Point(6.6 46.983333333)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Canton_of_Neuchâtel,12738]]"
-country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-official_language: "[[_Standards/WikiData/WD~French,150]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Canton_of_Neuchâtel,12738|WD~Canton_of_Neuchâtel,12738]]"
+country: "[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
+official_language: "[[_Standards/WikiData/WD~French,150|WD~French,150]]"
 population: 630
 elevation_above_sea_level:
   - 1036

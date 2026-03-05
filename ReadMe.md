@@ -66,7 +66,7 @@ dv_UNTERM_Chinese_Formal: 瑞士联邦
 dv_UNTERM_French_Formal: la Confédération suisse
 dv_UNTERM_Russian: Швейцария
 dv_UNTERM_Russian_Formal: Швейцарская Конфедерация
-dv_Region_Name: "[[../../../Europe]]"
+dv_Region_Name: "[[../../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[ReadMe]]"
 dv_Sub-region_Name: "[[Western Europe]]"
 dv_Region: 150
@@ -92,12 +92,12 @@ dv_ISO3: CHE
 dv_has_name_de: Schweiz
 dv_Area-Total: 39988
 dv_Area-Land: 39550
-dv_Continent: "[[../../../Europe]]"
+dv_Continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: CH
-dv_Capital: "[[geo/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern]]"
+dv_Capital: "[[geo/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern|Bern]]"
 dv_Alcohol-l: 11.1
 dv_Language-Id: 497
-dv_is_a_: "[[../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 8.46058
 dv_has_place_latitude: 46.8963
 dv_developed_developing_countries: Developed

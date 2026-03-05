@@ -3,31 +3,31 @@ aliases:
   - Courrendlin
 has_id_wikidata: Q69
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Roches,68011]]"
-  - "[[_Standards/WikiData/WD~Rossemaison,68517]]"
-  - "[[_Standards/WikiData/WD~Châtillon,68803]]"
-  - "[[_Standards/WikiData/WD~Courroux,70095]]"
-  - "[[_Standards/WikiData/WD~Val_Terbi,3553411]]"
-  - "[[_Standards/WikiData/WD~Delémont,63896]]"
+  - "[[_Standards/WikiData/WD~Roches,68011|WD~Roches,68011]]"
+  - "[[_Standards/WikiData/WD~Rossemaison,68517|WD~Rossemaison,68517]]"
+  - "[[_Standards/WikiData/WD~Châtillon,68803|WD~Châtillon,68803]]"
+  - "[[_Standards/WikiData/WD~Courroux,70095|WD~Courroux,70095]]"
+  - "[[_Standards/WikiData/WD~Val_Terbi,3553411|WD~Val_Terbi,3553411]]"
+  - "[[_Standards/WikiData/WD~Delémont,63896|WD~Delémont,63896]]"
 contains_settlement:
-  - "[[_Standards/WikiData/WD~Rebeuvelier,68498]]"
-  - "[[_Standards/WikiData/WD~Choindez,2964344]]"
-  - "[[_Standards/WikiData/WD~Courrendlin,22361849]]"
-  - "[[_Standards/WikiData/WD~Vellerat,54449]]"
+  - "[[_Standards/WikiData/WD~Rebeuvelier,68498|WD~Rebeuvelier,68498]]"
+  - "[[_Standards/WikiData/WD~Choindez,2964344|WD~Choindez,2964344]]"
+  - "[[_Standards/WikiData/WD~Courrendlin,22361849|WD~Courrendlin,22361849]]"
+  - "[[_Standards/WikiData/WD~Vellerat,54449|WD~Vellerat,54449]]"
 replaces:
-  - "[[_Standards/WikiData/WD~Rebeuvelier,68498]]"
-  - "[[_Standards/WikiData/WD~Vellerat,54449]]"
-instance_of: "[[_Standards/WikiData/WD~municipality_of_Switzerland,70208]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Delémont_District,659702]]"
-list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_Courrendlin,14549237]]"
-member_of: "[[_Standards/WikiData/WD~SGV_ACS,21122037]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Govdirectory,108109790]]"
+  - "[[_Standards/WikiData/WD~Rebeuvelier,68498|WD~Rebeuvelier,68498]]"
+  - "[[_Standards/WikiData/WD~Vellerat,54449|WD~Vellerat,54449]]"
+instance_of: "[[_Standards/WikiData/WD~municipality_of_Switzerland,70208|WD~municipality_of_Switzerland,70208]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Delémont_District,659702|WD~Delémont_District,659702]]"
+list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_Courrendlin,14549237|WD~list_of_cultural_properties_in_Courrendlin,14549237]]"
+member_of: "[[_Standards/WikiData/WD~SGV_ACS,21122037|WD~SGV_ACS,21122037]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Govdirectory,108109790|WD~Govdirectory,108109790]]"
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Birs,14340]]"
-country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-official_language: "[[_Standards/WikiData/WD~French,150]]"
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Birs,14340|WD~Birs,14340]]"
+country: "[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
+official_language: "[[_Standards/WikiData/WD~French,150|WD~French,150]]"
 elevation_above_sea_level:
   - 436
   - 441

@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 32006
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 7.73
 dv_has_place_latitude: 47.48
 dv_has_name: Liestal
-dv_Country: "[[../../../../Switzerland]]"
+dv_Country: "[[../../../../Switzerland|Switzerland]]"
 ---
 
 # [[Liestal,District]]  

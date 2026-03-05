@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 28923
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 8.98
 dv_has_place_latitude: 46.9
 dv_has_name: Auen
-dv_Country: "[[../../../../../Switzerland]]"
+dv_Country: "[[../../../../../Switzerland|Switzerland]]"
 ---
 
 # [[Auen]] 

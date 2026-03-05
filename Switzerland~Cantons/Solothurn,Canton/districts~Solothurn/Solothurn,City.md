@@ -16,11 +16,11 @@ tags:
 SpocWebEntityId: 34347
 isDeleted: false
 confidential: private
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 7.53
 dv_has_place_latitude: 47.22
 dv_has_name: Solothurn
-dv_Country: "[[../../../../Switzerland]]"
+dv_Country: "[[../../../../Switzerland|Switzerland]]"
 cssclasses:
   - private
   - note

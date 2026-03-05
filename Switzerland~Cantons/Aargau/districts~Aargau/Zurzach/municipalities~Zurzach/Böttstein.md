@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 29443
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 8.22
 dv_has_place_latitude: 47.57
 dv_has_name: Boettstein
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 ---
 
 # [[Böttstein]]

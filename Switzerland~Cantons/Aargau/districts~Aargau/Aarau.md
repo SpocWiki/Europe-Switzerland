@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 28637
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 8.04
 dv_has_place_latitude: 47.38
 dv_has_name: Aarau
-dv_Country: "[[../../../../Switzerland]]"
+dv_Country: "[[../../../../Switzerland|Switzerland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`

@@ -18,11 +18,11 @@ tags:
 SpocWebEntityId: 35137
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 8.72
 dv_has_place_latitude: 47.35
 dv_has_name: Uster
-dv_Country: "[[../../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../../Switzerland|Switzerland]]"
 ---
 
 #is_a_/Place  

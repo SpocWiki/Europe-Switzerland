@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 35646
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 7.68
 dv_has_place_latitude: 47.5
 dv_has_name: Wintersingen
-dv_Country: "[[../../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../../Switzerland|Switzerland]]"
 ---
 
 # [[Wintersingen]]  

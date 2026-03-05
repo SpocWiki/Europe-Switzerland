@@ -15,33 +15,33 @@ tags:
 SpocWebEntityId: 29163
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 9.88
 dv_has_place_latitude: 46.55
 dv_has_name: Bever
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 has_id_wikidata: Q69121
 shares_border_with:
-  - "[[_Standards/WikiData/WD~La_Punt_Chamues_ch,65637]]"
-  - "[[_Standards/WikiData/WD~Tinizong_Rona,65640]]"
-  - "[[_Standards/WikiData/WD~Madulain,66638]]"
-  - "[[_Standards/WikiData/WD~Bergün_Bravuogn,68319]]"
-  - "[[_Standards/WikiData/WD~Samedan,69085]]"
-  - "[[_Standards/WikiData/WD~Sur,29840]]"
-  - "[[_Standards/WikiData/WD~Marmorera,65112]]"
-instance_of: "[[_Standards/WikiData/WD~Municipality_of_Switzerland,70208]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Bever,_Switzerland,8906088]]"
-heritage_designation: "[[_Standards/WikiData/WD~Swiss_townscape_worthy_of_protection,12127133]]"
-list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_Bever,14913219]]"
-member_of: "[[_Standards/WikiData/WD~SGV_ACS,21122037]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Maloja_Region,23732284]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Category_Births_in_Bever,_Switzerland,32097481]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Govdirectory,108109790]]"
+  - "[[_Standards/WikiData/WD~La_Punt_Chamues_ch,65637|WD~La_Punt_Chamues_ch,65637]]"
+  - "[[_Standards/WikiData/WD~Tinizong_Rona,65640|WD~Tinizong_Rona,65640]]"
+  - "[[_Standards/WikiData/WD~Madulain,66638|WD~Madulain,66638]]"
+  - "[[_Standards/WikiData/WD~Bergün_Bravuogn,68319|WD~Bergün_Bravuogn,68319]]"
+  - "[[_Standards/WikiData/WD~Samedan,69085|WD~Samedan,69085]]"
+  - "[[_Standards/WikiData/WD~Sur,29840|WD~Sur,29840]]"
+  - "[[_Standards/WikiData/WD~Marmorera,65112|WD~Marmorera,65112]]"
+instance_of: "[[_Standards/WikiData/WD~Municipality_of_Switzerland,70208|WD~Municipality_of_Switzerland,70208]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Bever,_Switzerland,8906088|WD~Category_Bever,_Switzerland,8906088]]"
+heritage_designation: "[[_Standards/WikiData/WD~Swiss_townscape_worthy_of_protection,12127133|WD~Swiss_townscape_worthy_of_protection,12127133]]"
+list_of_monuments: "[[_Standards/WikiData/WD~list_of_cultural_properties_in_Bever,14913219|WD~list_of_cultural_properties_in_Bever,14913219]]"
+member_of: "[[_Standards/WikiData/WD~SGV_ACS,21122037|WD~SGV_ACS,21122037]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Maloja_Region,23732284|WD~Maloja_Region,23732284]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Category_Births_in_Bever,_Switzerland,32097481|WD~Category_Births_in_Bever,_Switzerland,32097481]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Govdirectory,108109790|WD~Govdirectory,108109790]]"
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Inn,14369]]"
-country: "[[_Standards/WikiData/WD~Switzerland,39]]"
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Inn,14369|WD~Inn,14369]]"
+country: "[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
 population: 616
 elevation_above_sea_level:
   - 1708

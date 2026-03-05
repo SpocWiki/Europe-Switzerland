@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 29620
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 6.9
 dv_has_place_latitude: 46.45
 dv_has_name: Clarens
-dv_Country: "[[../../../../../../Switzerland]]"
+dv_Country: "[[../../../../../../Switzerland|Switzerland]]"
 ---
 
 # [[Clarens,Switzerland]] 

@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 34466
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 6.08
 dv_has_place_latitude: 46.15
 dv_has_name: St.Julien
-dv_Country: "[[../../../../../Europe~West/France]]"
+dv_Country: "[[../../../../../Europe~West/France|France]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
