@@ -118,7 +118,7 @@ NUTS_code: CH061
 # [[Lucerne,Canton]] 
 
 
-#is_/same_as :: [[WD~Canton_of_Lucerne,12121]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Canton_of_Lucerne,12121]] 
 
 ## #has_/map  
 

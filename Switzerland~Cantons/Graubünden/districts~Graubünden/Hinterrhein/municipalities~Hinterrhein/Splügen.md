@@ -77,7 +77,7 @@ Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-#is_/same_as :: [[WD~Splügen,64195]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Splügen,64195]] 
 
 ## #has_/map  
 

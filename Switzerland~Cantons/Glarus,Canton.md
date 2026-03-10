@@ -148,7 +148,7 @@ coordinate_location: Point(9.066666666 46.983333333)
 
 # [[Glarus,Canton]] 
 
-#is_/same_as :: [[WD~Canton_of_Glarus,11922]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Canton_of_Glarus,11922]] 
 
 ## #has_/map  
 

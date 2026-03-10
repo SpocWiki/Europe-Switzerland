@@ -161,7 +161,7 @@ inception: 1496-01-01T00:00:00Z
 # [[Graubünden]]
 
 
-#is_/same_as :: [[WD~Grisons,11925]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Grisons,11925]] 
 
 ## #has_/map  
 

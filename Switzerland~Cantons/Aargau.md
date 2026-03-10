@@ -28,7 +28,7 @@ expiryDate: ''
 
 # [[Aargau]]
 
-#is_/same_as :: [[WD~,]] 
+#is_/same_as :: [[_Standards/WikiData/WD~,]] 
 
 ## #has_/map 
 

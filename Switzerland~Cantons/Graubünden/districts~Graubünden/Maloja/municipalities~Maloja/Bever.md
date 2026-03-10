@@ -79,7 +79,7 @@ Country = `=this.dv_Country`
 [Population::] 
 
 
-#is_/same_as :: [[WD~Bever,69121]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Bever,69121]] 
 
 ## #has_/map  
 

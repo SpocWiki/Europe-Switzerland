@@ -133,7 +133,7 @@ ISNI: "0000000109440916"
 
 # [[Schaffhausen,Canton]]
 
-#is_/same_as :: [[WD~Canton_of_Schaffhausen,12697]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Canton_of_Schaffhausen,12697]] 
 
 ## #has_/map  
 

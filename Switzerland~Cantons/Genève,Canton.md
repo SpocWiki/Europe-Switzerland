@@ -71,7 +71,7 @@ has_name_en_ = `=this.dv_has_name_en_`
 has_name_de_ = `=this.dv_has_name_de_` 
 has_name_fr_ = `=this.dv_has_name_fr_` 
 
-#is_/same_as :: [[WD~Canton_of_Geneva,11917]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Canton_of_Geneva,11917]] 
 
 
 ## #has_/map  

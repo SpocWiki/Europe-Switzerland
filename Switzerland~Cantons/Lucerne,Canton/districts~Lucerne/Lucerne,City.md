@@ -177,7 +177,7 @@ Country = `=this.dv_Country`
 [Population::] 
 
 
-#is_/same_as :: [[WD~Lucerne,4191]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Lucerne,4191]] 
 
 ## #has_/map  
 

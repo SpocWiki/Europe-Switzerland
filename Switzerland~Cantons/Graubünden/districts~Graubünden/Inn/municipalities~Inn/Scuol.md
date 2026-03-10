@@ -89,7 +89,7 @@ Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-#is_/same_as :: [[WD~Scuol,69079]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Scuol,69079]] 
 
 ## #has_/map  
 
