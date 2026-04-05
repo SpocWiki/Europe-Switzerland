@@ -12,6 +12,9 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
+dv_is_a_:
+  - "[[../../../../../Geography/Place|Place]]"
+  - "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 aliases:
 Languages:
   - de

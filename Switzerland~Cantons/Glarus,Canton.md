@@ -144,6 +144,9 @@ short_name:
   - Glarus
 native_label: Kanton Glarus
 coordinate_location: Point(9.066666666 46.983333333)
+dv_is_a_:
+  - "[[../../../../../Geography/Place|Place]]"
+  - "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 ---
 
 # [[Glarus,Canton]] 

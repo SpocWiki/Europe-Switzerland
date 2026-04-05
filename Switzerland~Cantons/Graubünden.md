@@ -156,6 +156,9 @@ relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Reliefka
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/CHE%20Graub%C3%BCnden%20Flag.svg
 official_website: https://www.gr.ch/
 inception: 1496-01-01T00:00:00Z
+dv_is_a_:
+  - "[[../../../../../Geography/Place|Place]]"
+  - "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 ---
 
 # [[Graubünden]]

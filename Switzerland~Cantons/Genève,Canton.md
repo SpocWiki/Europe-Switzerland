@@ -38,7 +38,9 @@ keywords: ""
 layout: ""
 publishDate: ""
 expiryDate: ""
-dv_is_a_: "[[../../../../../Geography/Place|Place]]"
+dv_is_a_:
+  - "[[../../../../../Geography/Place|Place]]"
+  - "[[../../../../../Geography/Place/Administrative_Area/State|State]]"
 dv_has_place_longitude: 6.15
 dv_has_place_latitude: 46.18
 dv_has_name: Genf=Geneva
