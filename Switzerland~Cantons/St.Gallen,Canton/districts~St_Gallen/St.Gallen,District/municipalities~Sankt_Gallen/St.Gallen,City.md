@@ -121,7 +121,7 @@ native_label: Sogn Gagl
 
 # [[St.Gallen,City]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~St._Gallen,25607]] 
+#is_/same_as :: [[_Standards/WikiData/WD~St._Gallen,25607|WD~St._Gallen,25607]] 
 
 ## #has_/text_of_/abstract  
 

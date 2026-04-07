@@ -32,7 +32,7 @@ expiryDate: ''
 # [[Obwalden]] 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~,]] 
+#is_/same_as :: [[_Standards/WikiData/WD~,|WD~,]] 
 
 ## #has_/map  
 

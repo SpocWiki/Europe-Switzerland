@@ -109,7 +109,7 @@ Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~# Neuchâtel,69345]]  
+#is_/same_as :: [[_Standards/WikiData/WD~# Neuchâtel,69345|WD~]]  
 
 ## #has_/map  
 

@@ -109,7 +109,7 @@ Country = `=this.dv_Country`
 [Population::] 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Glarus,63912]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Glarus,63912|WD~Glarus,63912]] 
 
 ## #has_/map  
 

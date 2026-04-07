@@ -66,7 +66,7 @@ Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~La_Brévine,68838]] 
+#is_/same_as :: [[_Standards/WikiData/WD~La_Brévine,68838|WD~La_Brévine,68838]] 
 
 ## #has_/map  
 

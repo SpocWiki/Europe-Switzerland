@@ -33,7 +33,7 @@ has_id_wikidata: Q12079
 
 # [[Appenzell_Ausserrhoden]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Appenzell_Ausserrhoden,12079]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Appenzell_Ausserrhoden,12079|WD~Appenzell_Ausserrhoden,12079]] 
 
 ## #has_/map  
 

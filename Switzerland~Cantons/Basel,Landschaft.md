@@ -37,7 +37,7 @@ dv_is_different_from: "[[Basel,Canton]]"
 
 is_different_from = `=this.dv_is_different_from`
 
-#is_/same_as :: [[_Standards/WikiData/WD~,]] 
+#is_/same_as :: [[_Standards/WikiData/WD~,|WD~,]] 
 
 ## #has_/map  
 

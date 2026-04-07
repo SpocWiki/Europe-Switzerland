@@ -29,7 +29,7 @@ State ::
 Country :: [[Switzerland]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Canton_of_St._Gallen,12746]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Canton_of_St._Gallen,12746|WD~Canton_of_St._Gallen,12746]] 
 
 ## #has_/map 
 

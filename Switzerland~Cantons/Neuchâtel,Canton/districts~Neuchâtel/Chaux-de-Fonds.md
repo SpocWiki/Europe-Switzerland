@@ -61,7 +61,7 @@ Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~,]] 
+#is_/same_as :: [[_Standards/WikiData/WD~,|WD~,]] 
 
 ## #has_/map  
 

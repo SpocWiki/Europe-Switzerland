@@ -164,7 +164,7 @@ dv_is_a_:
 # [[Graubünden]]
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Grisons,11925]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Grisons,11925|WD~Grisons,11925]] 
 
 ## #has_/map  
 

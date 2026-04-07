@@ -151,7 +151,7 @@ dv_is_a_:
 
 # [[Glarus,Canton]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Canton_of_Glarus,11922]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Canton_of_Glarus,11922|WD~Canton_of_Glarus,11922]] 
 
 ## #has_/map  
 

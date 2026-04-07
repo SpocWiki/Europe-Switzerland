@@ -125,7 +125,7 @@ ISNI: "0000000122380778"
 # [[Neuchâtel,Canton]] 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Canton_of_Neuchâtel,12738]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Canton_of_Neuchâtel,12738|WD~Canton_of_Neuchâtel,12738]] 
 
 ## #has_/map  
 

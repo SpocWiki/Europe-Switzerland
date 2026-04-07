@@ -220,7 +220,7 @@ social_media_followers: 12733
 # [[Bern,Canton]]
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~,]] 
+#is_/same_as :: [[_Standards/WikiData/WD~,|WD~,]] 
 
 ## #has_/map  
 
