@@ -38,22 +38,22 @@ coordinates: [[Zug]]
 markerFile: [[Zug]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Zug|Zug]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/municipalities~Zug/Zug-municipality/Zug|Zug]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.public|Zug.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/municipalities~Zug/Zug-municipality/Zug.public|Zug.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.internal|Zug.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/municipalities~Zug/Zug-municipality/Zug.internal|Zug.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.protect|Zug.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/municipalities~Zug/Zug-municipality/Zug.protect|Zug.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.private|Zug.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/municipalities~Zug/Zug-municipality/Zug.private|Zug.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.personal|Zug.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/municipalities~Zug/Zug-municipality/Zug.personal|Zug.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/districts~Zug/Zug-district/municipalities~Zug/Zug-municipality/Zug.secret|Zug.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zug,Canton/municipalities~Zug/Zug-municipality/Zug.secret|Zug.secret]] 
 

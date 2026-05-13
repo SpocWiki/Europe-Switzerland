@@ -43,22 +43,22 @@ geojsonFolder: ./Lohn,Schaffhausen//
 markerFolder: ./Lohn,Schaffhausen/
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Lohn,Schaffhausen|Lohn]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Reiat/municipalities~Reiat/Lohn,Schaffhausen|Lohn,Schaffhausen]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Lohn.public|Lohn.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Reiat/municipalities~Reiat/Lohn,Schaffhausen.public|Lohn,Schaffhausen.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Lohn.internal|Lohn.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Reiat/municipalities~Reiat/Lohn,Schaffhausen.internal|Lohn,Schaffhausen.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Lohn.protect|Lohn.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Reiat/municipalities~Reiat/Lohn,Schaffhausen.protect|Lohn,Schaffhausen.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Lohn.private|Lohn.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Reiat/municipalities~Reiat/Lohn,Schaffhausen.private|Lohn,Schaffhausen.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Lohn.personal|Lohn.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Reiat/municipalities~Reiat/Lohn,Schaffhausen.personal|Lohn,Schaffhausen.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Lohn.secret|Lohn.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Reiat/municipalities~Reiat/Lohn,Schaffhausen.secret|Lohn,Schaffhausen.secret]] 
 

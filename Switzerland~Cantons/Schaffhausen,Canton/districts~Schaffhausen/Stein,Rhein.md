@@ -43,22 +43,22 @@ geojsonFolder: ./Stein,Rhein//
 markerFolder: ./Stein,Rhein/
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Stein,Rhein|Stein,Rhein]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Stein,Rhein|Stein,Rhein]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.public|Stein~Rhein.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Stein,Rhein.public|Stein,Rhein.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.internal|Stein~Rhein.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Stein,Rhein.internal|Stein,Rhein.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.protect|Stein~Rhein.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Stein,Rhein.protect|Stein,Rhein.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.private|Stein~Rhein.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Stein,Rhein.private|Stein,Rhein.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.personal|Stein~Rhein.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Stein,Rhein.personal|Stein,Rhein.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/City/Stein~Rhein.secret|Stein~Rhein.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Stein,Rhein.secret|Stein,Rhein.secret]] 
 

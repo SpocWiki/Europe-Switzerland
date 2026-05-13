@@ -41,22 +41,22 @@ coordinates: [[Boettstein]]
 markerFile: [[Boettstein]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Böttstein|Boettstein]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/districts~Aargau/Zurzach/municipalities~Zurzach/Böttstein|Böttstein]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.public|Boettstein.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/districts~Aargau/Zurzach/municipalities~Zurzach/Böttstein.public|Böttstein.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.internal|Boettstein.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/districts~Aargau/Zurzach/municipalities~Zurzach/Böttstein.internal|Böttstein.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.protect|Boettstein.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/districts~Aargau/Zurzach/municipalities~Zurzach/Böttstein.protect|Böttstein.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.private|Boettstein.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/districts~Aargau/Zurzach/municipalities~Zurzach/Böttstein.private|Böttstein.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.personal|Boettstein.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/districts~Aargau/Zurzach/municipalities~Zurzach/Böttstein.personal|Böttstein.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/City/Boettstein.secret|Boettstein.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Aargau/districts~Aargau/Zurzach/municipalities~Zurzach/Böttstein.secret|Böttstein.secret]] 
 

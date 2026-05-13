@@ -38,22 +38,22 @@ coordinates: [[Scarl=S-charl]]
 markerFile: [[Scarl=S-charl]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Scarl=S-charl|Scarl=S-charl]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scarl=S-charl|Scarl=S-charl]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.public|Scarl=S-charl.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scarl=S-charl.public|Scarl=S-charl.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.internal|Scarl=S-charl.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scarl=S-charl.internal|Scarl=S-charl.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.protect|Scarl=S-charl.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scarl=S-charl.protect|Scarl=S-charl.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.private|Scarl=S-charl.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scarl=S-charl.private|Scarl=S-charl.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.personal|Scarl=S-charl.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scarl=S-charl.personal|Scarl=S-charl.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scarl=S-charl.secret|Scarl=S-charl.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scarl=S-charl.secret|Scarl=S-charl.secret]] 
 

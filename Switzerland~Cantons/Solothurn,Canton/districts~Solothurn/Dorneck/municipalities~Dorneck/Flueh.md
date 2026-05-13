@@ -38,22 +38,22 @@ coordinates: [[Flueh]]
 markerFile: [[Flueh]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Flueh|Flueh]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Dorneck/municipalities~Dorneck/Flueh|Flueh]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.public|Flueh.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Dorneck/municipalities~Dorneck/Flueh.public|Flueh.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.internal|Flueh.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Dorneck/municipalities~Dorneck/Flueh.internal|Flueh.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.protect|Flueh.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Dorneck/municipalities~Dorneck/Flueh.protect|Flueh.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.private|Flueh.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Dorneck/municipalities~Dorneck/Flueh.private|Flueh.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.personal|Flueh.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Dorneck/municipalities~Dorneck/Flueh.personal|Flueh.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Flueh.secret|Flueh.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Dorneck/municipalities~Dorneck/Flueh.secret|Flueh.secret]] 
 

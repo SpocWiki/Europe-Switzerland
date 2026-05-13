@@ -38,22 +38,22 @@ coordinates: [[Sils-Maria]]
 markerFile: [[Sils-Maria]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Sils-Maria|Sils-Maria]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Maloja/municipalities~Maloja/Sils-Maria|Sils-Maria]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Sils-Maria.public|Sils-Maria.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Maloja/municipalities~Maloja/Sils-Maria.public|Sils-Maria.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Sils-Maria.internal|Sils-Maria.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Maloja/municipalities~Maloja/Sils-Maria.internal|Sils-Maria.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Sils-Maria.protect|Sils-Maria.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Maloja/municipalities~Maloja/Sils-Maria.protect|Sils-Maria.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Sils-Maria.private|Sils-Maria.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Maloja/municipalities~Maloja/Sils-Maria.private|Sils-Maria.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Sils-Maria.personal|Sils-Maria.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Maloja/municipalities~Maloja/Sils-Maria.personal|Sils-Maria.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Sils-Maria.secret|Sils-Maria.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Maloja/municipalities~Maloja/Sils-Maria.secret|Sils-Maria.secret]] 
 

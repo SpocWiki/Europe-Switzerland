@@ -54,7 +54,7 @@ geojsonFolder: ./Basel,Canton/
 markerFolder: ./Basel,Canton/
 markerFile: [[Basel,Canton]] 
 coordinates: [[Basel,Canton]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

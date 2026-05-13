@@ -39,22 +39,22 @@ coordinates: [[Mont_Soleil]]
 markerFile: [[Mont_Soleil]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Mont_Soleil|Mont_Soleil]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Courtelary/municipalities~Courtelary/Mont_Soleil|Mont_Soleil]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.public|Mont_Soleil.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Courtelary/municipalities~Courtelary/Mont_Soleil.public|Mont_Soleil.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.internal|Mont_Soleil.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Courtelary/municipalities~Courtelary/Mont_Soleil.internal|Mont_Soleil.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.protect|Mont_Soleil.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Courtelary/municipalities~Courtelary/Mont_Soleil.protect|Mont_Soleil.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.private|Mont_Soleil.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Courtelary/municipalities~Courtelary/Mont_Soleil.private|Mont_Soleil.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.personal|Mont_Soleil.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Courtelary/municipalities~Courtelary/Mont_Soleil.personal|Mont_Soleil.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/City/Mont_Soleil.secret|Mont_Soleil.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Courtelary/municipalities~Courtelary/Mont_Soleil.secret|Mont_Soleil.secret]] 
 

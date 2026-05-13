@@ -66,21 +66,22 @@ maxZoom: 18
 > for the way the city handled and developed the public areas 
 > and connected the old city with Lake Neuchâtel.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yverdon-les-Bains)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Yverdon-les-Bains) 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Yverdon-les-Bains|Yverdon]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Jura-North_Vaudois/municipalities~Jura-North_Vaudois/Yverdon-les-Bains|Yverdon-les-Bains]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Yverdon.public|Yverdon.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Jura-North_Vaudois/municipalities~Jura-North_Vaudois/Yverdon-les-Bains.public|Yverdon-les-Bains.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Yverdon.internal|Yverdon.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Jura-North_Vaudois/municipalities~Jura-North_Vaudois/Yverdon-les-Bains.internal|Yverdon-les-Bains.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Yverdon.protect|Yverdon.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Jura-North_Vaudois/municipalities~Jura-North_Vaudois/Yverdon-les-Bains.protect|Yverdon-les-Bains.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Yverdon.private|Yverdon.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Jura-North_Vaudois/municipalities~Jura-North_Vaudois/Yverdon-les-Bains.private|Yverdon-les-Bains.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Yverdon.personal|Yverdon.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Jura-North_Vaudois/municipalities~Jura-North_Vaudois/Yverdon-les-Bains.personal|Yverdon-les-Bains.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Yverdon.secret|Yverdon.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Jura-North_Vaudois/municipalities~Jura-North_Vaudois/Yverdon-les-Bains.secret|Yverdon-les-Bains.secret]] 
 

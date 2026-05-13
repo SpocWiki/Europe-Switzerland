@@ -109,22 +109,22 @@ maxZoom: 18
 > The official language in Scuol is Romansh.  
 > On 1 January 2015 the former municipalities of Ardez, Guarda, Tarasp, Ftan and Sent merged into Scuol.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Scuol)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Scuol) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Scuol|Scuol]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scuol|Scuol]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scuol.public|Scuol.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scuol.public|Scuol.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scuol.internal|Scuol.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scuol.internal|Scuol.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scuol.protect|Scuol.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scuol.protect|Scuol.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scuol.private|Scuol.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scuol.private|Scuol.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scuol.personal|Scuol.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scuol.personal|Scuol.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Scuol.secret|Scuol.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Inn/municipalities~Inn/Scuol.secret|Scuol.secret]] 
 

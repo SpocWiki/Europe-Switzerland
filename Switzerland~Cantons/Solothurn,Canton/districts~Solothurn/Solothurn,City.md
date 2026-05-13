@@ -64,26 +64,24 @@ coordinates: [[Solothurn,City]]
 markerFile: [[Solothurn,City]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Solothurn,City|Solothurn,City]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Solothurn,City|Solothurn,City]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Solothurn,City.public|Solothurn,City.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Solothurn,City.public|Solothurn,City.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Solothurn,City.internal|Solothurn,City.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Solothurn,City.internal|Solothurn,City.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Solothurn,City.protect|Solothurn,City.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Solothurn,City.protect|Solothurn,City.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Solothurn,City.private|Solothurn,City.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Solothurn,City.private|Solothurn,City.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Solothurn,City.personal|Solothurn,City.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Solothurn,City.personal|Solothurn,City.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/City/Solothurn,City.secret|Solothurn,City.secret]] 
-
-
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Solothurn,City.secret|Solothurn,City.secret]] 
 # [[Solothurn,City]] 
 
 #is_/part_of :: [[Solothurn=Soleure]] 

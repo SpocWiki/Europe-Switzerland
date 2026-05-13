@@ -38,22 +38,22 @@ coordinates: [[Andermatt]]
 markerFile: [[Andermatt]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Andermatt|Andermatt]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Andermatt|Andermatt]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.public|Andermatt.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Andermatt.public|Andermatt.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.internal|Andermatt.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Andermatt.internal|Andermatt.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.protect|Andermatt.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Andermatt.protect|Andermatt.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.private|Andermatt.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Andermatt.private|Andermatt.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.personal|Andermatt.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Andermatt.personal|Andermatt.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Andermatt.secret|Andermatt.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Andermatt.secret|Andermatt.secret]] 
 

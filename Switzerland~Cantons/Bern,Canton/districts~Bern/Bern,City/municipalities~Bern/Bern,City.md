@@ -237,22 +237,22 @@ is_same_as = `=this.dv_is_same_as`
 > From about 5,000 inhabitants in the 15th century, 
 > the city passed the 100,000 mark in the 1920s.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bern)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bern) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Bern,City|Bern,City]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City/municipalities~Bern/Bern,City|Bern,City]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.public|Bern,City.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City/municipalities~Bern/Bern,City.public|Bern,City.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.internal|Bern,City.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City/municipalities~Bern/Bern,City.internal|Bern,City.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.protect|Bern,City.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City/municipalities~Bern/Bern,City.protect|Bern,City.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.private|Bern,City.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City/municipalities~Bern/Bern,City.private|Bern,City.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.personal|Bern,City.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City/municipalities~Bern/Bern,City.personal|Bern,City.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City.secret|Bern,City.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City/municipalities~Bern/Bern,City.secret|Bern,City.secret]] 
 

@@ -42,22 +42,22 @@ geojsonFolder: ./Schaffhausen,City//
 markerFolder: ./Schaffhausen,City/
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Schaffhausen,City|Schaffhausen]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Schaffhausen,City|Schaffhausen,City]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.public|Schaffhausen.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Schaffhausen,City.public|Schaffhausen,City.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.internal|Schaffhausen.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Schaffhausen,City.internal|Schaffhausen,City.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.protect|Schaffhausen.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Schaffhausen,City.protect|Schaffhausen,City.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.private|Schaffhausen.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Schaffhausen,City.private|Schaffhausen,City.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.personal|Schaffhausen.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Schaffhausen,City.personal|Schaffhausen,City.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen/City/Schaffhausen.secret|Schaffhausen.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton/districts~Schaffhausen/Schaffhausen,City.secret|Schaffhausen,City.secret]] 
 

@@ -48,7 +48,7 @@ geojsonFolder: ./Schwyz,Canton/
 markerFolder: ./Schwyz,Canton/
 markerFile: [[Schwyz,Canton]] 
 coordinates: [[Schwyz,Canton]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

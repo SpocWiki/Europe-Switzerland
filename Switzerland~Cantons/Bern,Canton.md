@@ -235,7 +235,7 @@ geojsonFolder: ./Bern,Canton///
 markerFolder: ./Bern,Canton/
 markerFile: [[Bern,Canton]] 
 coordinates: [[Bern,Canton]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

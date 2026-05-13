@@ -39,22 +39,22 @@ coordinates: [[Lichtensteig]]
 markerFile: [[Lichtensteig]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Lichtensteig|Lichtensteig]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Toggenburg/municipalities~Toggenburg/Lichtensteig|Lichtensteig]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Lichtensteig.public|Lichtensteig.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Toggenburg/municipalities~Toggenburg/Lichtensteig.public|Lichtensteig.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Lichtensteig.internal|Lichtensteig.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Toggenburg/municipalities~Toggenburg/Lichtensteig.internal|Lichtensteig.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Lichtensteig.protect|Lichtensteig.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Toggenburg/municipalities~Toggenburg/Lichtensteig.protect|Lichtensteig.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Lichtensteig.private|Lichtensteig.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Toggenburg/municipalities~Toggenburg/Lichtensteig.private|Lichtensteig.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Lichtensteig.personal|Lichtensteig.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Toggenburg/municipalities~Toggenburg/Lichtensteig.personal|Lichtensteig.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Lichtensteig.secret|Lichtensteig.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Toggenburg/municipalities~Toggenburg/Lichtensteig.secret|Lichtensteig.secret]] 
 

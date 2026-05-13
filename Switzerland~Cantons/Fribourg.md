@@ -47,7 +47,7 @@ geojsonFolder: ./Fribourg//
 markerFolder: ./Fribourg/
 markerFile: [[Fribourg]] 
 coordinates: [[Fribourg]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

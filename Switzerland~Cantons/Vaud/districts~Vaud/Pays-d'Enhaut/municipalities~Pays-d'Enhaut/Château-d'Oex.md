@@ -38,22 +38,22 @@ coordinates: [[Chateau-d'Oex]]
 markerFile: [[Chateau-d'Oex]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Château-d'Oex|Chateau-d'Oex]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Château-d'Oex|Château-d'Oex]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Chateau-d'Oex.public|Chateau-d'Oex.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Château-d'Oex.public|Château-d'Oex.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Chateau-d'Oex.internal|Chateau-d'Oex.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Château-d'Oex.internal|Château-d'Oex.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Chateau-d'Oex.protect|Chateau-d'Oex.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Château-d'Oex.protect|Château-d'Oex.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Chateau-d'Oex.private|Chateau-d'Oex.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Château-d'Oex.private|Château-d'Oex.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Chateau-d'Oex.personal|Chateau-d'Oex.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Château-d'Oex.personal|Château-d'Oex.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Chateau-d'Oex.secret|Chateau-d'Oex.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Château-d'Oex.secret|Château-d'Oex.secret]] 
 

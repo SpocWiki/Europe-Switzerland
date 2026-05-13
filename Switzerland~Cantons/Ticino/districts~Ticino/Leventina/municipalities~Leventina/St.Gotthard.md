@@ -38,22 +38,22 @@ coordinates: [[St.Gotthard]]
 markerFile: [[St.Gotthard]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[St.Gotthard|St.Gotthard]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Leventina/municipalities~Leventina/St.Gotthard|St.Gotthard]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.public|St.Gotthard.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Leventina/municipalities~Leventina/St.Gotthard.public|St.Gotthard.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.internal|St.Gotthard.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Leventina/municipalities~Leventina/St.Gotthard.internal|St.Gotthard.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.protect|St.Gotthard.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Leventina/municipalities~Leventina/St.Gotthard.protect|St.Gotthard.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.private|St.Gotthard.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Leventina/municipalities~Leventina/St.Gotthard.private|St.Gotthard.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.personal|St.Gotthard.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Leventina/municipalities~Leventina/St.Gotthard.personal|St.Gotthard.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/St.Gotthard.secret|St.Gotthard.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Leventina/municipalities~Leventina/St.Gotthard.secret|St.Gotthard.secret]] 
 

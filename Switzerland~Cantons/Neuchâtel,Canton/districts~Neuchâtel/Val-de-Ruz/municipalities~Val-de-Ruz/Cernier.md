@@ -38,22 +38,22 @@ coordinates: [[Cernier]]
 markerFile: [[Cernier]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Cernier|Cernier]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Val-de-Ruz/municipalities~Val-de-Ruz/Cernier|Cernier]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.public|Cernier.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Val-de-Ruz/municipalities~Val-de-Ruz/Cernier.public|Cernier.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.internal|Cernier.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Val-de-Ruz/municipalities~Val-de-Ruz/Cernier.internal|Cernier.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.protect|Cernier.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Val-de-Ruz/municipalities~Val-de-Ruz/Cernier.protect|Cernier.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.private|Cernier.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Val-de-Ruz/municipalities~Val-de-Ruz/Cernier.private|Cernier.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.personal|Cernier.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Val-de-Ruz/municipalities~Val-de-Ruz/Cernier.personal|Cernier.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Cernier.secret|Cernier.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Val-de-Ruz/municipalities~Val-de-Ruz/Cernier.secret|Cernier.secret]] 
 

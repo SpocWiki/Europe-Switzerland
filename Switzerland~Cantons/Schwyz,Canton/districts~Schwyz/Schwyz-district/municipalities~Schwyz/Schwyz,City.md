@@ -45,22 +45,22 @@ coordinates: [[Schwyz,City]]
 markerFile: [[Schwyz,City]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Schwyz,City|Schwyz,City]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City|Schwyz,City]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.public|Schwyz,City.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City.public|Schwyz,City.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.internal|Schwyz,City.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City.internal|Schwyz,City.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.protect|Schwyz,City.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City.protect|Schwyz,City.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.private|Schwyz,City.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City.private|Schwyz,City.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.personal|Schwyz,City.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City.personal|Schwyz,City.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz-municipality/Schwyz,City.secret|Schwyz,City.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City.secret|Schwyz,City.secret]] 
 

@@ -161,7 +161,7 @@ coordinates: [[Schaffhausen,Canton]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Schaffhausen,Canton|Schaffhausen,Canton]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton|Schaffhausen,Canton]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schaffhausen,Canton.public|Schaffhausen,Canton.public]] 
 

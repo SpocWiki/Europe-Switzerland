@@ -41,22 +41,22 @@ coordinates: [[Ragaz]]
 markerFile: [[Ragaz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Ragaz,Bad|Ragaz]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Ragaz,Bad|Ragaz,Bad]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Ragaz.public|Ragaz.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Ragaz,Bad.public|Ragaz,Bad.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Ragaz.internal|Ragaz.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Ragaz,Bad.internal|Ragaz,Bad.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Ragaz.protect|Ragaz.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Ragaz,Bad.protect|Ragaz,Bad.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Ragaz.private|Ragaz.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Ragaz,Bad.private|Ragaz,Bad.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Ragaz.personal|Ragaz.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Ragaz,Bad.personal|Ragaz,Bad.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Ragaz.secret|Ragaz.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Ragaz,Bad.secret|Ragaz,Bad.secret]] 
 

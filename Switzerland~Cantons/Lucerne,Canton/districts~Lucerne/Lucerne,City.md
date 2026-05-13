@@ -215,12 +215,12 @@ maxZoom: 18
 > but the main spoken language is the local variant of the Alemannic Swiss German dialect, 
 > Lucerne German.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lucerne)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lucerne) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[../City/Lucerne,City|Lucerne,City]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/districts~Lucerne/Lucerne,City|Lucerne,City]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/districts~Lucerne/Lucerne,City.public|Lucerne,City.public]] 
 
@@ -233,8 +233,6 @@ maxZoom: 18
 ### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/districts~Lucerne/Lucerne,City.personal|Lucerne,City.personal]] 
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Lucerne,Canton/districts~Lucerne/Lucerne,City.secret|Lucerne,City.secret]] 
-
-
 # [[Lucerne,City]] 
 
 #is_/part_of :: [[Lucerne,City]] 

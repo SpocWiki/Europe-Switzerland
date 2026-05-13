@@ -143,17 +143,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Neuchâtel,City|Neuchâtel,City]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City|Neuchâtel,City]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Neuchâtel,City.public|Neuchâtel,City.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City.public|Neuchâtel,City.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Neuchâtel,City.internal|Neuchâtel,City.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City.internal|Neuchâtel,City.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Neuchâtel,City.protect|Neuchâtel,City.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City.protect|Neuchâtel,City.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Neuchâtel,City.private|Neuchâtel,City.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City.private|Neuchâtel,City.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Neuchâtel,City.personal|Neuchâtel,City.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City.personal|Neuchâtel,City.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Neuchâtel,City.secret|Neuchâtel,City.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City.secret|Neuchâtel,City.secret]] 
 

@@ -56,19 +56,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Clarens,%20Switzerland) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Clarens,Switzerland|Clarens]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Clarens,Switzerland|Clarens,Switzerland]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Clarens.public|Clarens.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Clarens,Switzerland.public|Clarens,Switzerland.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Clarens.internal|Clarens.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Clarens,Switzerland.internal|Clarens,Switzerland.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Clarens.protect|Clarens.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Clarens,Switzerland.protect|Clarens,Switzerland.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Clarens.private|Clarens.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Clarens,Switzerland.private|Clarens,Switzerland.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Clarens.personal|Clarens.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Clarens,Switzerland.personal|Clarens,Switzerland.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Clarens.secret|Clarens.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Clarens,Switzerland.secret|Clarens,Switzerland.secret]] 
 

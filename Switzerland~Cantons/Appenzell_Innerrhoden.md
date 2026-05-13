@@ -46,7 +46,7 @@ geojsonFolder: ./Appenzell_Innerrhoden//
 markerFolder: ./Appenzell_Innerrhoden/
 markerFile: [[Appenzell_Innerrhoden]] 
 coordinates: [[Appenzell_Innerrhoden]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -42,22 +42,22 @@ coordinates: [[Pfaefers]]
 markerFile: [[Pfaefers]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Pfäfers|Pfaefers]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Pfäfers|Pfäfers]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Pfaefers.public|Pfaefers.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Pfäfers.public|Pfäfers.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Pfaefers.internal|Pfaefers.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Pfäfers.internal|Pfäfers.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Pfaefers.protect|Pfaefers.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Pfäfers.protect|Pfäfers.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Pfaefers.private|Pfaefers.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Pfäfers.private|Pfäfers.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Pfaefers.personal|Pfaefers.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Pfäfers.personal|Pfäfers.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/Pfaefers.secret|Pfaefers.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/Sarganserland/municipalities~Sarganserland/Pfäfers.secret|Pfäfers.secret]] 
 

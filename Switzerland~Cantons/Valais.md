@@ -43,7 +43,7 @@ geojsonFolder: ./Valais//
 markerFolder: ./Valais/
 markerFile: [[Valais]] 
 coordinates: [[Valais]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

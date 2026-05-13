@@ -38,22 +38,22 @@ coordinates: [[Marsens]]
 markerFile: [[Marsens]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Marsens|Marsens]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Gruyère/municipalities~La_Gruyère/Marsens|Marsens]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.public|Marsens.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Gruyère/municipalities~La_Gruyère/Marsens.public|Marsens.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.internal|Marsens.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Gruyère/municipalities~La_Gruyère/Marsens.internal|Marsens.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.protect|Marsens.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Gruyère/municipalities~La_Gruyère/Marsens.protect|Marsens.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.private|Marsens.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Gruyère/municipalities~La_Gruyère/Marsens.private|Marsens.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.personal|Marsens.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Gruyère/municipalities~La_Gruyère/Marsens.personal|Marsens.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Marsens.secret|Marsens.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Gruyère/municipalities~La_Gruyère/Marsens.secret|Marsens.secret]] 
 

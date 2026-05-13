@@ -38,22 +38,22 @@ coordinates: [[St.Julien]]
 markerFile: [[St.Julien]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[St.Julien|St.Julien]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/municipalities~Genève/St.Julien|St.Julien]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/City/St.Julien.public|St.Julien.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/municipalities~Genève/St.Julien.public|St.Julien.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/City/St.Julien.internal|St.Julien.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/municipalities~Genève/St.Julien.internal|St.Julien.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/City/St.Julien.protect|St.Julien.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/municipalities~Genève/St.Julien.protect|St.Julien.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/City/St.Julien.private|St.Julien.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/municipalities~Genève/St.Julien.private|St.Julien.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/City/St.Julien.personal|St.Julien.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/municipalities~Genève/St.Julien.personal|St.Julien.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/City/St.Julien.secret|St.Julien.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton/municipalities~Genève/St.Julien.secret|St.Julien.secret]] 
 

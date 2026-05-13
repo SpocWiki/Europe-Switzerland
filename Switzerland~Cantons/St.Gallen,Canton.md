@@ -48,7 +48,7 @@ geojsonFolder: ./St.Gallen,Canton//
 markerFolder: ./St.Gallen,Canton/
 markerFile: [[St.Gallen,Canton]] 
 coordinates: [[St.Gallen,Canton]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

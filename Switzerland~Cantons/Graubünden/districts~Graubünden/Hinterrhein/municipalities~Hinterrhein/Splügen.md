@@ -95,22 +95,22 @@ maxZoom: 18
 > 
 > In 1995, the Swiss Heritage Society bestowed the Wakker Prize to Splügen.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spl%C3%BCgen)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Spl%C3%BCgen) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Splügen|Splügen]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Hinterrhein/municipalities~Hinterrhein/Splügen|Splügen]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Splügen.public|Splügen.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Hinterrhein/municipalities~Hinterrhein/Splügen.public|Splügen.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Splügen.internal|Splügen.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Hinterrhein/municipalities~Hinterrhein/Splügen.internal|Splügen.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Splügen.protect|Splügen.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Hinterrhein/municipalities~Hinterrhein/Splügen.protect|Splügen.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Splügen.private|Splügen.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Hinterrhein/municipalities~Hinterrhein/Splügen.private|Splügen.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Splügen.personal|Splügen.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Hinterrhein/municipalities~Hinterrhein/Splügen.personal|Splügen.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Splügen.secret|Splügen.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Hinterrhein/municipalities~Hinterrhein/Splügen.secret|Splügen.secret]] 
 

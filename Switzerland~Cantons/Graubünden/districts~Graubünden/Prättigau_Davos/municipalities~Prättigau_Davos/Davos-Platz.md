@@ -38,22 +38,22 @@ coordinates: [[Davos-Platz]]
 markerFile: [[Davos-Platz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Davos-Platz|Davos-Platz]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Prättigau_Davos/municipalities~Prättigau_Davos/Davos-Platz|Davos-Platz]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Davos-Platz.public|Davos-Platz.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Prättigau_Davos/municipalities~Prättigau_Davos/Davos-Platz.public|Davos-Platz.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Davos-Platz.internal|Davos-Platz.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Prättigau_Davos/municipalities~Prättigau_Davos/Davos-Platz.internal|Davos-Platz.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Davos-Platz.protect|Davos-Platz.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Prättigau_Davos/municipalities~Prättigau_Davos/Davos-Platz.protect|Davos-Platz.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Davos-Platz.private|Davos-Platz.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Prättigau_Davos/municipalities~Prättigau_Davos/Davos-Platz.private|Davos-Platz.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Davos-Platz.personal|Davos-Platz.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Prättigau_Davos/municipalities~Prättigau_Davos/Davos-Platz.personal|Davos-Platz.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/City/Davos-Platz.secret|Davos-Platz.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Graubünden/districts~Graubünden/Prättigau_Davos/municipalities~Prättigau_Davos/Davos-Platz.secret|Davos-Platz.secret]] 
 

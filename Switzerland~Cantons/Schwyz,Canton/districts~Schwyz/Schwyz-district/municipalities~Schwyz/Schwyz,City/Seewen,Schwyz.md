@@ -61,19 +61,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seewen,%20Schwyz) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Seewen,Schwyz|Seewen,Schwyz]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City/Seewen,Schwyz|Seewen,Schwyz]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seewen,Schwyz.public|Seewen,Schwyz.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City/Seewen,Schwyz.public|Seewen,Schwyz.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seewen,Schwyz.internal|Seewen,Schwyz.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City/Seewen,Schwyz.internal|Seewen,Schwyz.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seewen,Schwyz.protect|Seewen,Schwyz.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City/Seewen,Schwyz.protect|Seewen,Schwyz.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seewen,Schwyz.private|Seewen,Schwyz.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City/Seewen,Schwyz.private|Seewen,Schwyz.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seewen,Schwyz.personal|Seewen,Schwyz.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City/Seewen,Schwyz.personal|Seewen,Schwyz.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/City/Seewen,Schwyz.secret|Seewen,Schwyz.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Schwyz,Canton/districts~Schwyz/Schwyz-district/municipalities~Schwyz/Schwyz,City/Seewen,Schwyz.secret|Seewen,Schwyz.secret]] 
 

@@ -71,26 +71,24 @@ coordinates: [[Chaux-de-Fonds]]
 markerFile: [[Chaux-de-Fonds]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Chaux-de-Fonds|Chaux-de-Fonds]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Chaux-de-Fonds|Chaux-de-Fonds]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.public|Chaux-de-Fonds.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Chaux-de-Fonds.public|Chaux-de-Fonds.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.internal|Chaux-de-Fonds.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Chaux-de-Fonds.internal|Chaux-de-Fonds.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.protect|Chaux-de-Fonds.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Chaux-de-Fonds.protect|Chaux-de-Fonds.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.private|Chaux-de-Fonds.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Chaux-de-Fonds.private|Chaux-de-Fonds.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.personal|Chaux-de-Fonds.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Chaux-de-Fonds.personal|Chaux-de-Fonds.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaux-de-Fonds.secret|Chaux-de-Fonds.secret]] 
-
-
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Chaux-de-Fonds.secret|Chaux-de-Fonds.secret]] 
 # [[Chaux-de-Fonds]] 
 
 #is_/part_of :: [[La_Chaux_de_Fonds]] 

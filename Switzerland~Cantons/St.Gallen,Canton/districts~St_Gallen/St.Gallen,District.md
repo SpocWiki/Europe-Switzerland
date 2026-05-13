@@ -47,22 +47,22 @@ maxZoom: 18
 > 
 > Located in northeastern Switzerland, the canton has an area of 2,026 km2 (782 sq mi) (5% of Switzerland) and a resident population close to half a million as of 2015 (6% of Switzerland). It was formed in 1803 as a conflation of the city of St. Gallen, the territories of the Abbey of St. Gall and various former subject territories of the Old Swiss Confederacy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Canton%20of%20St.%20Gallen)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Canton%20of%20St.%20Gallen) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[St.Gallen,District|St.Gallen,District]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St.Gallen,District|St.Gallen,District]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,District.public|St.Gallen,District.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St.Gallen,District.public|St.Gallen,District.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,District.internal|St.Gallen,District.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St.Gallen,District.internal|St.Gallen,District.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,District.protect|St.Gallen,District.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St.Gallen,District.protect|St.Gallen,District.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,District.private|St.Gallen,District.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St.Gallen,District.private|St.Gallen,District.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,District.personal|St.Gallen,District.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St.Gallen,District.personal|St.Gallen,District.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/City/St.Gallen,District.secret|St.Gallen,District.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St.Gallen,District.secret|St.Gallen,District.secret]] 
 

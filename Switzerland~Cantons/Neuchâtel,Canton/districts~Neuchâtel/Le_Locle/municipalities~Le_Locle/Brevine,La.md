@@ -94,17 +94,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Brevine,La|Brevine_Ia]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Le_Locle/municipalities~Le_Locle/Brevine,La|Brevine,La]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.public|Brevine_Ia.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Le_Locle/municipalities~Le_Locle/Brevine,La.public|Brevine,La.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.internal|Brevine_Ia.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Le_Locle/municipalities~Le_Locle/Brevine,La.internal|Brevine,La.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.protect|Brevine_Ia.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Le_Locle/municipalities~Le_Locle/Brevine,La.protect|Brevine,La.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.private|Brevine_Ia.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Le_Locle/municipalities~Le_Locle/Brevine,La.private|Brevine,La.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.personal|Brevine_Ia.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Le_Locle/municipalities~Le_Locle/Brevine,La.personal|Brevine,La.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Brevine_Ia.secret|Brevine_Ia.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Le_Locle/municipalities~Le_Locle/Brevine,La.secret|Brevine,La.secret]] 
 

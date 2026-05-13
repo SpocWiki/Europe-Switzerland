@@ -62,19 +62,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liestal) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Liestal,District|Liestal]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District|Liestal,District]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.public|Liestal.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District.public|Liestal,District.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.internal|Liestal.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District.internal|Liestal,District.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.protect|Liestal.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District.protect|Liestal,District.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.private|Liestal.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District.private|Liestal,District.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.personal|Liestal.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District.personal|Liestal,District.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Liestal.secret|Liestal.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District.secret|Liestal,District.secret]] 
 

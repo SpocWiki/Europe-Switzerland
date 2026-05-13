@@ -38,22 +38,22 @@ coordinates: [[Schwaebrig]]
 markerFile: [[Schwaebrig]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Schwaebrig|Schwaebrig]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/municipalities~Appenzell_Ausserrhoden/Gais/Schwaebrig|Schwaebrig]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.public|Schwaebrig.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/municipalities~Appenzell_Ausserrhoden/Gais/Schwaebrig.public|Schwaebrig.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.internal|Schwaebrig.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/municipalities~Appenzell_Ausserrhoden/Gais/Schwaebrig.internal|Schwaebrig.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.protect|Schwaebrig.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/municipalities~Appenzell_Ausserrhoden/Gais/Schwaebrig.protect|Schwaebrig.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.private|Schwaebrig.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/municipalities~Appenzell_Ausserrhoden/Gais/Schwaebrig.private|Schwaebrig.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.personal|Schwaebrig.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/municipalities~Appenzell_Ausserrhoden/Gais/Schwaebrig.personal|Schwaebrig.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/City/Schwaebrig.secret|Schwaebrig.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/municipalities~Appenzell_Ausserrhoden/Gais/Schwaebrig.secret|Schwaebrig.secret]] 
 

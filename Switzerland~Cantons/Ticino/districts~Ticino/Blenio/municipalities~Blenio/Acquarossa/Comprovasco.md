@@ -41,24 +41,22 @@ coordinates: [[Comprovasco]]
 markerFile: [[Comprovasco]] 
 defaultZoom: 11 
 maxZoom: 18
-```
-
-
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Comprovasco|Comprovasco]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Blenio/municipalities~Blenio/Acquarossa/Comprovasco|Comprovasco]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.public|Comprovasco.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Blenio/municipalities~Blenio/Acquarossa/Comprovasco.public|Comprovasco.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.internal|Comprovasco.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Blenio/municipalities~Blenio/Acquarossa/Comprovasco.internal|Comprovasco.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.protect|Comprovasco.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Blenio/municipalities~Blenio/Acquarossa/Comprovasco.protect|Comprovasco.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.private|Comprovasco.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Blenio/municipalities~Blenio/Acquarossa/Comprovasco.private|Comprovasco.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.personal|Comprovasco.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Blenio/municipalities~Blenio/Acquarossa/Comprovasco.personal|Comprovasco.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/City/Comprovasco.secret|Comprovasco.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Blenio/municipalities~Blenio/Acquarossa/Comprovasco.secret|Comprovasco.secret]] 
 

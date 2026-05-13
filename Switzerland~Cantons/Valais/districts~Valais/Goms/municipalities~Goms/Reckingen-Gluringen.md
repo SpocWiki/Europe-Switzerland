@@ -63,17 +63,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Reckingen-Gluringen|Reckingen-Gluringen]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Goms/municipalities~Goms/Reckingen-Gluringen|Reckingen-Gluringen]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Reckingen-Gluringen.public|Reckingen-Gluringen.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Goms/municipalities~Goms/Reckingen-Gluringen.public|Reckingen-Gluringen.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Reckingen-Gluringen.internal|Reckingen-Gluringen.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Goms/municipalities~Goms/Reckingen-Gluringen.internal|Reckingen-Gluringen.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Reckingen-Gluringen.protect|Reckingen-Gluringen.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Goms/municipalities~Goms/Reckingen-Gluringen.protect|Reckingen-Gluringen.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Reckingen-Gluringen.private|Reckingen-Gluringen.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Goms/municipalities~Goms/Reckingen-Gluringen.private|Reckingen-Gluringen.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Reckingen-Gluringen.personal|Reckingen-Gluringen.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Goms/municipalities~Goms/Reckingen-Gluringen.personal|Reckingen-Gluringen.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/City/Reckingen-Gluringen.secret|Reckingen-Gluringen.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Goms/municipalities~Goms/Reckingen-Gluringen.secret|Reckingen-Gluringen.secret]] 
 

@@ -47,7 +47,7 @@ geojsonFolder: ./Jura,Canton/
 markerFolder: ./Jura,Canton/
 markerFile: [[Jura,Canton]] 
 coordinates: [[Jura,Canton]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

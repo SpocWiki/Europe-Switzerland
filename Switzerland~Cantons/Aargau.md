@@ -45,7 +45,7 @@ geojsonFolder: ./Aargau//
 markerFolder: ./Aargau/
 markerFile: [[Aargau]] 
 coordinates: [[Aargau]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

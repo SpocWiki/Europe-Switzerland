@@ -42,7 +42,7 @@ coordinates: [[Leukerbad]]
 markerFile: [[Leukerbad]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -44,7 +44,7 @@ geojsonFolder: ./Thurgau//
 markerFolder: ./Thurgau/
 markerFile: [[Thurgau]] 
 coordinates: [[Thurgau]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

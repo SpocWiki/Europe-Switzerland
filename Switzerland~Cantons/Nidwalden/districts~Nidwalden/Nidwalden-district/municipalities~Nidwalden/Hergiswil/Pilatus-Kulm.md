@@ -38,22 +38,22 @@ coordinates: [[Pilatus-Kulm]]
 markerFile: [[Pilatus-Kulm]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Pilatus-Kulm|Pilatus-Kulm]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/districts~Nidwalden/Nidwalden-district/municipalities~Nidwalden/Hergiswil/Pilatus-Kulm|Pilatus-Kulm]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.public|Pilatus-Kulm.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/districts~Nidwalden/Nidwalden-district/municipalities~Nidwalden/Hergiswil/Pilatus-Kulm.public|Pilatus-Kulm.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.internal|Pilatus-Kulm.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/districts~Nidwalden/Nidwalden-district/municipalities~Nidwalden/Hergiswil/Pilatus-Kulm.internal|Pilatus-Kulm.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.protect|Pilatus-Kulm.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/districts~Nidwalden/Nidwalden-district/municipalities~Nidwalden/Hergiswil/Pilatus-Kulm.protect|Pilatus-Kulm.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.private|Pilatus-Kulm.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/districts~Nidwalden/Nidwalden-district/municipalities~Nidwalden/Hergiswil/Pilatus-Kulm.private|Pilatus-Kulm.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.personal|Pilatus-Kulm.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/districts~Nidwalden/Nidwalden-district/municipalities~Nidwalden/Hergiswil/Pilatus-Kulm.personal|Pilatus-Kulm.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/City/Pilatus-Kulm.secret|Pilatus-Kulm.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Nidwalden/districts~Nidwalden/Nidwalden-district/municipalities~Nidwalden/Hergiswil/Pilatus-Kulm.secret|Pilatus-Kulm.secret]] 
 

@@ -45,22 +45,22 @@ geojsonFolder: ./Wintersingen//
 markerFolder: ./Wintersingen/
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Wintersingen|Wintersingen]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District/municipalities~Liestal/Frenkendorf/Wintersingen|Wintersingen]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Wintersingen.public|Wintersingen.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District/municipalities~Liestal/Frenkendorf/Wintersingen.public|Wintersingen.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Wintersingen.internal|Wintersingen.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District/municipalities~Liestal/Frenkendorf/Wintersingen.internal|Wintersingen.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Wintersingen.protect|Wintersingen.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District/municipalities~Liestal/Frenkendorf/Wintersingen.protect|Wintersingen.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Wintersingen.private|Wintersingen.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District/municipalities~Liestal/Frenkendorf/Wintersingen.private|Wintersingen.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Wintersingen.personal|Wintersingen.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District/municipalities~Liestal/Frenkendorf/Wintersingen.personal|Wintersingen.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/City/Wintersingen.secret|Wintersingen.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Basel,Landschaft/districts~Basel-Landschaft/Liestal,District/municipalities~Liestal/Frenkendorf/Wintersingen.secret|Wintersingen.secret]] 
 

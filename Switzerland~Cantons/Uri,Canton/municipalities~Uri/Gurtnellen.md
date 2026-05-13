@@ -38,22 +38,22 @@ coordinates: [[Gurtnellen]]
 markerFile: [[Gurtnellen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Gurtnellen|Gurtnellen]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Gurtnellen|Gurtnellen]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.public|Gurtnellen.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Gurtnellen.public|Gurtnellen.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.internal|Gurtnellen.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Gurtnellen.internal|Gurtnellen.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.protect|Gurtnellen.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Gurtnellen.protect|Gurtnellen.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.private|Gurtnellen.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Gurtnellen.private|Gurtnellen.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.personal|Gurtnellen.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Gurtnellen.personal|Gurtnellen.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/City/Gurtnellen.secret|Gurtnellen.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Uri,Canton/municipalities~Uri/Gurtnellen.secret|Gurtnellen.secret]] 
 

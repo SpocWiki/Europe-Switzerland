@@ -91,17 +91,17 @@ is_same_as = `=this.dv_is_same_as`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Stanford,Leland|Stanford,Leland]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland|Stanford,Leland]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.public|Stanford,Leland.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.public|Stanford,Leland.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.internal|Stanford,Leland.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.internal|Stanford,Leland.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.protect|Stanford,Leland.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.protect|Stanford,Leland.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.private|Stanford,Leland.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.private|Stanford,Leland.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.personal|Stanford,Leland.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.personal|Stanford,Leland.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.secret|Stanford,Leland.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton/districts~Solothurn/Olten/municipalities~Olten/Gunzgen/Stanford,Leland.secret|Stanford,Leland.secret]] 
 

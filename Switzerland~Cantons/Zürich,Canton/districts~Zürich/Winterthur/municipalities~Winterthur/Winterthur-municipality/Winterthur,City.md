@@ -38,7 +38,7 @@ coordinates: [[Winterthur]]
 markerFile: [[Winterthur]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

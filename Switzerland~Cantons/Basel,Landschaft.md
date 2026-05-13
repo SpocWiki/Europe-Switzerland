@@ -51,7 +51,7 @@ geojsonFolder: ./Basel,Landschaft//
 markerFolder: ./Basel,Landschaft/
 markerFile: [[Basel,Landschaft]] 
 coordinates: [[Basel,Landschaft]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

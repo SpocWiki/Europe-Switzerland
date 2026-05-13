@@ -44,24 +44,22 @@ coordinates: [[Auen]]
 markerFile: [[Auen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
-
-
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Auen|Auen]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/municipalities~Glarus/Linthal/Auen|Auen]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.public|Auen.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/municipalities~Glarus/Linthal/Auen.public|Auen.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.internal|Auen.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/municipalities~Glarus/Linthal/Auen.internal|Auen.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.protect|Auen.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/municipalities~Glarus/Linthal/Auen.protect|Auen.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.private|Auen.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/municipalities~Glarus/Linthal/Auen.private|Auen.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.personal|Auen.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/municipalities~Glarus/Linthal/Auen.personal|Auen.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/City/Auen.secret|Auen.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Glarus,Canton/municipalities~Glarus/Linthal/Auen.secret|Auen.secret]] 
 

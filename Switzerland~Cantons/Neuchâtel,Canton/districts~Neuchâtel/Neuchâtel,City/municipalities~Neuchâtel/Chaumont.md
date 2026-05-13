@@ -38,22 +38,22 @@ coordinates: [[Chaumont]]
 markerFile: [[Chaumont]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Chaumont|Chaumont]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City/municipalities~Neuchâtel/Chaumont|Chaumont]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaumont.public|Chaumont.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City/municipalities~Neuchâtel/Chaumont.public|Chaumont.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaumont.internal|Chaumont.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City/municipalities~Neuchâtel/Chaumont.internal|Chaumont.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaumont.protect|Chaumont.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City/municipalities~Neuchâtel/Chaumont.protect|Chaumont.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaumont.private|Chaumont.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City/municipalities~Neuchâtel/Chaumont.private|Chaumont.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaumont.personal|Chaumont.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City/municipalities~Neuchâtel/Chaumont.personal|Chaumont.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel/City/Chaumont.secret|Chaumont.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton/districts~Neuchâtel/Neuchâtel,City/municipalities~Neuchâtel/Chaumont.secret|Chaumont.secret]] 
 

@@ -44,7 +44,7 @@ geojsonFolder: ./Vaud//
 markerFolder: ./Vaud/
 markerFile: [[Vaud]] 
 coordinates: [[Vaud]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -38,22 +38,22 @@ coordinates: [[Sarnen]]
 markerFile: [[Sarnen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Sarnen|Sarnen]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Sarnen|Sarnen]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.public|Sarnen.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Sarnen.public|Sarnen.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.internal|Sarnen.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Sarnen.internal|Sarnen.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.protect|Sarnen.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Sarnen.protect|Sarnen.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.private|Sarnen.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Sarnen.private|Sarnen.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.personal|Sarnen.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Sarnen.personal|Sarnen.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Sarnen.secret|Sarnen.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Sarnen.secret|Sarnen.secret]] 
 

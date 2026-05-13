@@ -38,22 +38,22 @@ coordinates: [[Freiburg]]
 markerFile: [[Freiburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Freiburg|Freiburg]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Sarine/municipalities~La_Sarine/Freiburg|Freiburg]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.public|Freiburg.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Sarine/municipalities~La_Sarine/Freiburg.public|Freiburg.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.internal|Freiburg.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Sarine/municipalities~La_Sarine/Freiburg.internal|Freiburg.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.protect|Freiburg.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Sarine/municipalities~La_Sarine/Freiburg.protect|Freiburg.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.private|Freiburg.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Sarine/municipalities~La_Sarine/Freiburg.private|Freiburg.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.personal|Freiburg.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Sarine/municipalities~La_Sarine/Freiburg.personal|Freiburg.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/City/Freiburg.secret|Freiburg.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Fribourg/districts~Fribourg/La_Sarine/municipalities~La_Sarine/Freiburg.secret|Freiburg.secret]] 
 

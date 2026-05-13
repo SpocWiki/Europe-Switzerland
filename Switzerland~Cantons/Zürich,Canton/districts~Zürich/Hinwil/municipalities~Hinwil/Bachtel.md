@@ -41,22 +41,22 @@ coordinates: [[Bachtel]]
 markerFile: [[Bachtel]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Bachtel|Bachtel]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Hinwil/municipalities~Hinwil/Bachtel|Bachtel]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.public|Bachtel.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Hinwil/municipalities~Hinwil/Bachtel.public|Bachtel.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.internal|Bachtel.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Hinwil/municipalities~Hinwil/Bachtel.internal|Bachtel.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.protect|Bachtel.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Hinwil/municipalities~Hinwil/Bachtel.protect|Bachtel.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.private|Bachtel.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Hinwil/municipalities~Hinwil/Bachtel.private|Bachtel.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.personal|Bachtel.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Hinwil/municipalities~Hinwil/Bachtel.personal|Bachtel.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/City/Bachtel.secret|Bachtel.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Hinwil/municipalities~Hinwil/Bachtel.secret|Bachtel.secret]] 
 

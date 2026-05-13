@@ -59,23 +59,22 @@ maxZoom: 18
 > The region includes numerous Belle Époque palaces and hotels near the shores of Lake Geneva. 
 > Montreux railway station is a stop on the Simplon Railway and is a mountain railway hub.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Montreux)  
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Montreux) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Montreux|Montreux-Clarens]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Montreux|Montreux]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.public|Montreux-Clarens.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Montreux.public|Montreux.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.internal|Montreux-Clarens.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Montreux.internal|Montreux.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.protect|Montreux-Clarens.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Montreux.protect|Montreux.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.private|Montreux-Clarens.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Montreux.private|Montreux.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.personal|Montreux-Clarens.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Montreux.personal|Montreux.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/City/Montreux-Clarens.secret|Montreux-Clarens.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Pays-d'Enhaut/municipalities~Pays-d'Enhaut/Montreux.secret|Montreux.secret]] 
 

@@ -81,7 +81,7 @@ coordinates: [[Sion]]
 markerFile: [[Sion]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
@@ -99,8 +99,6 @@ maxZoom: 18
 ### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.personal|Sion.personal]] 
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Valais/districts~Valais/Sion.secret|Sion.secret]] 
-
-
 # [[Sion]] 
 
 #is_/part_of :: [[Sion]] 

@@ -38,22 +38,22 @@ coordinates: [[Lungern]]
 markerFile: [[Lungern]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Lungern|Lungern]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Lungern|Lungern]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.public|Lungern.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Lungern.public|Lungern.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.internal|Lungern.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Lungern.internal|Lungern.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.protect|Lungern.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Lungern.protect|Lungern.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.private|Lungern.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Lungern.private|Lungern.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.personal|Lungern.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Lungern.personal|Lungern.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/City/Lungern.secret|Lungern.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Obwalden/districts~Obwalden/Obwalden-district/municipalities~Obwalden/Lungern.secret|Lungern.secret]] 
 

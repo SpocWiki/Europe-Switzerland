@@ -116,6 +116,7 @@ markerFolder: ./Genève,Canton/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Canton%20of%20Geneva) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Genève,Canton|Genève,Canton]] 

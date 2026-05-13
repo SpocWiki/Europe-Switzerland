@@ -44,12 +44,12 @@ geojsonFolder: ./Solothurn,Canton//
 markerFolder: ./Solothurn,Canton/
 markerFile: [[Solothurn,Canton]] 
 coordinates: [[Solothurn,Canton]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Solothurn,Canton|Solothurn,Canton]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton|Solothurn,Canton]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Solothurn,Canton.public|Solothurn,Canton.public]] 
 

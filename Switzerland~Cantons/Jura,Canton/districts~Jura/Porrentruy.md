@@ -38,22 +38,22 @@ coordinates: [[Porrentruy]]
 markerFile: [[Porrentruy]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Porrentruy|Porrentruy]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Porrentruy|Porrentruy]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.public|Porrentruy.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Porrentruy.public|Porrentruy.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.internal|Porrentruy.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Porrentruy.internal|Porrentruy.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.protect|Porrentruy.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Porrentruy.protect|Porrentruy.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.private|Porrentruy.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Porrentruy.private|Porrentruy.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.personal|Porrentruy.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Porrentruy.personal|Porrentruy.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/City/Porrentruy.secret|Porrentruy.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Jura,Canton/districts~Jura/Porrentruy.secret|Porrentruy.secret]] 
 

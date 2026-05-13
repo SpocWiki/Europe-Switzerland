@@ -149,9 +149,10 @@ coordinates: [[Neuchâtel,Canton]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Canton%20of%20Neuch%C3%A2tel) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Neuchâtel,Canton|Neuchâtel,Canton]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton|Neuchâtel,Canton]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Neuchâtel,Canton.public|Neuchâtel,Canton.public]] 
 

@@ -211,7 +211,7 @@ coordinates: [[Graubünden]]
 > 
 > Formerly occupied by the Rhaeti, most of the lands of the canton became part of the Roman province called Raetia, which was established in 15 BC, with Curia, a settlement dating back to the Pfyn culture, as capital city. The area later became part of the lands of the diocese of Chur. The late middle ages saw the foundation of the League of God's House, the Grey League and the League of the Ten Jurisdictions. In 1471 an alliance gave birth to the Three Leagues, and before the end of the 15th century, the latter became an ally of the Old Swiss Confederacy. In 1803 the Three Leagues finally became one of the cantons of the Confederation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Grisons)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Grisons) 
 
 
 ## Confidential Links & Embeds: 

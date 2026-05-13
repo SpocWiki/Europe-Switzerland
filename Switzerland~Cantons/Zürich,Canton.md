@@ -47,7 +47,7 @@ geojsonFolder: ./Zürich,Canton//
 markerFolder: ./Zürich,Canton/
 markerFile: [[Zürich,Canton]] 
 coordinates: [[Zürich,Canton]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

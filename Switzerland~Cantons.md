@@ -29,7 +29,7 @@ onlyIncludeSubfolders: false
 storeFolderCondition: true
 showFolderNotes: false
 disableCollapseIcon: false
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

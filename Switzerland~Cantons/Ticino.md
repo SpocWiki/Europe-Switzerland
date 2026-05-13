@@ -44,7 +44,7 @@ geojsonFolder: ./Ticino//
 markerFolder: ./Ticino/
 markerFile: [[Ticino]] 
 coordinates: [[Ticino]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

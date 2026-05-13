@@ -43,7 +43,7 @@ geojsonFolder: ./Zug,Canton//
 markerFolder: ./Zug,Canton/
 markerFile: [[Zug,Canton]] 
 coordinates: [[Zug,Canton]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

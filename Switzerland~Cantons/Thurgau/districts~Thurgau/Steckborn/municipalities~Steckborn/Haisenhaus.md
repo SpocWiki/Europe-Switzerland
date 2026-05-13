@@ -41,24 +41,22 @@ coordinates: [[Haisenhaus]]
 markerFile: [[Haisenhaus]] 
 defaultZoom: 11 
 maxZoom: 18
-```
-
-
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Haisenhaus|Haisenhaus]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/districts~Thurgau/Steckborn/municipalities~Steckborn/Haisenhaus|Haisenhaus]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.public|Haisenhaus.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/districts~Thurgau/Steckborn/municipalities~Steckborn/Haisenhaus.public|Haisenhaus.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.internal|Haisenhaus.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/districts~Thurgau/Steckborn/municipalities~Steckborn/Haisenhaus.internal|Haisenhaus.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.protect|Haisenhaus.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/districts~Thurgau/Steckborn/municipalities~Steckborn/Haisenhaus.protect|Haisenhaus.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.private|Haisenhaus.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/districts~Thurgau/Steckborn/municipalities~Steckborn/Haisenhaus.private|Haisenhaus.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.personal|Haisenhaus.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/districts~Thurgau/Steckborn/municipalities~Steckborn/Haisenhaus.personal|Haisenhaus.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/City/Haisenhaus.secret|Haisenhaus.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Thurgau/districts~Thurgau/Steckborn/municipalities~Steckborn/Haisenhaus.secret|Haisenhaus.secret]] 
 

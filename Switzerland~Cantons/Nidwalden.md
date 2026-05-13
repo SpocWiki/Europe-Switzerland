@@ -47,7 +47,7 @@ geojsonFolder: ./Nidwalden////
 markerFolder: ./Nidwalden/
 markerFile: [[Nidwalden]] 
 coordinates: [[Nidwalden]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
