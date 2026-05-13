@@ -93,13 +93,10 @@ maxZoom: 18
 
 #is_/part_of :: [[La_Chaux_de_Fonds]] 
 
-![[Chaux-de-Fonds.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Chaux-de-Fonds.svg]] 
+![[Chaux-de-Fonds.md]] 
 
 
 %%

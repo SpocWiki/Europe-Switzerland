@@ -88,13 +88,10 @@ maxZoom: 18
 
 #is_/part_of :: [[St_Moritz]] 
 
-![[St.Moritz.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[St.Moritz.svg]] 
+![[St.Moritz.md]] 
 
 
 %%

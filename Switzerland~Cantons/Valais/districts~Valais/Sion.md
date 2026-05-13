@@ -103,13 +103,10 @@ maxZoom: 18
 
 #is_/part_of :: [[Sion]] 
 
-![[Sion.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Sion.svg]] 
+![[Sion.md]] 
 
 
 %%

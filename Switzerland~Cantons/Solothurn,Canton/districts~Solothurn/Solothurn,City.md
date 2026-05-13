@@ -86,13 +86,10 @@ maxZoom: 18
 
 #is_/part_of :: [[Solothurn=Soleure]] 
 
-![[Solothurn.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Solothurn.svg]] 
+![[Solothurn.md]] 
 
 
 %%

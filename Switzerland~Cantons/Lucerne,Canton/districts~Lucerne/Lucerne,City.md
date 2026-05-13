@@ -237,13 +237,10 @@ maxZoom: 18
 
 #is_/part_of :: [[Lucerne,City]] 
 
-![[Lucerne,City.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Lucerne,City.svg]] 
+![[Lucerne,City.md]] 
 
 
 %%
