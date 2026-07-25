@@ -232,8 +232,8 @@ dv_ISO2: CH
 dv_ISO3: CHE
 dv_has_:
   image_for_:
-    flag: "[[./Switzerland/Flag_of_Switzerland.svg|Flag_of_Switzerland.svg|200]]"
-    coat_of_arms: "[[./Switzerland/Coat_of_arms_of_Switzerland.svg|Coat_of_arms_of_Switzerland.svg|150]]"
+    flag: "[[Flag_of_Switzerland.svg|Flag_of_Switzerland.svg|200]]"
+    coat_of_arms: "[[Coat_of_arms_of_Switzerland.svg|Coat_of_arms_of_Switzerland.svg|150]]"
   name_:
     ab: Швеицариа
     ace: Swiss
@@ -573,14 +573,14 @@ dv_has_:
     zh_tw: 瑞士
     zu: i-Switzerland
   sound_of_:
-    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3|Anthem-Switzerland.mp3]]"
+    anthem: "[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3|Anthem-Switzerland.mp3]]"
   time_:
     started: 1291-08-01T00:00:00.000+00:53
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Switzerland
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
+    - "[[../../../../../WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland|Switzerland]]"
     - "[[/_public/Earth/Continent/Europe/Europe~Central/Switzerland.public|Switzerland.public]]"
     - "[[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland.internal|Switzerland.internal]]"
@@ -609,9 +609,9 @@ dv_UNTERM_Chinese_Formal: 瑞士联邦
 dv_UNTERM_French_Formal: la Confédération suisse
 dv_UNTERM_Russian: Швейцария
 dv_UNTERM_Russian_Formal: Швейцарская Конфедерация
-dv_Region_Name: "[Europe](_Standards/Earth/Continent/Europe)"
-dv_Intermediate_Region_Name: "[Switzerland](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland)"
-dv_Sub-region_Name: "[Western Europe](Western%20Europe)"
+dv_Region_Name: "[Europe](../_Standards/Earth/Continent/Europe)"
+dv_Intermediate_Region_Name: "[Switzerland](../_Standards/Earth/Continent/Europe/Europe~Central/Switzerland)"
+dv_Sub-region_Name: "[Western Europe](../Western%20Europe)"
 dv_Region: 150
 dv_Sub-region: 155
 dv_Geoname-ID: 2658434
@@ -632,17 +632,17 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 756
 dv_Area-Total: 39988
 dv_Area-Land: 39550
-dv_has_place_continent: "[Europe](_Standards/Earth/Continent/Europe)"
+dv_has_place_continent: "[Europe](../_Standards/Earth/Continent/Europe)"
 dv_VehicleCode: CH
-dv_Capital: "[Bern](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern)"
+dv_Capital: "[Bern](../_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern)"
 dv_Alcohol-l: 11.1
 dv_Language-Id: 497
-dv_is_a_: "[Place](../../../Geography/Place)"
+dv_is_a_: "[Place](../../../../Geography/Place)"
 dv_has_place_longitude: 8.46058
 dv_has_place_latitude: 46.8963
 dv_has_time_started: 1291-08-01
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
+  - "[[../../../../../WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
   - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland|Switzerland]]"
   - "[[/_public/Earth/Continent/Europe/Europe~Central/Switzerland.public|Switzerland.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland.internal|Switzerland.internal]]"
@@ -651,9 +651,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland.personal|Switzerland.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret|Switzerland.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Switzerland
-dv_has_image_for_flag: "[[./Switzerland/Flag_of_Switzerland.svg|200]]"
-dv_has_image_for_coat_of_arms: "[[./Switzerland/Coat_of_arms_of_Switzerland.svg|Coat_of_arms_of_Switzerland.svg|150]]"
-dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3|Anthem-Switzerland.mp3]]"
+dv_has_image_for_flag: "[[Flag_of_Switzerland.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[Coat_of_arms_of_Switzerland.svg|Coat_of_arms_of_Switzerland.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3|Anthem-Switzerland.mp3]]"
 dv_developed_developing_countries: Developed
 anthem: "[[/_Standards/WikiData/WD~Swiss_Psalm,182536|WD~Swiss_Psalm,182536]]"
 area: 41285
@@ -775,7 +775,7 @@ demonym:
   - Švicar
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
@@ -941,7 +941,7 @@ maritime_identification_digits: 269
 marriageable_age: 18
 maximum_temperature_record: 41.5
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]"
   - "[[/_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]"
   - "[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]"
@@ -1115,7 +1115,7 @@ markerFile: [[Switzerland]]
 
 ```leaflet
 id: Switzerland_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1153,7 +1153,7 @@ is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Switzerland)
-into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository works: [[Switzerland/ReadMe|ReadMe]] 
+into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1166,32 +1166,32 @@ Numbers are of 2022-06
 
 | Canton                                                                             | Pop/k |  km² | GRDP/ GCHF | GRDPpP/kCHF | HDI   | Notable Properties                                                         |
 | ---------------------------------------------------------------------------------- | ----: | ---: | ---------: | ----------: | ----- | -------------------------------------------------------------------------- |
-| [[Switzerland/Switzerland~Cantons/Zürich,Canton\|Zürich]]                          |  1560 | 1729 |    164.495 |     104.620 | 0.994 | Financial and economic center; home to major banks and insurance companies |
-| [[Switzerland/Switzerland~Cantons/Bern,Canton\|Bern]]                              |  1034 | 5959 |     89.362 |      85.151 | 0.957 | Federal city; diverse economy with strong public administration            |
-| [[Switzerland/Switzerland~Cantons/Vaud\|Vaud]]                                     |   819 | 3212 |     64.500 |      78.021 | 0.973 | Hosts numerous multinational companies; strong in education and research   |
+| [[Switzerland~Cantons/Zürich,Canton/|Zürich]]                          |  1560 | 1729 |    164.495 |     104.620 | 0.994 | Financial and economic center; home to major banks and insurance companies |
+| [[Switzerland~Cantons/Bern,Canton/|Bern]]                              |  1034 | 5959 |     89.362 |      85.151 | 0.957 | Federal city; diverse economy with strong public administration            |
+| [[Switzerland~Cantons/Vaud/|Vaud]]                                     |   819 | 3212 |     64.500 |      78.021 | 0.973 | Hosts numerous multinational companies; strong in education and research   |
 | Geneva                                                                             |   506 |  282 |     61.231 |     119.644 | 0.973 | International organizations hub; finance and diplomacy                     |
-| [[Switzerland/Switzerland~Cantons/Aargau\|Aargau]]                                 |   700 | 1404 |     47.538 |      67.224 | 0.957 | Industrial region; energy production and engineering                       |
+| [[Switzerland~Cantons/Aargau/|Aargau]]                                 |   700 | 1404 |     47.538 |      67.224 | 0.957 | Industrial region; energy production and engineering                       |
 | St. Gallen                                                                         |   510 | 2026 |     44.589 |      85.320 | 0.949 | Textile and machinery industries; cultural heritage                        |
-| [[Switzerland/Switzerland~Cantons/Basel,Canton\|Basel]]-Stadt                      |   201 |   37 |     41.203 |     209.782 | 0.964 | Pharmaceutical industry hub; high GDP per capita                           |
-| [[Switzerland/Switzerland~Cantons/Ticino\|Ticino]]                                 |   353 | 2812 |     36.084 |     102.190 | 0.964 | Italian-speaking region; tourism and finance                               |
-| [[Switzerland/Switzerland~Cantons/Lucerne,Canton\|Lucerne]]                        |   420 | 1493 |     31.924 |      75.544 | 0.961 | Tourism and manufacturing; picturesque landscapes                          |
-| [[Switzerland/Switzerland~Cantons/Basel,Landschaft\|Basel-Landschaft]]             |   290 |  518 |     22.812 |      77.693 | 0.964 | Suburban area with strong pharmaceutical presence                          |
-| [[Switzerland/Switzerland~Cantons/Zug,Canton\|Zug]]                                |   130 |  239 |     25.176 |     192.958 | 0.961 | Low tax rates attract multinational corporations                           |
-| [[Switzerland/Switzerland~Cantons/Valais\|Valais]]                                 |   350 | 5224 |     21.807 |      61.387 | 0.949 | Alpine region; hydroelectric power and tourism                             |
-| [[Switzerland/Switzerland~Cantons/Fribourg\|Fribourg]]                             |   330 | 1671 |     21.424 |      64.502 | 0.957 | Bilingual canton; agriculture and education                                |
-| [[Switzerland/Switzerland~Cantons/Solothurn,Canton\|Solothurn]]                           |   280 |  791 |     20.763 |      73.803 | 0.957 | Industrial sector; watchmaking and precision instruments                   |
-| [[Switzerland/Switzerland~Cantons/Thurgau\|Thurgau]]                               |   280 |  991 |     20.292 |      70.504 | 0.949 | Agriculture and manufacturing; Lake Constance region                       |
-| [[Switzerland/Switzerland~Cantons/Neuchâtel,Canton\|Neuchâtel]]                           |   180 |  803 |     18.724 |     106.165 | 0.949 | Watchmaking industry; research and development                             |
-| Grisons ([[Switzerland/Switzerland~Cantons/Graubünden\|Graubünden]])               |   200 | 7105 |     16.726 |      82.817 | 0.949 | Largest canton by area; tourism and multilingualism                        |
-| [[Switzerland/Switzerland~Cantons/Schwyz,Canton\|Schwyz]]                          |   160 |  908 |     11.623 |      70.739 | 0.961 | Historical significance; finance and services                              |
-| [[Switzerland/Switzerland~Cantons/Schaffhausen,Canton\|Schaffhausen]]                     |    80 |  298 |      8.542 |     100.959 | 0.949 | Industrial base; Rhine Falls tourist attraction                            |
-| [[Switzerland/Switzerland~Cantons/Jura,Canton\|Jura]]                              |    75 |  839 |      5.799 |      78.546 | 0.949 | Youngest canton; watchmaking and agriculture                               |
-| [[Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden\|Appenzell Ausserrhoden]] |    55 |  243 |      3.749 |      67.341 | 0.949 | Textile industry; rural landscapes                                         |
-| [[Switzerland/Switzerland~Cantons/Nidwalden\|Nidwalden]]                           |    45 |  276 |      3.310 |      74.952 | 0.961 | Aerospace industry; central location                                       |
-| [[Switzerland/Switzerland~Cantons/Glarus,Canton\|Glarus]]                          |    40 |  685 |      3.118 |      75.430 | 0.949 | Historical industrialization; alpine environment                           |
-| [[Switzerland/Switzerland~Cantons/Obwalden\|Obwalden]]                             |    38 |  491 |      2.889 |      74.902 | 0.961 | Tourism and agriculture; central Switzerland                               |
-| [[Switzerland/Switzerland~Cantons/Uri,Canton\|Uri]]                                |    36 | 1076 |      2.171 |      58.392 | 0.949 | Alpine canton; Gotthard Pass and tunnel                                    |
-| [[Switzerland/Switzerland~Cantons/Appenzell_Innerrhoden\|Appenzell Innerrhoden]]   |    16 |  173 |      1.238 |      75.526 | 0.949 | Smallest population; traditional customs                                   |
+| [[Switzerland~Cantons/Basel,Canton/|Basel]]-Stadt                      |   201 |   37 |     41.203 |     209.782 | 0.964 | Pharmaceutical industry hub; high GDP per capita                           |
+| [[Switzerland~Cantons/Ticino/|Ticino]]                                 |   353 | 2812 |     36.084 |     102.190 | 0.964 | Italian-speaking region; tourism and finance                               |
+| [[Switzerland~Cantons/Lucerne,Canton/|Lucerne]]                        |   420 | 1493 |     31.924 |      75.544 | 0.961 | Tourism and manufacturing; picturesque landscapes                          |
+| [[Switzerland~Cantons/Basel,Landschaft/|Basel-Landschaft]]             |   290 |  518 |     22.812 |      77.693 | 0.964 | Suburban area with strong pharmaceutical presence                          |
+| [[Switzerland~Cantons/Zug,Canton/|Zug]]                                |   130 |  239 |     25.176 |     192.958 | 0.961 | Low tax rates attract multinational corporations                           |
+| [[Switzerland~Cantons/Valais/|Valais]]                                 |   350 | 5224 |     21.807 |      61.387 | 0.949 | Alpine region; hydroelectric power and tourism                             |
+| [[Switzerland~Cantons/Fribourg/|Fribourg]]                             |   330 | 1671 |     21.424 |      64.502 | 0.957 | Bilingual canton; agriculture and education                                |
+| [[Switzerland~Cantons/Solothurn,Canton/|Solothurn]]                           |   280 |  791 |     20.763 |      73.803 | 0.957 | Industrial sector; watchmaking and precision instruments                   |
+| [[Switzerland~Cantons/Thurgau/|Thurgau]]                               |   280 |  991 |     20.292 |      70.504 | 0.949 | Agriculture and manufacturing; Lake Constance region                       |
+| [[Switzerland~Cantons/Neuchâtel,Canton/|Neuchâtel]]                           |   180 |  803 |     18.724 |     106.165 | 0.949 | Watchmaking industry; research and development                             |
+| Grisons ([[Switzerland~Cantons/Graubünden/|Graubünden]])               |   200 | 7105 |     16.726 |      82.817 | 0.949 | Largest canton by area; tourism and multilingualism                        |
+| [[Switzerland~Cantons/Schwyz,Canton/|Schwyz]]                          |   160 |  908 |     11.623 |      70.739 | 0.961 | Historical significance; finance and services                              |
+| [[Switzerland~Cantons/Schaffhausen,Canton/|Schaffhausen]]                     |    80 |  298 |      8.542 |     100.959 | 0.949 | Industrial base; Rhine Falls tourist attraction                            |
+| [[Switzerland~Cantons/Jura,Canton/|Jura]]                              |    75 |  839 |      5.799 |      78.546 | 0.949 | Youngest canton; watchmaking and agriculture                               |
+| [[Switzerland~Cantons/Appenzell_Ausserrhoden/|Appenzell Ausserrhoden]] |    55 |  243 |      3.749 |      67.341 | 0.949 | Textile industry; rural landscapes                                         |
+| [[Switzerland~Cantons/Nidwalden/|Nidwalden]]                           |    45 |  276 |      3.310 |      74.952 | 0.961 | Aerospace industry; central location                                       |
+| [[Switzerland~Cantons/Glarus,Canton/|Glarus]]                          |    40 |  685 |      3.118 |      75.430 | 0.949 | Historical industrialization; alpine environment                           |
+| [[Switzerland~Cantons/Obwalden/|Obwalden]]                             |    38 |  491 |      2.889 |      74.902 | 0.961 | Tourism and agriculture; central Switzerland                               |
+| [[Switzerland~Cantons/Uri,Canton/|Uri]]                                |    36 | 1076 |      2.171 |      58.392 | 0.949 | Alpine canton; Gotthard Pass and tunnel                                    |
+| [[Switzerland~Cantons/Appenzell_Innerrhoden/|Appenzell Innerrhoden]]   |    16 |  173 |      1.238 |      75.526 | 0.949 | Smallest population; traditional customs                                   |
 
 
 ### #has_/image_for_/flag 
@@ -1206,15 +1206,15 @@ Population in 1000s as of @2024
 
 | City                                                                                                                              | Canton                                                                 | Pop/k |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------: |
-| [[Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City\|Zürich,City]]                                                   | [[Switzerland/Switzerland~Cantons/Zürich,Canton\|Zürich,Canton]]       |    421.878 |
-| [[Switzerland/Switzerland~Cantons/Genève,Canton/municipalities~Genève/Geneva,City\|Geneva,City]] | [[Switzerland/Switzerland~Cantons/Genève,Canton\|Genève,Canton]]       |    203.856 |
-| [[Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City\|Basel,City]]                                                      | [[Switzerland/Switzerland~Cantons/Basel,Canton\|Basel,Canton]]         |    178.120 |
-| [[Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Lausanne\|Lausanne]]                                                                  | [[Switzerland/Switzerland~Cantons/Vaud\|Vaud]]                         |    140.202 |
-| [[Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City/municipalities~Bern/Bern,City\|Bern,City]]             | [[Switzerland/Switzerland~Cantons/Bern,Canton\|Bern,Canton]]           |    134.794 |
-| [[Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Winterthur/municipalities~Winterthur/Winterthur-municipality/Winterthur,City\|Winterthur]]                                                     | [[Switzerland/Switzerland~Cantons/Zürich,Canton\|Zürich,Canton]]       |    114.220 |
-| [[Switzerland/Switzerland~Cantons/Lucerne,Canton/districts~Lucerne/Lucerne,City\|Luzern,City]]                                     | [[Switzerland/Switzerland~Cantons/Lucerne,Canton\|Lucerne]]            |     82.257 |
-| [[Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St.Gallen,District\|St.Gallen]]                                                    | [[Switzerland/Switzerland~Cantons/St.Gallen,Canton\|St.Gallen,Canton]] |     76.090 |
-| [[Switzerland/Switzerland~Cantons/Ticino/districts~Ticino/Lugano\|Lugano]]                                                                    | [[Switzerland/Switzerland~Cantons/Ticino\|Ticino]]                     |     62.615 |
+| [[Switzerland~Cantons/Zürich,Canton/districts~Zürich/Zürich-district/municipalities~Zürich/Zürich,City/|Zürich,City]]                                                   | [[Switzerland~Cantons/Zürich,Canton/|Zürich,Canton]]       |    421.878 |
+| [[Switzerland~Cantons/Genève,Canton/municipalities~Genève/Geneva,City/|Geneva,City]] | [[Switzerland~Cantons/Genève,Canton/|Genève,Canton]]       |    203.856 |
+| [[Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City/|Basel,City]]                                                      | [[Switzerland~Cantons/Basel,Canton/|Basel,Canton]]         |    178.120 |
+| [[Switzerland~Cantons/Vaud/districts~Vaud/Lausanne/|Lausanne]]                                                                  | [[Switzerland~Cantons/Vaud/|Vaud]]                         |    140.202 |
+| [[Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City/municipalities~Bern/Bern,City/|Bern,City]]             | [[Switzerland~Cantons/Bern,Canton/|Bern,Canton]]           |    134.794 |
+| [[Switzerland~Cantons/Zürich,Canton/districts~Zürich/Winterthur/municipalities~Winterthur/Winterthur-municipality/Winterthur,City/|Winterthur]]                                                     | [[Switzerland~Cantons/Zürich,Canton/|Zürich,Canton]]       |    114.220 |
+| [[Switzerland~Cantons/Lucerne,Canton/districts~Lucerne/Lucerne,City/|Luzern,City]]                                     | [[Switzerland~Cantons/Lucerne,Canton/|Lucerne]]            |     82.257 |
+| [[Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St.Gallen,District/|St.Gallen]]                                                    | [[Switzerland~Cantons/St.Gallen,Canton/|St.Gallen,Canton]] |     76.090 |
+| [[Switzerland~Cantons/Ticino/districts~Ticino/Lugano/|Lugano]]                                                                    | [[Switzerland~Cantons/Ticino/|Ticino]]                     |     62.615 |
 
 ## #has_/text_of_/abstract  
 
@@ -1229,11 +1229,11 @@ Population in 1000s as of @2024
 > which hosts its largest cities and economic centres, 
 > including Zürich, Geneva and Basel. 
 > 
-> Switzerland originates from the Old [[Swiss_Confederacy]] established in the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Middle_Ages/1300-Late_Middle-Ages|Late Middle Ages]], 
+> Switzerland originates from the Old [[Swiss_Confederacy]] established in the [[../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Middle_Ages/1300-Late_Middle-Ages|Late Middle Ages]], 
 > following a series of military successes against Austria and Burgundy; 
-> the [[../../../../../Knowledge/Military.internal/Federal_Charter_of_1291|Federal_Charter_of_1291]] is considered the country's founding document. 
+> the [[../../../../../../Knowledge/Military.internal/Federal_Charter_of_1291|Federal_Charter_of_1291]] is considered the country's founding document. 
 > 
-> Swiss independence from the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire|Holy Roman Empire]] was __formally recognized__ 
+> Swiss independence from the [[../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire|Holy Roman Empire]] was __formally recognized__ 
 > in the [[Peace_of_Westphalia]] in 1648. 
 > 
 > Switzerland has maintained a policy of __armed neutrality since the 16th century__ 
@@ -1243,11 +1243,11 @@ Population in 1000s as of @2024
 > 
 > Switzerland is the birthplace of the [[Red_Cross]] 
 > and hosts the headquarters or offices of most major international institutions, 
-> including the [[WTO]], the [[WHO]], the [[ILO]], [[../../../../Society/Agent/Community/Organization/Sports_Organization/FIFA|FIFA]], and the [[../../../_Standards/UN(United_Nations)|UN(United_Nations)]]. 
+> including the [[WTO]], the [[WHO]], the [[ILO]], [[../../../../../Society/Agent/Community/Organization/Sports_Organization/FIFA|FIFA]], and the [[../../../../_Standards/UN(United_Nations)|UN(United_Nations)]]. 
 > 
 > It is a founding member of the [[EFTA(European_Free_Trade_Association)]], 
-> but not part of the [[../EU(European_Union)|EU(European_Union)]], the European Economic Area, or the eurozone; 
-> however, it participates in the European single market and the [[../Schengen-Area|Schengen-Area]]. 
+> but not part of the [[../../EU(European_Union)|EU(European_Union)]], the European Economic Area, or the eurozone; 
+> however, it participates in the European single market and the [[../../Schengen-Area|Schengen-Area]]. 
 > 
 > Switzerland is a federal republic composed of 26 cantons, 
 > with federal authorities based in Bern. 
