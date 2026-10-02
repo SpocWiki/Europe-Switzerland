@@ -8,6 +8,10 @@ aliases:
   - Berne
   - Bern
   - Bern,City
+  - Bern City
+  - Bern Stadt
+  - Stadt Bern
+  - ""
 has_id_wikidata: Q70
 capital_of:
   - '[[_Standards/WikiData/WD~canton_of_Berne,11911|WD~canton_of_Berne,11911]]'
@@ -202,6 +206,24 @@ located_in_or_next_to_body_of_water:
 located_in_time_zone:
   - '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
   - '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+location:
+  - 46.94
+  - 7.49
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
+type: City
+tags:
+  - geo/City
+SpocWebEntityId: 29132
+isDeleted: false
+confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
+dv_has_place_longitude: 7.49
+dv_has_place_latitude: 46.94
+dv_has_name: Bern
+dv_Country: "[[../../../../Switzerland|Switzerland]]"
 ---
 # [[Bern,City]] 
 
@@ -256,3 +278,23 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City/municipalities~Bern/Bern,City.secret|Bern,City.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City.md`
+
+#is_a_/Place
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+name = `=this.dv_has_name`
+State ::
+Country = `=this.dv_Country`
+[StateId::]
+[Population::]
+
+```leaflet
+id: Bern
+coordinates: [[Bern]]
+markerFile: [[Bern]]
+defaultZoom: 11
+maxZoom: 18
+```
