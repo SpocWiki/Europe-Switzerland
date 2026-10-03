@@ -43,7 +43,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/municipalities~Appenzell_Ausserrhoden/Heiden|Heiden]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/municipalities~Appenzell_Ausserrhoden/Heiden,Switzerland|Heiden]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Cantons/Appenzell_Ausserrhoden/municipalities~Appenzell_Ausserrhoden/Heiden.public|Heiden.public]] 
 
